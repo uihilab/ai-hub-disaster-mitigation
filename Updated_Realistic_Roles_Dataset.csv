@@ -1,0 +1,1001 @@
+Role,Age,Gender,Occupation,Personality Traits,Communication Style,Interests and Hobbies,Educational Background,Cultural Background,Language Proficiency,Technology Savviness,Preferred Communication Medium,Lifestyle,Values and Beliefs,Relationship Status,Economic Status,Health and Wellness,Time Availability,Problem-solving Approach
+Role1,18,nondisclosed,Student,Extroverted,Empathetic,Video Games,High School,Middle Eastern,"English, Spanish, Mandarin",Intermediate,Voice,Sedentary,Christianity,Widowed,Low income,Health-conscious,Sporadic,Practical
+Role2,70,female,Retired,Traditional,Informal,Painting,Graduate Degree,Western,English,Novice,Mixed,Active,Environmentalism,Widowed,Low income,Average health,Sporadic,Creative
+Role3,59,nondisclosed,Retired,Traditional,Mixed,Soccer,Graduate Degree,Eastern,"English, Spanish, Mandarin",Intermediate,Voice,Active,Environmentalism,Divorced,Low income,Average health,Sporadic,Collaborative
+Role4,26,genderqueer,Engineer,Traditional,Humorous,Video Games,Graduate Degree,Eastern,English and Spanish,Novice,Video,Active,Christianity,Widowed,High income,Health-conscious,Full-time,Creative
+Role5,26,female,Student,Traditional,Informal,Video Games,Graduate Degree,Eastern,English and Spanish,Intermediate,Video,Sedentary,Christianity,In a relationship,Middle income,Health-conscious,Part-time,Practical
+Role6,79,nondisclosed,Engineer,Extroverted,Mixed,Soccer,Graduate Degree,Latin American,English,Intermediate,Mixed,Active,Environmentalism,In a relationship,High income,Average health,Part-time,Collaborative
+Role7,77,nondisclosed,Retired,Open to Experience,Humorous,Reading,Self-taught,Middle Eastern,English,Novice,Voice,Active,Environmentalism,Widowed,High income,Average health,Sporadic,Collaborative
+Role8,25,genderqueer,Unemployed,Open to Experience,Empathetic,Reading,Graduate Degree,Latin American,English and Spanish,Novice,Mixed,Sedentary,Traditional,Single,High income,Average health,Part-time,Collaborative
+Role9,52,nondisclosed,Retired,Pessimistic,Empathetic,Soccer,High School,Latin American,English,Expert,Video,Sedentary,Environmentalism,In a relationship,High income,Average health,Part-time,Creative
+Role10,44,male,Unemployed,Extroverted,Informal,Painting,High School,Latin American,"English, Spanish, Mandarin",Expert,Text,Active,Traditional,Single,High income,Average health,Full-time,Creative
+Role11,60,male,Retired,Open to Experience,Mixed,Soccer,Self-taught,Latin American,English and Spanish,Intermediate,Video,Active,Environmentalism,Single,Middle income,Health-conscious,Part-time,Practical
+Role12,28,nondisclosed,Engineer,Extroverted,Mixed,Reading,Self-taught,Eastern,English,Novice,Text,Active,Environmentalism,Widowed,Low income,Average health,Sporadic,Creative
+Role13,23,nondisclosed,Unemployed,Open to Experience,Informal,Reading,High School,Latin American,English and Spanish,Expert,Voice,Active,Environmentalism,Widowed,Low income,Health-conscious,Full-time,Practical
+Role14,69,nondisclosed,Engineer,Extroverted,Informal,Soccer,High School,Middle Eastern,English,Novice,Voice,Active,Traditional,Widowed,Middle income,Average health,Full-time,Collaborative
+Role15,18,genderqueer,Engineer,Pessimistic,Humorous,Video Games,Graduate Degree,Western,English and Spanish,Expert,Mixed,Sedentary,Christianity,Single,High income,Health-conscious,Full-time,Practical
+Role16,23,female,Unemployed,Extroverted,Mixed,Video Games,High School,Middle Eastern,"English, Spanish, Mandarin",Intermediate,Mixed,Sedentary,Christianity,Widowed,High income,Health-conscious,Sporadic,Creative
+Role17,50,nondisclosed,Retired,Extroverted,Mixed,Reading,High School,Western,"English, Spanish, Mandarin",Intermediate,Mixed,Sedentary,Environmentalism,Single,Middle income,Average health,Sporadic,Practical
+Role18,59,genderqueer,Unemployed,Traditional,Mixed,Painting,High School,Western,English,Intermediate,Text,Active,Environmentalism,Single,High income,Average health,Full-time,Collaborative
+Role19,52,genderqueer,Retired,Traditional,Empathetic,Video Games,Graduate Degree,Western,English,Expert,Text,Active,Traditional,Divorced,Middle income,Average health,Sporadic,Collaborative
+Role20,66,female,Retired,Pessimistic,Informal,Painting,Graduate Degree,Latin American,English,Novice,Mixed,Active,Environmentalism,In a relationship,Low income,Health-conscious,Sporadic,Creative
+Role21,26,nondisclosed,Student,Traditional,Mixed,Soccer,Self-taught,Eastern,"English, Spanish, Mandarin",Intermediate,Video,Active,Traditional,Single,High income,Health-conscious,Sporadic,Creative
+Role22,51,male,Engineer,Open to Experience,Mixed,Soccer,High School,Middle Eastern,English,Expert,Mixed,Active,Environmentalism,Widowed,Low income,Health-conscious,Part-time,Collaborative
+Role23,63,male,Engineer,Extroverted,Mixed,Reading,High School,Western,English,Novice,Video,Sedentary,Christianity,Widowed,Low income,Health-conscious,Sporadic,Collaborative
+Role24,38,nondisclosed,Unemployed,Open to Experience,Mixed,Soccer,Graduate Degree,Middle Eastern,English and Spanish,Expert,Video,Sedentary,Traditional,Widowed,Middle income,Health-conscious,Sporadic,Practical
+Role25,40,female,Unemployed,Extroverted,Informal,Painting,Graduate Degree,Middle Eastern,English,Novice,Voice,Active,Christianity,Single,Middle income,Average health,Part-time,Creative
+Role26,67,male,Retired,Open to Experience,Mixed,Painting,Self-taught,Middle Eastern,English,Novice,Mixed,Active,Traditional,Widowed,High income,Average health,Sporadic,Practical
+Role27,19,nondisclosed,Unemployed,Extroverted,Informal,Soccer,High School,Eastern,"English, Spanish, Mandarin",Intermediate,Text,Active,Traditional,In a relationship,Low income,Health-conscious,Part-time,Practical
+Role28,32,female,Unemployed,Traditional,Humorous,Reading,High School,Western,English,Expert,Mixed,Sedentary,Traditional,Divorced,High income,Average health,Full-time,Practical
+Role29,77,female,Engineer,Extroverted,Humorous,Video Games,Self-taught,Latin American,English and Spanish,Expert,Video,Active,Environmentalism,In a relationship,High income,Average health,Full-time,Collaborative
+Role30,18,female,Engineer,Open to Experience,Empathetic,Painting,Graduate Degree,Eastern,English,Novice,Text,Active,Environmentalism,Divorced,High income,Average health,Part-time,Collaborative
+Role31,72,genderqueer,Retired,Pessimistic,Mixed,Soccer,High School,Eastern,English,Novice,Video,Sedentary,Environmentalism,In a relationship,Middle income,Health-conscious,Full-time,Practical
+Role32,20,nondisclosed,Student,Extroverted,Mixed,Reading,Graduate Degree,Eastern,English,Expert,Video,Active,Environmentalism,Widowed,Middle income,Health-conscious,Sporadic,Practical
+Role33,75,genderqueer,Engineer,Traditional,Humorous,Video Games,High School,Middle Eastern,"English, Spanish, Mandarin",Intermediate,Text,Active,Traditional,Divorced,Low income,Average health,Full-time,Creative
+Role34,60,male,Retired,Extroverted,Humorous,Reading,Graduate Degree,Latin American,English,Novice,Mixed,Active,Traditional,Single,High income,Health-conscious,Sporadic,Creative
+Role35,77,female,Retired,Open to Experience,Informal,Painting,Graduate Degree,Eastern,English and Spanish,Expert,Text,Active,Traditional,Single,Middle income,Average health,Sporadic,Collaborative
+Role36,26,nondisclosed,Student,Open to Experience,Humorous,Reading,Graduate Degree,Middle Eastern,English,Expert,Text,Active,Traditional,Single,High income,Health-conscious,Sporadic,Practical
+Role37,65,male,Retired,Open to Experience,Empathetic,Reading,Self-taught,Middle Eastern,"English, Spanish, Mandarin",Novice,Video,Sedentary,Traditional,Widowed,Low income,Health-conscious,Full-time,Creative
+Role38,61,male,Retired,Traditional,Humorous,Reading,Self-taught,Western,English,Expert,Mixed,Sedentary,Christianity,In a relationship,High income,Health-conscious,Full-time,Collaborative
+Role39,23,nondisclosed,Student,Traditional,Empathetic,Reading,High School,Latin American,English,Expert,Text,Active,Traditional,Divorced,Middle income,Average health,Part-time,Collaborative
+Role40,23,genderqueer,Student,Extroverted,Empathetic,Painting,Self-taught,Western,English,Intermediate,Video,Sedentary,Traditional,Divorced,Middle income,Average health,Part-time,Collaborative
+Role41,67,genderqueer,Engineer,Pessimistic,Humorous,Reading,High School,Eastern,"English, Spanish, Mandarin",Novice,Text,Active,Environmentalism,Divorced,High income,Average health,Full-time,Practical
+Role42,77,genderqueer,Unemployed,Open to Experience,Mixed,Painting,Self-taught,Latin American,English and Spanish,Intermediate,Voice,Active,Christianity,Single,Low income,Health-conscious,Part-time,Practical
+Role43,57,nondisclosed,Retired,Open to Experience,Empathetic,Reading,Self-taught,Middle Eastern,"English, Spanish, Mandarin",Novice,Mixed,Sedentary,Christianity,Widowed,Low income,Average health,Full-time,Practical
+Role44,70,female,Engineer,Traditional,Humorous,Video Games,High School,Middle Eastern,"English, Spanish, Mandarin",Novice,Mixed,Sedentary,Christianity,Widowed,Low income,Health-conscious,Sporadic,Creative
+Role45,37,male,Engineer,Extroverted,Humorous,Reading,Graduate Degree,Latin American,"English, Spanish, Mandarin",Novice,Text,Active,Christianity,Widowed,High income,Average health,Sporadic,Practical
+Role46,69,nondisclosed,Retired,Pessimistic,Mixed,Video Games,High School,Western,English and Spanish,Intermediate,Mixed,Active,Traditional,Widowed,Low income,Average health,Sporadic,Practical
+Role47,19,male,Student,Open to Experience,Mixed,Reading,High School,Middle Eastern,English and Spanish,Expert,Text,Active,Christianity,Widowed,Low income,Average health,Full-time,Practical
+Role48,27,nondisclosed,Engineer,Pessimistic,Empathetic,Reading,High School,Latin American,English,Intermediate,Text,Active,Christianity,Single,High income,Average health,Part-time,Creative
+Role49,42,female,Unemployed,Extroverted,Humorous,Reading,High School,Eastern,English,Expert,Voice,Sedentary,Christianity,In a relationship,Low income,Average health,Sporadic,Collaborative
+Role50,22,genderqueer,Student,Extroverted,Humorous,Reading,High School,Eastern,English and Spanish,Expert,Text,Active,Environmentalism,In a relationship,Low income,Average health,Full-time,Collaborative
+Role51,21,female,Student,Open to Experience,Mixed,Video Games,Graduate Degree,Western,"English, Spanish, Mandarin",Expert,Video,Active,Traditional,In a relationship,High income,Average health,Part-time,Collaborative
+Role52,24,nondisclosed,Student,Pessimistic,Informal,Soccer,High School,Middle Eastern,"English, Spanish, Mandarin",Expert,Voice,Sedentary,Environmentalism,In a relationship,Middle income,Average health,Sporadic,Creative
+Role53,55,nondisclosed,Retired,Pessimistic,Informal,Painting,Graduate Degree,Eastern,English and Spanish,Expert,Voice,Sedentary,Traditional,Widowed,Low income,Health-conscious,Full-time,Creative
+Role54,77,female,Unemployed,Pessimistic,Empathetic,Reading,High School,Middle Eastern,English and Spanish,Novice,Video,Active,Environmentalism,In a relationship,Middle income,Average health,Part-time,Collaborative
+Role55,79,genderqueer,Unemployed,Traditional,Empathetic,Soccer,Self-taught,Middle Eastern,"English, Spanish, Mandarin",Expert,Mixed,Sedentary,Traditional,Widowed,Low income,Average health,Sporadic,Creative
+Role56,46,nondisclosed,Engineer,Open to Experience,Informal,Soccer,Self-taught,Middle Eastern,English,Intermediate,Mixed,Sedentary,Traditional,Single,Middle income,Average health,Full-time,Collaborative
+Role57,29,female,Engineer,Pessimistic,Humorous,Painting,Graduate Degree,Middle Eastern,"English, Spanish, Mandarin",Novice,Video,Sedentary,Environmentalism,In a relationship,High income,Health-conscious,Part-time,Creative
+Role58,23,male,Student,Pessimistic,Mixed,Reading,High School,Latin American,English,Expert,Voice,Active,Traditional,In a relationship,Middle income,Health-conscious,Sporadic,Practical
+Role59,29,female,Student,Pessimistic,Informal,Soccer,Self-taught,Latin American,"English, Spanish, Mandarin",Expert,Voice,Sedentary,Christianity,Widowed,Low income,Health-conscious,Part-time,Practical
+Role60,52,genderqueer,Unemployed,Traditional,Humorous,Soccer,High School,Western,English and Spanish,Expert,Text,Sedentary,Traditional,In a relationship,Middle income,Health-conscious,Full-time,Collaborative
+Role61,30,nondisclosed,Student,Traditional,Informal,Soccer,High School,Middle Eastern,English and Spanish,Expert,Mixed,Active,Traditional,Divorced,Low income,Health-conscious,Sporadic,Practical
+Role62,58,male,Engineer,Traditional,Informal,Video Games,Graduate Degree,Latin American,"English, Spanish, Mandarin",Novice,Video,Sedentary,Environmentalism,Single,Middle income,Average health,Part-time,Practical
+Role63,72,nondisclosed,Retired,Pessimistic,Empathetic,Painting,Graduate Degree,Eastern,"English, Spanish, Mandarin",Expert,Text,Sedentary,Christianity,Divorced,Low income,Health-conscious,Sporadic,Practical
+Role64,69,nondisclosed,Retired,Extroverted,Mixed,Soccer,Graduate Degree,Eastern,English,Intermediate,Mixed,Sedentary,Traditional,Single,Middle income,Average health,Sporadic,Practical
+Role65,68,male,Retired,Open to Experience,Informal,Painting,Graduate Degree,Western,"English, Spanish, Mandarin",Novice,Mixed,Active,Christianity,Single,Middle income,Health-conscious,Part-time,Collaborative
+Role66,79,genderqueer,Unemployed,Traditional,Humorous,Soccer,Self-taught,Middle Eastern,English and Spanish,Intermediate,Mixed,Sedentary,Christianity,In a relationship,Middle income,Average health,Part-time,Collaborative
+Role67,25,male,Student,Open to Experience,Empathetic,Soccer,Graduate Degree,Latin American,"English, Spanish, Mandarin",Intermediate,Voice,Sedentary,Traditional,Widowed,Middle income,Health-conscious,Full-time,Creative
+Role68,74,female,Retired,Extroverted,Empathetic,Reading,Graduate Degree,Western,English,Expert,Text,Active,Traditional,Divorced,Low income,Average health,Full-time,Creative
+Role69,76,female,Engineer,Pessimistic,Mixed,Reading,High School,Eastern,English,Intermediate,Mixed,Active,Traditional,Widowed,High income,Average health,Part-time,Collaborative
+Role70,40,genderqueer,Unemployed,Open to Experience,Humorous,Reading,High School,Latin American,"English, Spanish, Mandarin",Intermediate,Video,Active,Christianity,Divorced,High income,Health-conscious,Part-time,Creative
+Role71,78,genderqueer,Retired,Pessimistic,Mixed,Video Games,Self-taught,Latin American,English,Novice,Mixed,Sedentary,Christianity,Widowed,Low income,Health-conscious,Full-time,Collaborative
+Role72,78,male,Unemployed,Extroverted,Humorous,Painting,Graduate Degree,Eastern,English and Spanish,Novice,Voice,Sedentary,Traditional,In a relationship,Low income,Average health,Sporadic,Collaborative
+Role73,70,nondisclosed,Retired,Extroverted,Humorous,Video Games,High School,Middle Eastern,"English, Spanish, Mandarin",Novice,Video,Sedentary,Christianity,Divorced,Middle income,Average health,Sporadic,Collaborative
+Role74,37,genderqueer,Engineer,Pessimistic,Mixed,Painting,Graduate Degree,Western,"English, Spanish, Mandarin",Expert,Video,Sedentary,Traditional,Single,Middle income,Health-conscious,Full-time,Collaborative
+Role75,64,nondisclosed,Retired,Extroverted,Mixed,Video Games,High School,Western,English,Expert,Video,Active,Christianity,In a relationship,Low income,Health-conscious,Sporadic,Collaborative
+Role76,22,nondisclosed,Student,Pessimistic,Empathetic,Soccer,High School,Eastern,English,Novice,Video,Active,Traditional,Divorced,Low income,Average health,Sporadic,Practical
+Role77,72,genderqueer,Retired,Extroverted,Humorous,Soccer,High School,Middle Eastern,English,Intermediate,Mixed,Sedentary,Traditional,Single,High income,Average health,Full-time,Practical
+Role78,28,female,Engineer,Extroverted,Informal,Soccer,Graduate Degree,Latin American,English,Expert,Voice,Sedentary,Traditional,Widowed,Low income,Average health,Part-time,Collaborative
+Role79,24,male,Student,Open to Experience,Empathetic,Soccer,Graduate Degree,Eastern,English and Spanish,Novice,Text,Sedentary,Environmentalism,Single,Middle income,Health-conscious,Sporadic,Collaborative
+Role80,57,male,Unemployed,Open to Experience,Mixed,Reading,Graduate Degree,Latin American,"English, Spanish, Mandarin",Expert,Mixed,Active,Traditional,Single,Low income,Average health,Full-time,Practical
+Role81,33,nondisclosed,Unemployed,Pessimistic,Humorous,Painting,Self-taught,Latin American,English and Spanish,Intermediate,Video,Active,Traditional,In a relationship,High income,Average health,Full-time,Collaborative
+Role82,72,genderqueer,Unemployed,Traditional,Informal,Painting,Self-taught,Eastern,English and Spanish,Novice,Voice,Active,Traditional,Divorced,Low income,Health-conscious,Full-time,Collaborative
+Role83,72,genderqueer,Retired,Extroverted,Empathetic,Soccer,High School,Western,English and Spanish,Novice,Voice,Sedentary,Christianity,Single,High income,Health-conscious,Part-time,Creative
+Role84,49,nondisclosed,Engineer,Traditional,Mixed,Painting,Self-taught,Western,English,Intermediate,Text,Sedentary,Christianity,Widowed,Middle income,Average health,Part-time,Creative
+Role85,18,genderqueer,Student,Extroverted,Mixed,Reading,Self-taught,Western,English,Intermediate,Video,Sedentary,Environmentalism,Widowed,High income,Health-conscious,Sporadic,Practical
+Role86,20,genderqueer,Unemployed,Traditional,Mixed,Reading,High School,Eastern,English and Spanish,Novice,Video,Active,Christianity,Widowed,Middle income,Health-conscious,Full-time,Practical
+Role87,47,nondisclosed,Unemployed,Pessimistic,Empathetic,Video Games,High School,Eastern,"English, Spanish, Mandarin",Novice,Video,Active,Traditional,Single,Low income,Average health,Full-time,Practical
+Role88,39,genderqueer,Engineer,Traditional,Informal,Painting,High School,Middle Eastern,English and Spanish,Expert,Text,Active,Traditional,Widowed,Low income,Health-conscious,Full-time,Practical
+Role89,23,male,Student,Open to Experience,Informal,Painting,Self-taught,Middle Eastern,English and Spanish,Intermediate,Text,Sedentary,Christianity,In a relationship,High income,Health-conscious,Part-time,Collaborative
+Role90,74,male,Unemployed,Pessimistic,Humorous,Reading,Graduate Degree,Middle Eastern,English and Spanish,Intermediate,Video,Active,Traditional,Divorced,Low income,Average health,Full-time,Creative
+Role91,29,male,Student,Extroverted,Mixed,Soccer,High School,Latin American,"English, Spanish, Mandarin",Expert,Video,Sedentary,Christianity,Widowed,Middle income,Health-conscious,Full-time,Collaborative
+Role92,75,nondisclosed,Unemployed,Traditional,Empathetic,Soccer,Self-taught,Middle Eastern,English and Spanish,Expert,Text,Active,Environmentalism,In a relationship,Middle income,Average health,Full-time,Collaborative
+Role93,23,male,Student,Open to Experience,Humorous,Soccer,Graduate Degree,Middle Eastern,"English, Spanish, Mandarin",Expert,Voice,Sedentary,Christianity,In a relationship,Middle income,Health-conscious,Sporadic,Collaborative
+Role94,61,genderqueer,Unemployed,Open to Experience,Humorous,Reading,Graduate Degree,Middle Eastern,"English, Spanish, Mandarin",Novice,Voice,Active,Christianity,Widowed,High income,Average health,Full-time,Creative
+Role95,54,female,Retired,Pessimistic,Mixed,Reading,Graduate Degree,Middle Eastern,"English, Spanish, Mandarin",Expert,Video,Sedentary,Traditional,Divorced,Middle income,Health-conscious,Sporadic,Collaborative
+Role96,30,female,Student,Pessimistic,Informal,Soccer,Graduate Degree,Latin American,English,Expert,Text,Active,Traditional,Divorced,High income,Average health,Part-time,Creative
+Role97,47,nondisclosed,Unemployed,Extroverted,Informal,Soccer,Graduate Degree,Latin American,English,Intermediate,Voice,Active,Environmentalism,In a relationship,High income,Average health,Sporadic,Practical
+Role98,72,genderqueer,Retired,Extroverted,Empathetic,Video Games,High School,Western,English,Intermediate,Text,Active,Environmentalism,Widowed,Low income,Health-conscious,Part-time,Practical
+Role99,72,genderqueer,Engineer,Pessimistic,Informal,Soccer,Self-taught,Middle Eastern,English,Intermediate,Mixed,Sedentary,Christianity,In a relationship,Low income,Health-conscious,Full-time,Collaborative
+Role100,79,male,Retired,Open to Experience,Mixed,Video Games,Self-taught,Middle Eastern,English and Spanish,Intermediate,Text,Sedentary,Environmentalism,Single,Middle income,Average health,Sporadic,Collaborative
+Role101,57,female,Teacher,Traditional,Empathetic,Video Games,Bachelor,African,French,Expert,Video,Active,Christianity,Single,High income,Health-conscious,Full-time,Practical
+Role102,76,genderqueer,Engineer,Innovative,Direct,Reading,Graduate Degree,African,English,Intermediate,Mixed,Sedentary,Humanism,Single,Middle income,Health-conscious,Full-time,Creative
+Role103,73,genderqueer,Retired,Innovative,Direct,Painting,High School,Middle Eastern,French,Expert,Voice,Active,Islam,Single,Middle income,Healthy,Full-time,Practical
+Role104,18,nondisclosed,Engineer,Traditional,Mixed,Cooking,Bachelor,Eastern,French,Novice,Video,Active,Humanism,In a relationship,Middle income,Health-conscious,Full-time,Practical
+Role105,31,female,Doctor,Introverted,Formal,Traveling,Bachelor,Eastern,English,Novice,Video,Active,Humanism,Single,Low income,Health-conscious,Sporadic,Practical
+Role106,34,genderqueer,Doctor,Extroverted,Empathetic,Sports,Bachelor,Eastern,Spanish,Expert,Voice,Sedentary,Environmentalism,Married,Middle income,Average health,Full-time,Analytical
+Role107,52,genderqueer,Student,Extroverted,Mixed,Painting,High School,Eastern,Mandarin,Expert,Voice,Active,Islam,Married,Middle income,Health-conscious,Sporadic,Collaborative
+Role108,49,genderqueer,Student,Innovative,Formal,Sports,Graduate Degree,African,English,Expert,Voice,Active,Atheism,Married,Low income,Average health,Sporadic,Collaborative
+Role109,42,female,Artist,Extroverted,Formal,Cooking,High School,African,French,Expert,Video,Active,Environmentalism,Widowed,Low income,Average health,Part-time,Collaborative
+Role110,40,nondisclosed,Artist,Innovative,Informal,Reading,High School,Western,Mandarin,Intermediate,Text,Sedentary,Islam,Single,Middle income,Health-conscious,Sporadic,Practical
+Role111,67,female,Artist,Traditional,Formal,Sports,High School,Middle Eastern,French,Intermediate,Video,Active,Humanism,In a relationship,High income,Health-conscious,Part-time,Collaborative
+Role112,24,genderqueer,Scientist,Traditional,Humorous,Sports,High School,Middle Eastern,Mandarin,Novice,Voice,Active,Humanism,Married,Middle income,Average health,Full-time,Practical
+Role113,36,genderqueer,Scientist,Innovative,Direct,Painting,Graduate Degree,Middle Eastern,French,Intermediate,Voice,Active,Islam,Divorced,Low income,Health-conscious,Full-time,Practical
+Role114,46,female,Artist,Traditional,Informal,Sports,Bachelor,Eastern,French,Novice,Text,Sedentary,Atheism,Widowed,Middle income,Health-conscious,Sporadic,Analytical
+Role115,40,female,Doctor,Innovative,Humorous,Painting,Bachelor,Western,French,Intermediate,Mixed,Active,Islam,Married,Low income,Average health,Part-time,Creative
+Role116,71,female,Student,Innovative,Formal,Painting,High School,Eastern,English,Intermediate,Mixed,Active,Humanism,Divorced,Low income,Health-conscious,Part-time,Creative
+Role117,51,female,Student,Introverted,Mixed,Reading,Bachelor,Middle Eastern,Spanish,Novice,Mixed,Sedentary,Environmentalism,Married,High income,Healthy,Part-time,Analytical
+Role118,55,genderqueer,Student,Innovative,Formal,Traveling,High School,Eastern,English,Intermediate,Mixed,Sedentary,Islam,Widowed,Middle income,Health-conscious,Sporadic,Practical
+Role119,31,nondisclosed,Scientist,Extroverted,Informal,Painting,High School,Western,Spanish,Novice,Voice,Active,Humanism,In a relationship,Low income,Average health,Part-time,Practical
+Role120,57,male,Artist,Introverted,Humorous,Video Games,High School,Western,English,Novice,Voice,Active,Christianity,Married,High income,Average health,Sporadic,Practical
+Role121,57,female,Scientist,Introverted,Informal,Video Games,High School,Western,Spanish,Expert,Video,Active,Atheism,Single,Low income,Average health,Part-time,Practical
+Role122,69,genderqueer,Retired,Extroverted,Direct,Cooking,Bachelor,African,Spanish,Novice,Video,Sedentary,Christianity,Single,Middle income,Health-conscious,Sporadic,Creative
+Role123,80,nondisclosed,Scientist,Innovative,Empathetic,Cooking,Bachelor,Eastern,French,Expert,Voice,Sedentary,Christianity,Divorced,Low income,Healthy,Full-time,Analytical
+Role124,34,male,Teacher,Extroverted,Informal,Sports,Graduate Degree,Western,English,Novice,Voice,Active,Islam,Single,High income,Average health,Part-time,Collaborative
+Role125,63,female,Doctor,Traditional,Direct,Video Games,High School,Western,English,Intermediate,Text,Active,Environmentalism,Widowed,Middle income,Healthy,Part-time,Practical
+Role126,31,nondisclosed,Engineer,Traditional,Informal,Video Games,High School,Eastern,Mandarin,Expert,Mixed,Active,Christianity,Married,Middle income,Healthy,Full-time,Analytical
+Role127,27,female,Teacher,Traditional,Mixed,Reading,High School,Middle Eastern,Spanish,Intermediate,Voice,Sedentary,Atheism,Divorced,Middle income,Healthy,Sporadic,Analytical
+Role128,22,genderqueer,Engineer,Traditional,Mixed,Painting,Bachelor,Middle Eastern,French,Expert,Mixed,Active,Humanism,In a relationship,High income,Healthy,Full-time,Collaborative
+Role129,75,genderqueer,Doctor,Innovative,Direct,Video Games,Bachelor,African,French,Intermediate,Voice,Active,Atheism,Single,High income,Average health,Sporadic,Creative
+Role130,65,nondisclosed,Scientist,Traditional,Mixed,Cooking,Graduate Degree,African,Mandarin,Novice,Video,Active,Environmentalism,Widowed,High income,Health-conscious,Part-time,Collaborative
+Role131,32,genderqueer,Scientist,Innovative,Direct,Reading,Bachelor,Western,English,Expert,Mixed,Active,Atheism,Single,High income,Health-conscious,Sporadic,Analytical
+Role132,55,genderqueer,Student,Introverted,Mixed,Sports,High School,African,English,Expert,Voice,Sedentary,Environmentalism,In a relationship,Middle income,Average health,Part-time,Collaborative
+Role133,53,female,Scientist,Innovative,Direct,Sports,High School,African,Spanish,Novice,Text,Sedentary,Islam,In a relationship,Middle income,Health-conscious,Full-time,Creative
+Role134,27,genderqueer,Student,Innovative,Informal,Reading,High School,Western,English,Intermediate,Voice,Active,Atheism,Divorced,High income,Health-conscious,Sporadic,Analytical
+Role135,25,male,Artist,Innovative,Humorous,Sports,High School,African,Mandarin,Novice,Video,Sedentary,Environmentalism,Single,Middle income,Average health,Full-time,Creative
+Role136,36,male,Teacher,Traditional,Formal,Sports,High School,Middle Eastern,Mandarin,Novice,Text,Sedentary,Environmentalism,Widowed,Middle income,Health-conscious,Full-time,Creative
+Role137,41,genderqueer,Teacher,Introverted,Humorous,Sports,High School,Western,French,Intermediate,Video,Sedentary,Christianity,Divorced,Low income,Average health,Sporadic,Creative
+Role138,26,genderqueer,Retired,Innovative,Mixed,Video Games,High School,Middle Eastern,French,Novice,Video,Active,Humanism,Divorced,Low income,Health-conscious,Part-time,Creative
+Role139,76,genderqueer,Artist,Introverted,Informal,Traveling,Graduate Degree,Middle Eastern,Spanish,Intermediate,Text,Active,Atheism,Divorced,Low income,Health-conscious,Part-time,Collaborative
+Role140,63,genderqueer,Engineer,Innovative,Humorous,Traveling,High School,Western,French,Novice,Voice,Sedentary,Environmentalism,Widowed,High income,Health-conscious,Part-time,Analytical
+Role141,54,genderqueer,Retired,Extroverted,Informal,Cooking,Graduate Degree,Eastern,Spanish,Novice,Text,Sedentary,Humanism,Widowed,Low income,Average health,Part-time,Analytical
+Role142,69,nondisclosed,Engineer,Introverted,Humorous,Cooking,High School,Middle Eastern,English,Expert,Video,Sedentary,Environmentalism,Divorced,Low income,Healthy,Part-time,Collaborative
+Role143,28,female,Engineer,Innovative,Humorous,Video Games,Bachelor,Middle Eastern,English,Expert,Mixed,Sedentary,Islam,In a relationship,Low income,Average health,Full-time,Collaborative
+Role144,20,nondisclosed,Artist,Introverted,Informal,Traveling,Graduate Degree,Western,Mandarin,Novice,Voice,Active,Christianity,Married,High income,Healthy,Full-time,Collaborative
+Role145,19,nondisclosed,Artist,Extroverted,Informal,Video Games,High School,Middle Eastern,English,Expert,Voice,Sedentary,Atheism,Widowed,Middle income,Health-conscious,Sporadic,Practical
+Role146,29,nondisclosed,Teacher,Innovative,Formal,Sports,Graduate Degree,African,English,Novice,Video,Active,Islam,Divorced,Low income,Healthy,Part-time,Analytical
+Role147,42,female,Artist,Innovative,Empathetic,Cooking,Graduate Degree,Eastern,Mandarin,Intermediate,Mixed,Active,Atheism,Married,Middle income,Health-conscious,Full-time,Creative
+Role148,56,female,Scientist,Innovative,Direct,Traveling,Bachelor,African,Mandarin,Novice,Video,Active,Environmentalism,In a relationship,High income,Healthy,Full-time,Collaborative
+Role149,25,genderqueer,Teacher,Traditional,Formal,Video Games,Bachelor,Western,English,Novice,Text,Sedentary,Islam,In a relationship,High income,Healthy,Part-time,Creative
+Role150,57,genderqueer,Student,Traditional,Informal,Sports,Graduate Degree,Middle Eastern,French,Intermediate,Voice,Sedentary,Humanism,Divorced,Low income,Health-conscious,Part-time,Creative
+Role151,28,female,Artist,Extroverted,Humorous,Video Games,Bachelor,African,English,Novice,Video,Sedentary,Environmentalism,Widowed,High income,Health-conscious,Sporadic,Analytical
+Role152,69,female,Doctor,Introverted,Humorous,Sports,High School,African,English,Expert,Text,Sedentary,Christianity,Divorced,High income,Health-conscious,Part-time,Creative
+Role153,49,genderqueer,Engineer,Innovative,Humorous,Traveling,Graduate Degree,African,Mandarin,Novice,Video,Active,Atheism,Widowed,Low income,Health-conscious,Sporadic,Practical
+Role154,74,male,Scientist,Extroverted,Mixed,Video Games,Bachelor,African,Spanish,Expert,Voice,Sedentary,Islam,Married,High income,Health-conscious,Part-time,Practical
+Role155,73,genderqueer,Teacher,Introverted,Empathetic,Sports,Graduate Degree,African,English,Novice,Video,Sedentary,Islam,Widowed,Middle income,Healthy,Sporadic,Analytical
+Role156,24,genderqueer,Scientist,Introverted,Direct,Reading,Bachelor,Middle Eastern,Spanish,Novice,Mixed,Active,Christianity,Widowed,Middle income,Health-conscious,Sporadic,Creative
+Role157,73,nondisclosed,Scientist,Traditional,Mixed,Video Games,Graduate Degree,Middle Eastern,French,Novice,Text,Active,Humanism,Single,High income,Healthy,Part-time,Creative
+Role158,22,genderqueer,Retired,Traditional,Informal,Sports,Bachelor,Middle Eastern,French,Novice,Mixed,Sedentary,Environmentalism,Single,Middle income,Average health,Part-time,Creative
+Role159,26,female,Teacher,Introverted,Formal,Painting,Graduate Degree,Western,Mandarin,Novice,Mixed,Sedentary,Islam,Married,High income,Average health,Full-time,Practical
+Role160,53,nondisclosed,Student,Traditional,Humorous,Cooking,High School,Western,English,Novice,Video,Active,Christianity,Single,High income,Healthy,Part-time,Analytical
+Role161,41,genderqueer,Teacher,Traditional,Direct,Video Games,Graduate Degree,Western,French,Intermediate,Voice,Active,Islam,In a relationship,High income,Healthy,Part-time,Collaborative
+Role162,77,male,Retired,Traditional,Mixed,Traveling,Bachelor,Middle Eastern,Spanish,Novice,Voice,Active,Environmentalism,Divorced,Middle income,Healthy,Full-time,Analytical
+Role163,19,male,Scientist,Introverted,Empathetic,Cooking,Bachelor,Eastern,English,Novice,Video,Sedentary,Atheism,Widowed,High income,Healthy,Sporadic,Practical
+Role164,45,nondisclosed,Scientist,Extroverted,Formal,Video Games,High School,Middle Eastern,English,Novice,Voice,Sedentary,Humanism,In a relationship,Middle income,Average health,Sporadic,Creative
+Role165,48,nondisclosed,Engineer,Innovative,Informal,Traveling,Bachelor,Western,French,Intermediate,Text,Active,Atheism,In a relationship,Middle income,Average health,Full-time,Creative
+Role166,21,genderqueer,Student,Introverted,Formal,Sports,High School,Middle Eastern,Mandarin,Expert,Mixed,Sedentary,Christianity,In a relationship,Middle income,Healthy,Sporadic,Creative
+Role167,26,genderqueer,Teacher,Extroverted,Formal,Painting,Bachelor,African,English,Intermediate,Voice,Sedentary,Islam,Single,Middle income,Healthy,Part-time,Collaborative
+Role168,60,female,Student,Innovative,Direct,Sports,High School,Eastern,Spanish,Intermediate,Video,Sedentary,Atheism,Widowed,High income,Health-conscious,Part-time,Analytical
+Role169,42,female,Teacher,Introverted,Direct,Cooking,Bachelor,Middle Eastern,French,Intermediate,Video,Active,Environmentalism,Divorced,High income,Average health,Part-time,Practical
+Role170,53,female,Student,Innovative,Empathetic,Painting,High School,Western,Spanish,Novice,Text,Active,Islam,Single,High income,Health-conscious,Full-time,Practical
+Role171,59,genderqueer,Scientist,Extroverted,Formal,Cooking,Bachelor,Eastern,French,Expert,Mixed,Sedentary,Islam,Single,High income,Health-conscious,Sporadic,Collaborative
+Role172,69,genderqueer,Retired,Traditional,Direct,Video Games,Graduate Degree,African,Mandarin,Intermediate,Video,Sedentary,Christianity,In a relationship,Low income,Healthy,Sporadic,Analytical
+Role173,35,genderqueer,Retired,Innovative,Mixed,Traveling,High School,Middle Eastern,English,Novice,Voice,Sedentary,Humanism,Divorced,Middle income,Average health,Full-time,Practical
+Role174,20,nondisclosed,Student,Traditional,Informal,Painting,Graduate Degree,Middle Eastern,Spanish,Intermediate,Voice,Sedentary,Environmentalism,Widowed,High income,Average health,Sporadic,Creative
+Role175,37,nondisclosed,Scientist,Traditional,Empathetic,Video Games,Bachelor,African,French,Expert,Mixed,Active,Environmentalism,Married,Middle income,Health-conscious,Part-time,Analytical
+Role176,70,nondisclosed,Engineer,Innovative,Direct,Traveling,High School,African,Mandarin,Expert,Mixed,Active,Christianity,Divorced,Low income,Health-conscious,Part-time,Practical
+Role177,22,nondisclosed,Retired,Extroverted,Direct,Cooking,High School,Eastern,Spanish,Novice,Voice,Sedentary,Environmentalism,Married,High income,Healthy,Part-time,Practical
+Role178,63,male,Student,Introverted,Formal,Video Games,Bachelor,Middle Eastern,Mandarin,Intermediate,Video,Active,Atheism,Single,Middle income,Health-conscious,Part-time,Collaborative
+Role179,75,genderqueer,Engineer,Traditional,Humorous,Painting,Graduate Degree,Middle Eastern,English,Intermediate,Video,Active,Humanism,Widowed,Middle income,Healthy,Sporadic,Collaborative
+Role180,59,male,Retired,Innovative,Direct,Painting,Bachelor,Western,English,Intermediate,Video,Sedentary,Environmentalism,Married,High income,Health-conscious,Part-time,Practical
+Role181,74,nondisclosed,Artist,Traditional,Informal,Sports,High School,Western,Mandarin,Expert,Video,Sedentary,Atheism,Single,Low income,Healthy,Full-time,Creative
+Role182,61,nondisclosed,Artist,Innovative,Direct,Reading,Bachelor,Western,French,Novice,Voice,Sedentary,Atheism,In a relationship,High income,Health-conscious,Full-time,Analytical
+Role183,51,nondisclosed,Doctor,Introverted,Empathetic,Video Games,Graduate Degree,Western,English,Novice,Mixed,Sedentary,Atheism,In a relationship,High income,Health-conscious,Sporadic,Collaborative
+Role184,43,genderqueer,Doctor,Introverted,Formal,Painting,High School,Western,Mandarin,Novice,Text,Sedentary,Environmentalism,Married,Middle income,Health-conscious,Sporadic,Analytical
+Role185,64,genderqueer,Scientist,Innovative,Formal,Traveling,High School,Western,French,Intermediate,Voice,Sedentary,Christianity,Married,Low income,Average health,Part-time,Practical
+Role186,30,genderqueer,Engineer,Traditional,Empathetic,Cooking,Graduate Degree,African,French,Intermediate,Mixed,Sedentary,Islam,In a relationship,High income,Health-conscious,Sporadic,Practical
+Role187,70,male,Teacher,Introverted,Informal,Painting,Graduate Degree,African,English,Intermediate,Mixed,Active,Atheism,Married,Middle income,Healthy,Sporadic,Practical
+Role188,75,male,Doctor,Traditional,Direct,Cooking,High School,African,English,Intermediate,Text,Sedentary,Environmentalism,Married,Middle income,Health-conscious,Part-time,Creative
+Role189,18,female,Retired,Innovative,Informal,Cooking,High School,African,Spanish,Novice,Video,Sedentary,Islam,Divorced,Low income,Health-conscious,Full-time,Analytical
+Role190,29,nondisclosed,Engineer,Extroverted,Humorous,Cooking,Graduate Degree,African,French,Intermediate,Mixed,Active,Islam,Widowed,Low income,Healthy,Full-time,Analytical
+Role191,24,male,Student,Traditional,Humorous,Traveling,Bachelor,African,Mandarin,Expert,Video,Sedentary,Islam,Divorced,Low income,Healthy,Full-time,Practical
+Role192,27,female,Student,Innovative,Informal,Reading,Bachelor,African,French,Expert,Voice,Sedentary,Atheism,Married,Low income,Healthy,Full-time,Analytical
+Role193,77,nondisclosed,Artist,Traditional,Direct,Reading,Graduate Degree,Western,Mandarin,Expert,Mixed,Active,Islam,Single,Low income,Average health,Full-time,Analytical
+Role194,48,nondisclosed,Doctor,Extroverted,Direct,Cooking,High School,Western,French,Novice,Text,Sedentary,Atheism,Widowed,Middle income,Health-conscious,Sporadic,Analytical
+Role195,27,male,Doctor,Innovative,Humorous,Video Games,Graduate Degree,Western,Spanish,Intermediate,Mixed,Sedentary,Islam,In a relationship,High income,Average health,Part-time,Collaborative
+Role196,19,nondisclosed,Student,Innovative,Informal,Video Games,Graduate Degree,Middle Eastern,English,Expert,Text,Sedentary,Environmentalism,Married,High income,Health-conscious,Sporadic,Creative
+Role197,52,male,Engineer,Traditional,Informal,Reading,High School,Western,Mandarin,Novice,Video,Active,Atheism,In a relationship,Low income,Healthy,Full-time,Analytical
+Role198,37,male,Artist,Innovative,Informal,Video Games,Graduate Degree,Middle Eastern,French,Novice,Mixed,Active,Humanism,In a relationship,Middle income,Healthy,Full-time,Practical
+Role199,70,male,Student,Innovative,Humorous,Reading,Bachelor,Eastern,English,Expert,Text,Sedentary,Atheism,In a relationship,Low income,Average health,Sporadic,Collaborative
+Role200,49,female,Student,Traditional,Informal,Sports,Bachelor,Eastern,English,Novice,Text,Active,Atheism,Single,Middle income,Average health,Sporadic,Analytical
+Role201,79,nondisclosed,Artist,Innovative,Direct,Traveling,Bachelor,Middle Eastern,French,Intermediate,Video,Sedentary,Atheism,Widowed,Low income,Average health,Full-time,Collaborative
+Role202,52,male,Doctor,Introverted,Empathetic,Cooking,Bachelor,African,Spanish,Intermediate,Voice,Active,Environmentalism,In a relationship,Low income,Health-conscious,Full-time,Creative
+Role203,46,nondisclosed,Artist,Innovative,Direct,Cooking,Graduate Degree,Western,Mandarin,Intermediate,Text,Active,Humanism,Married,Middle income,Health-conscious,Sporadic,Collaborative
+Role204,48,female,Artist,Traditional,Direct,Cooking,High School,Western,English,Novice,Video,Active,Islam,Widowed,Middle income,Average health,Full-time,Collaborative
+Role205,56,male,Student,Innovative,Mixed,Video Games,High School,Middle Eastern,Spanish,Expert,Voice,Active,Humanism,Divorced,High income,Healthy,Full-time,Practical
+Role206,63,female,Retired,Extroverted,Informal,Sports,Bachelor,Western,Mandarin,Novice,Mixed,Active,Humanism,Single,Low income,Average health,Part-time,Collaborative
+Role207,59,female,Retired,Traditional,Informal,Video Games,Bachelor,Western,English,Expert,Mixed,Active,Christianity,Widowed,High income,Health-conscious,Full-time,Collaborative
+Role208,49,male,Doctor,Traditional,Direct,Traveling,Bachelor,Eastern,English,Intermediate,Voice,Active,Environmentalism,Widowed,Middle income,Average health,Full-time,Practical
+Role209,68,nondisclosed,Scientist,Traditional,Formal,Traveling,Graduate Degree,Middle Eastern,Mandarin,Novice,Text,Active,Islam,Divorced,Middle income,Healthy,Full-time,Practical
+Role210,32,female,Scientist,Extroverted,Formal,Video Games,Graduate Degree,Middle Eastern,English,Expert,Video,Active,Humanism,Married,Low income,Health-conscious,Sporadic,Creative
+Role211,33,nondisclosed,Student,Introverted,Direct,Video Games,Graduate Degree,Eastern,Mandarin,Intermediate,Text,Active,Atheism,Married,Middle income,Average health,Part-time,Creative
+Role212,67,male,Teacher,Innovative,Humorous,Sports,Graduate Degree,African,Spanish,Intermediate,Mixed,Sedentary,Environmentalism,Widowed,Middle income,Healthy,Part-time,Analytical
+Role213,28,female,Engineer,Innovative,Mixed,Reading,Bachelor,Western,English,Novice,Mixed,Active,Christianity,Single,Low income,Healthy,Full-time,Analytical
+Role214,64,female,Engineer,Traditional,Informal,Sports,Graduate Degree,Eastern,English,Expert,Text,Active,Humanism,Single,Low income,Average health,Full-time,Creative
+Role215,31,genderqueer,Retired,Introverted,Formal,Painting,Graduate Degree,Eastern,Mandarin,Expert,Video,Active,Humanism,Widowed,High income,Healthy,Full-time,Practical
+Role216,19,nondisclosed,Scientist,Innovative,Informal,Painting,Bachelor,Eastern,Spanish,Intermediate,Video,Active,Humanism,Married,High income,Average health,Full-time,Practical
+Role217,69,nondisclosed,Artist,Extroverted,Informal,Cooking,Graduate Degree,Eastern,English,Expert,Video,Active,Environmentalism,Divorced,Middle income,Health-conscious,Full-time,Practical
+Role218,41,male,Doctor,Innovative,Direct,Video Games,Bachelor,Eastern,English,Novice,Video,Active,Atheism,Widowed,Middle income,Health-conscious,Part-time,Collaborative
+Role219,76,female,Retired,Traditional,Empathetic,Video Games,High School,African,Spanish,Expert,Mixed,Sedentary,Humanism,Single,Low income,Average health,Full-time,Collaborative
+Role220,56,male,Retired,Introverted,Informal,Cooking,Bachelor,Middle Eastern,Mandarin,Novice,Video,Sedentary,Islam,Divorced,Middle income,Average health,Full-time,Analytical
+Role221,36,genderqueer,Artist,Extroverted,Humorous,Video Games,Graduate Degree,Western,Mandarin,Expert,Voice,Sedentary,Humanism,In a relationship,High income,Healthy,Full-time,Creative
+Role222,26,female,Doctor,Traditional,Mixed,Painting,Bachelor,Western,French,Intermediate,Video,Active,Humanism,Widowed,Middle income,Health-conscious,Full-time,Collaborative
+Role223,55,genderqueer,Teacher,Extroverted,Mixed,Reading,High School,Eastern,French,Novice,Mixed,Active,Atheism,Single,Low income,Healthy,Part-time,Collaborative
+Role224,26,male,Engineer,Innovative,Formal,Cooking,Bachelor,Eastern,English,Intermediate,Voice,Sedentary,Humanism,Widowed,Low income,Healthy,Sporadic,Analytical
+Role225,25,genderqueer,Scientist,Introverted,Humorous,Video Games,High School,Western,English,Novice,Text,Sedentary,Christianity,Single,Middle income,Healthy,Sporadic,Creative
+Role226,57,male,Student,Introverted,Informal,Painting,Graduate Degree,Western,English,Intermediate,Voice,Sedentary,Atheism,Divorced,Low income,Average health,Sporadic,Creative
+Role227,42,genderqueer,Artist,Traditional,Empathetic,Cooking,Graduate Degree,Middle Eastern,Spanish,Novice,Video,Active,Islam,Widowed,High income,Average health,Sporadic,Collaborative
+Role228,25,female,Artist,Traditional,Mixed,Reading,Bachelor,Middle Eastern,Spanish,Intermediate,Voice,Active,Humanism,In a relationship,Low income,Healthy,Sporadic,Collaborative
+Role229,62,male,Student,Extroverted,Mixed,Cooking,Graduate Degree,African,French,Intermediate,Video,Sedentary,Christianity,Married,Low income,Average health,Part-time,Analytical
+Role230,75,male,Engineer,Traditional,Formal,Traveling,High School,Western,English,Novice,Voice,Sedentary,Islam,In a relationship,Middle income,Health-conscious,Full-time,Collaborative
+Role231,62,nondisclosed,Doctor,Traditional,Direct,Sports,Graduate Degree,Western,French,Expert,Voice,Active,Christianity,Single,Middle income,Average health,Full-time,Analytical
+Role232,28,nondisclosed,Doctor,Traditional,Direct,Painting,High School,Eastern,Mandarin,Intermediate,Text,Sedentary,Humanism,Married,High income,Average health,Part-time,Analytical
+Role233,30,genderqueer,Doctor,Introverted,Mixed,Traveling,Graduate Degree,Middle Eastern,English,Intermediate,Mixed,Active,Islam,Divorced,Low income,Health-conscious,Sporadic,Analytical
+Role234,24,male,Teacher,Innovative,Informal,Traveling,High School,African,English,Expert,Voice,Active,Christianity,Divorced,Low income,Average health,Full-time,Creative
+Role235,49,genderqueer,Teacher,Innovative,Mixed,Reading,Bachelor,Middle Eastern,Spanish,Novice,Text,Sedentary,Christianity,Divorced,Middle income,Healthy,Part-time,Collaborative
+Role236,37,nondisclosed,Student,Innovative,Empathetic,Traveling,High School,Middle Eastern,English,Novice,Video,Active,Islam,Widowed,Middle income,Health-conscious,Full-time,Collaborative
+Role237,72,nondisclosed,Student,Traditional,Formal,Traveling,High School,Eastern,French,Novice,Video,Active,Islam,Married,High income,Health-conscious,Part-time,Analytical
+Role238,18,male,Teacher,Traditional,Formal,Sports,Bachelor,Western,Spanish,Novice,Text,Sedentary,Christianity,Married,Low income,Health-conscious,Full-time,Practical
+Role239,24,male,Doctor,Traditional,Informal,Traveling,Bachelor,African,English,Novice,Mixed,Sedentary,Atheism,Divorced,Low income,Healthy,Full-time,Creative
+Role240,19,female,Engineer,Traditional,Humorous,Video Games,Graduate Degree,Western,English,Intermediate,Voice,Sedentary,Christianity,Single,Low income,Health-conscious,Sporadic,Creative
+Role241,79,female,Scientist,Traditional,Direct,Reading,Graduate Degree,Middle Eastern,Mandarin,Intermediate,Voice,Sedentary,Islam,Single,Low income,Healthy,Full-time,Practical
+Role242,39,male,Student,Introverted,Humorous,Cooking,Bachelor,Middle Eastern,French,Intermediate,Mixed,Sedentary,Humanism,Divorced,High income,Average health,Full-time,Creative
+Role243,19,female,Retired,Traditional,Formal,Traveling,Graduate Degree,African,English,Novice,Mixed,Sedentary,Christianity,Single,Low income,Average health,Sporadic,Analytical
+Role244,34,genderqueer,Doctor,Introverted,Formal,Cooking,Bachelor,African,Mandarin,Novice,Video,Sedentary,Humanism,In a relationship,Middle income,Average health,Full-time,Collaborative
+Role245,67,male,Engineer,Traditional,Mixed,Traveling,High School,Western,English,Expert,Voice,Sedentary,Christianity,Widowed,Middle income,Health-conscious,Part-time,Creative
+Role246,55,male,Engineer,Traditional,Direct,Painting,Bachelor,Middle Eastern,Spanish,Intermediate,Text,Active,Humanism,Single,Middle income,Average health,Sporadic,Analytical
+Role247,48,male,Artist,Innovative,Mixed,Painting,Bachelor,Western,French,Intermediate,Video,Sedentary,Atheism,Divorced,Low income,Average health,Part-time,Creative
+Role248,78,genderqueer,Teacher,Innovative,Informal,Cooking,Bachelor,Middle Eastern,French,Novice,Voice,Active,Christianity,Divorced,Low income,Average health,Full-time,Analytical
+Role249,71,male,Scientist,Introverted,Informal,Cooking,Graduate Degree,Western,French,Novice,Voice,Active,Christianity,In a relationship,Middle income,Health-conscious,Part-time,Collaborative
+Role250,53,female,Retired,Introverted,Direct,Video Games,Bachelor,Eastern,French,Intermediate,Video,Active,Atheism,Widowed,Middle income,Health-conscious,Full-time,Collaborative
+Role251,57,female,Retired,Extroverted,Direct,Cooking,Bachelor,Western,French,Expert,Text,Active,Atheism,Divorced,Middle income,Healthy,Sporadic,Collaborative
+Role252,66,female,Teacher,Innovative,Direct,Traveling,High School,Western,Spanish,Novice,Voice,Active,Islam,Divorced,Low income,Average health,Part-time,Collaborative
+Role253,74,female,Doctor,Extroverted,Formal,Video Games,Graduate Degree,Eastern,Mandarin,Intermediate,Mixed,Active,Islam,Widowed,Middle income,Healthy,Full-time,Creative
+Role254,30,female,Retired,Introverted,Direct,Sports,Graduate Degree,Middle Eastern,Spanish,Novice,Text,Active,Atheism,In a relationship,High income,Average health,Part-time,Creative
+Role255,48,genderqueer,Student,Innovative,Empathetic,Video Games,Bachelor,African,Spanish,Expert,Voice,Active,Humanism,In a relationship,Low income,Health-conscious,Full-time,Creative
+Role256,30,nondisclosed,Scientist,Introverted,Mixed,Video Games,Graduate Degree,Middle Eastern,Mandarin,Novice,Mixed,Sedentary,Islam,Married,High income,Healthy,Full-time,Collaborative
+Role257,45,female,Doctor,Innovative,Empathetic,Reading,High School,Western,Mandarin,Expert,Voice,Active,Environmentalism,Single,Low income,Healthy,Full-time,Analytical
+Role258,54,genderqueer,Scientist,Introverted,Direct,Sports,Bachelor,Middle Eastern,French,Novice,Mixed,Sedentary,Islam,Married,Low income,Health-conscious,Sporadic,Creative
+Role259,71,genderqueer,Engineer,Introverted,Humorous,Cooking,Bachelor,Western,French,Novice,Video,Sedentary,Islam,Widowed,High income,Healthy,Full-time,Practical
+Role260,25,male,Retired,Extroverted,Mixed,Traveling,Bachelor,African,English,Expert,Voice,Sedentary,Islam,Single,Low income,Average health,Sporadic,Analytical
+Role261,45,female,Teacher,Introverted,Mixed,Sports,Graduate Degree,Middle Eastern,Spanish,Expert,Video,Sedentary,Humanism,Widowed,Middle income,Health-conscious,Part-time,Creative
+Role262,66,nondisclosed,Scientist,Extroverted,Direct,Painting,Bachelor,Middle Eastern,Mandarin,Intermediate,Video,Sedentary,Christianity,Divorced,Low income,Healthy,Full-time,Creative
+Role263,80,female,Engineer,Innovative,Formal,Reading,Bachelor,African,English,Novice,Voice,Active,Christianity,Divorced,Middle income,Healthy,Sporadic,Practical
+Role264,18,female,Doctor,Extroverted,Humorous,Video Games,Bachelor,Middle Eastern,Spanish,Intermediate,Video,Sedentary,Christianity,Divorced,Low income,Healthy,Full-time,Creative
+Role265,53,genderqueer,Retired,Traditional,Humorous,Cooking,Bachelor,Eastern,Mandarin,Expert,Voice,Active,Humanism,Divorced,Low income,Health-conscious,Full-time,Analytical
+Role266,58,male,Retired,Innovative,Empathetic,Reading,High School,Western,Spanish,Intermediate,Text,Active,Islam,Divorced,High income,Health-conscious,Sporadic,Practical
+Role267,50,male,Engineer,Traditional,Empathetic,Sports,Graduate Degree,Eastern,English,Intermediate,Voice,Sedentary,Islam,Divorced,Middle income,Health-conscious,Full-time,Analytical
+Role268,42,male,Artist,Introverted,Direct,Video Games,High School,Eastern,Mandarin,Intermediate,Voice,Sedentary,Atheism,Divorced,High income,Health-conscious,Part-time,Practical
+Role269,34,nondisclosed,Student,Traditional,Empathetic,Video Games,Bachelor,Western,Spanish,Expert,Video,Active,Humanism,Divorced,Middle income,Healthy,Part-time,Practical
+Role270,37,nondisclosed,Engineer,Traditional,Empathetic,Painting,High School,Middle Eastern,French,Expert,Text,Active,Environmentalism,Widowed,Low income,Average health,Full-time,Creative
+Role271,46,female,Student,Innovative,Direct,Traveling,High School,Western,French,Intermediate,Mixed,Active,Environmentalism,Single,Middle income,Healthy,Full-time,Collaborative
+Role272,62,nondisclosed,Student,Introverted,Informal,Painting,Graduate Degree,Middle Eastern,Spanish,Expert,Voice,Active,Christianity,Widowed,High income,Health-conscious,Full-time,Analytical
+Role273,73,female,Doctor,Traditional,Direct,Video Games,Graduate Degree,African,English,Novice,Voice,Sedentary,Atheism,Widowed,High income,Healthy,Full-time,Analytical
+Role274,77,female,Artist,Extroverted,Mixed,Reading,High School,Eastern,English,Novice,Mixed,Active,Environmentalism,Single,High income,Average health,Part-time,Collaborative
+Role275,40,female,Artist,Extroverted,Formal,Painting,Bachelor,Middle Eastern,Spanish,Expert,Mixed,Sedentary,Christianity,Married,High income,Healthy,Sporadic,Practical
+Role276,44,genderqueer,Retired,Extroverted,Mixed,Traveling,Graduate Degree,African,French,Intermediate,Mixed,Active,Islam,Widowed,Middle income,Health-conscious,Part-time,Analytical
+Role277,64,genderqueer,Scientist,Extroverted,Formal,Cooking,High School,Middle Eastern,Spanish,Novice,Text,Active,Christianity,Married,Low income,Health-conscious,Sporadic,Analytical
+Role278,75,male,Student,Extroverted,Direct,Cooking,Graduate Degree,Western,Spanish,Expert,Video,Active,Environmentalism,Divorced,High income,Healthy,Sporadic,Analytical
+Role279,58,nondisclosed,Retired,Innovative,Empathetic,Video Games,Bachelor,Western,French,Expert,Mixed,Active,Islam,Widowed,High income,Healthy,Full-time,Practical
+Role280,65,female,Engineer,Traditional,Informal,Sports,Graduate Degree,African,French,Novice,Voice,Active,Islam,Widowed,High income,Healthy,Sporadic,Practical
+Role281,73,male,Scientist,Traditional,Mixed,Painting,Graduate Degree,Western,English,Novice,Voice,Sedentary,Humanism,Divorced,Middle income,Health-conscious,Sporadic,Analytical
+Role282,31,male,Teacher,Extroverted,Empathetic,Traveling,Bachelor,Middle Eastern,Spanish,Intermediate,Voice,Sedentary,Islam,In a relationship,Low income,Healthy,Part-time,Collaborative
+Role283,33,genderqueer,Scientist,Extroverted,Formal,Sports,Bachelor,Middle Eastern,Mandarin,Novice,Text,Active,Environmentalism,Widowed,Middle income,Average health,Part-time,Creative
+Role284,68,nondisclosed,Retired,Traditional,Humorous,Traveling,Graduate Degree,Eastern,Mandarin,Intermediate,Video,Active,Islam,Single,High income,Health-conscious,Full-time,Practical
+Role285,69,genderqueer,Teacher,Introverted,Direct,Reading,Graduate Degree,African,Mandarin,Intermediate,Video,Active,Christianity,Married,Low income,Healthy,Full-time,Collaborative
+Role286,41,male,Doctor,Innovative,Mixed,Painting,Graduate Degree,African,French,Intermediate,Voice,Sedentary,Atheism,In a relationship,Middle income,Health-conscious,Full-time,Collaborative
+Role287,20,nondisclosed,Teacher,Innovative,Direct,Video Games,Graduate Degree,Western,English,Novice,Video,Sedentary,Atheism,Married,High income,Health-conscious,Sporadic,Collaborative
+Role288,44,genderqueer,Engineer,Traditional,Humorous,Painting,Bachelor,African,French,Intermediate,Text,Sedentary,Islam,Divorced,High income,Healthy,Part-time,Collaborative
+Role289,27,nondisclosed,Engineer,Introverted,Formal,Video Games,Bachelor,African,Spanish,Novice,Voice,Active,Christianity,Widowed,High income,Average health,Sporadic,Analytical
+Role290,22,nondisclosed,Doctor,Extroverted,Informal,Video Games,Bachelor,Eastern,English,Intermediate,Mixed,Active,Christianity,Single,Middle income,Healthy,Part-time,Practical
+Role291,65,nondisclosed,Doctor,Extroverted,Mixed,Painting,Graduate Degree,African,Spanish,Intermediate,Mixed,Sedentary,Environmentalism,Single,Low income,Healthy,Part-time,Practical
+Role292,66,male,Engineer,Introverted,Direct,Video Games,High School,Eastern,Spanish,Intermediate,Voice,Active,Environmentalism,Single,Low income,Health-conscious,Part-time,Practical
+Role293,25,nondisclosed,Artist,Innovative,Empathetic,Video Games,Graduate Degree,African,English,Expert,Mixed,Sedentary,Humanism,Single,Low income,Health-conscious,Full-time,Practical
+Role294,66,male,Engineer,Innovative,Direct,Traveling,Graduate Degree,Eastern,French,Expert,Video,Sedentary,Christianity,Married,Low income,Healthy,Sporadic,Analytical
+Role295,70,male,Retired,Traditional,Empathetic,Sports,Bachelor,Middle Eastern,English,Expert,Text,Sedentary,Environmentalism,Widowed,Low income,Average health,Part-time,Practical
+Role296,56,nondisclosed,Engineer,Introverted,Formal,Sports,Graduate Degree,Western,Spanish,Expert,Video,Active,Atheism,Divorced,Middle income,Average health,Part-time,Creative
+Role297,30,genderqueer,Scientist,Innovative,Informal,Painting,Graduate Degree,Middle Eastern,Mandarin,Expert,Mixed,Sedentary,Environmentalism,Single,Middle income,Healthy,Sporadic,Creative
+Role298,45,female,Engineer,Extroverted,Informal,Sports,Bachelor,African,French,Novice,Mixed,Active,Christianity,Divorced,Low income,Average health,Part-time,Creative
+Role299,34,male,Doctor,Traditional,Mixed,Sports,Graduate Degree,Western,French,Expert,Voice,Active,Environmentalism,Widowed,High income,Average health,Part-time,Collaborative
+Role300,52,male,Artist,Traditional,Humorous,Reading,Bachelor,Western,Spanish,Intermediate,Voice,Sedentary,Environmentalism,Married,Middle income,Health-conscious,Part-time,Creative
+Role301,34,male,Scientist,Extroverted,Formal,Cooking,High School,Eastern,French,Expert,Video,Sedentary,Islam,Single,High income,Average health,Part-time,Collaborative
+Role302,28,nondisclosed,Doctor,Innovative,Mixed,Cooking,Graduate Degree,Middle Eastern,French,Novice,Text,Active,Environmentalism,Married,High income,Healthy,Part-time,Collaborative
+Role303,59,female,Student,Traditional,Direct,Sports,Bachelor,African,French,Expert,Voice,Active,Humanism,Widowed,Middle income,Average health,Full-time,Collaborative
+Role304,73,male,Teacher,Innovative,Humorous,Cooking,Bachelor,Eastern,English,Intermediate,Text,Sedentary,Atheism,Single,Middle income,Healthy,Sporadic,Practical
+Role305,36,male,Doctor,Introverted,Mixed,Painting,Bachelor,Western,Spanish,Intermediate,Text,Sedentary,Humanism,Married,Middle income,Health-conscious,Full-time,Creative
+Role306,53,genderqueer,Scientist,Introverted,Empathetic,Traveling,High School,African,Spanish,Expert,Mixed,Sedentary,Humanism,Single,High income,Average health,Sporadic,Analytical
+Role307,19,genderqueer,Artist,Extroverted,Informal,Video Games,Graduate Degree,Eastern,Spanish,Novice,Voice,Active,Humanism,Married,Low income,Health-conscious,Full-time,Creative
+Role308,22,nondisclosed,Student,Traditional,Direct,Reading,Bachelor,Eastern,French,Expert,Mixed,Sedentary,Atheism,In a relationship,High income,Healthy,Part-time,Creative
+Role309,29,nondisclosed,Engineer,Introverted,Direct,Traveling,High School,Middle Eastern,English,Intermediate,Mixed,Sedentary,Humanism,In a relationship,High income,Average health,Part-time,Analytical
+Role310,59,female,Artist,Traditional,Empathetic,Painting,Graduate Degree,Eastern,English,Expert,Text,Active,Atheism,Widowed,Middle income,Health-conscious,Full-time,Creative
+Role311,74,male,Retired,Traditional,Empathetic,Video Games,Graduate Degree,Middle Eastern,English,Novice,Mixed,Active,Environmentalism,Widowed,Middle income,Average health,Sporadic,Analytical
+Role312,39,nondisclosed,Student,Traditional,Mixed,Traveling,Bachelor,Eastern,French,Intermediate,Video,Active,Atheism,Divorced,Low income,Health-conscious,Part-time,Collaborative
+Role313,49,nondisclosed,Engineer,Extroverted,Formal,Painting,Graduate Degree,Middle Eastern,Spanish,Novice,Video,Active,Humanism,In a relationship,High income,Health-conscious,Part-time,Collaborative
+Role314,53,male,Artist,Innovative,Direct,Reading,High School,African,Mandarin,Intermediate,Text,Sedentary,Christianity,Married,Low income,Healthy,Part-time,Practical
+Role315,55,genderqueer,Artist,Innovative,Formal,Cooking,High School,Western,French,Expert,Video,Sedentary,Atheism,Widowed,High income,Health-conscious,Full-time,Practical
+Role316,33,nondisclosed,Scientist,Introverted,Direct,Cooking,Bachelor,Eastern,Mandarin,Intermediate,Mixed,Sedentary,Atheism,Single,High income,Health-conscious,Part-time,Creative
+Role317,65,genderqueer,Engineer,Traditional,Empathetic,Cooking,Graduate Degree,Eastern,French,Intermediate,Video,Active,Islam,Single,High income,Health-conscious,Full-time,Analytical
+Role318,59,nondisclosed,Student,Traditional,Informal,Reading,Bachelor,African,Mandarin,Intermediate,Mixed,Active,Environmentalism,Single,Middle income,Average health,Sporadic,Creative
+Role319,48,genderqueer,Student,Traditional,Humorous,Reading,Graduate Degree,African,French,Intermediate,Mixed,Active,Environmentalism,Married,High income,Health-conscious,Sporadic,Practical
+Role320,21,female,Doctor,Traditional,Mixed,Painting,High School,African,French,Novice,Voice,Active,Islam,Widowed,High income,Healthy,Part-time,Creative
+Role321,48,female,Scientist,Innovative,Empathetic,Painting,Graduate Degree,Middle Eastern,French,Expert,Text,Sedentary,Humanism,Divorced,Middle income,Healthy,Sporadic,Analytical
+Role322,48,genderqueer,Retired,Innovative,Empathetic,Sports,Bachelor,Western,Mandarin,Novice,Mixed,Sedentary,Atheism,Divorced,Middle income,Healthy,Sporadic,Analytical
+Role323,50,female,Engineer,Extroverted,Direct,Cooking,High School,African,Spanish,Expert,Video,Sedentary,Islam,Single,Low income,Healthy,Full-time,Collaborative
+Role324,51,genderqueer,Engineer,Innovative,Humorous,Cooking,Bachelor,Western,Mandarin,Expert,Voice,Active,Christianity,Divorced,High income,Health-conscious,Sporadic,Collaborative
+Role325,40,male,Teacher,Innovative,Formal,Reading,Graduate Degree,Western,French,Expert,Video,Sedentary,Christianity,Divorced,Low income,Average health,Sporadic,Collaborative
+Role326,45,nondisclosed,Doctor,Traditional,Mixed,Reading,Bachelor,African,Spanish,Expert,Voice,Active,Islam,Married,High income,Healthy,Part-time,Collaborative
+Role327,39,male,Artist,Introverted,Formal,Reading,Graduate Degree,African,Mandarin,Novice,Text,Sedentary,Humanism,Married,High income,Healthy,Full-time,Practical
+Role328,58,nondisclosed,Artist,Innovative,Empathetic,Reading,Graduate Degree,Eastern,English,Novice,Mixed,Sedentary,Christianity,Married,Low income,Health-conscious,Sporadic,Collaborative
+Role329,74,male,Student,Innovative,Mixed,Sports,High School,Middle Eastern,Spanish,Intermediate,Mixed,Sedentary,Humanism,Single,Middle income,Healthy,Full-time,Analytical
+Role330,23,male,Retired,Innovative,Mixed,Reading,Bachelor,Eastern,Mandarin,Expert,Text,Sedentary,Environmentalism,Widowed,Low income,Average health,Full-time,Analytical
+Role331,66,nondisclosed,Doctor,Traditional,Informal,Video Games,Bachelor,Middle Eastern,Spanish,Novice,Video,Active,Humanism,Married,Middle income,Average health,Sporadic,Practical
+Role332,44,genderqueer,Student,Extroverted,Mixed,Sports,High School,African,Mandarin,Intermediate,Text,Active,Atheism,Single,Low income,Health-conscious,Full-time,Practical
+Role333,70,genderqueer,Doctor,Extroverted,Direct,Traveling,Graduate Degree,Western,Mandarin,Intermediate,Video,Sedentary,Christianity,Married,High income,Average health,Part-time,Creative
+Role334,39,female,Engineer,Traditional,Informal,Painting,Bachelor,Western,English,Novice,Voice,Sedentary,Atheism,Married,High income,Healthy,Sporadic,Creative
+Role335,74,male,Scientist,Innovative,Mixed,Reading,High School,Eastern,French,Intermediate,Video,Active,Humanism,Single,Low income,Healthy,Part-time,Collaborative
+Role336,79,genderqueer,Scientist,Extroverted,Mixed,Reading,Bachelor,African,Spanish,Expert,Video,Sedentary,Environmentalism,In a relationship,Low income,Healthy,Part-time,Collaborative
+Role337,18,nondisclosed,Artist,Introverted,Direct,Video Games,High School,Middle Eastern,French,Novice,Video,Sedentary,Islam,Married,High income,Healthy,Full-time,Creative
+Role338,30,genderqueer,Retired,Introverted,Formal,Painting,Bachelor,Western,English,Intermediate,Text,Sedentary,Christianity,Widowed,High income,Healthy,Sporadic,Collaborative
+Role339,54,nondisclosed,Student,Traditional,Formal,Video Games,High School,African,Spanish,Intermediate,Voice,Sedentary,Atheism,Married,High income,Average health,Sporadic,Practical
+Role340,31,female,Engineer,Traditional,Mixed,Sports,Graduate Degree,Middle Eastern,Spanish,Intermediate,Mixed,Active,Humanism,Widowed,Low income,Health-conscious,Sporadic,Creative
+Role341,37,male,Retired,Introverted,Empathetic,Video Games,High School,African,Spanish,Intermediate,Voice,Active,Atheism,Married,Low income,Average health,Part-time,Analytical
+Role342,25,female,Teacher,Extroverted,Informal,Cooking,High School,Middle Eastern,French,Intermediate,Text,Sedentary,Islam,In a relationship,High income,Health-conscious,Full-time,Analytical
+Role343,59,genderqueer,Retired,Innovative,Humorous,Reading,High School,Middle Eastern,French,Intermediate,Video,Sedentary,Environmentalism,Married,Low income,Healthy,Part-time,Practical
+Role344,57,male,Student,Innovative,Direct,Video Games,Graduate Degree,Eastern,English,Intermediate,Video,Sedentary,Christianity,Divorced,Low income,Average health,Sporadic,Analytical
+Role345,49,nondisclosed,Artist,Innovative,Formal,Traveling,High School,African,English,Intermediate,Text,Active,Islam,Married,High income,Health-conscious,Part-time,Creative
+Role346,31,genderqueer,Artist,Extroverted,Humorous,Painting,Graduate Degree,Middle Eastern,Spanish,Novice,Video,Active,Environmentalism,Single,Middle income,Health-conscious,Sporadic,Collaborative
+Role347,59,female,Retired,Introverted,Formal,Video Games,Bachelor,Middle Eastern,English,Expert,Voice,Active,Islam,Married,Middle income,Healthy,Part-time,Collaborative
+Role348,45,male,Scientist,Innovative,Informal,Reading,High School,Western,English,Intermediate,Mixed,Sedentary,Christianity,Single,Middle income,Healthy,Sporadic,Collaborative
+Role349,78,female,Scientist,Extroverted,Direct,Video Games,High School,Western,Mandarin,Expert,Video,Active,Atheism,Married,Middle income,Average health,Full-time,Practical
+Role350,42,genderqueer,Retired,Traditional,Humorous,Reading,High School,Western,Spanish,Intermediate,Text,Active,Christianity,Divorced,High income,Health-conscious,Part-time,Analytical
+Role351,41,female,Retired,Introverted,Humorous,Cooking,High School,Western,French,Novice,Video,Sedentary,Humanism,Single,Middle income,Healthy,Part-time,Analytical
+Role352,70,female,Teacher,Traditional,Mixed,Traveling,High School,Western,English,Expert,Video,Active,Islam,Widowed,Low income,Health-conscious,Full-time,Practical
+Role353,80,genderqueer,Student,Extroverted,Mixed,Sports,Graduate Degree,African,English,Intermediate,Video,Active,Environmentalism,Married,High income,Health-conscious,Sporadic,Creative
+Role354,26,genderqueer,Scientist,Extroverted,Formal,Cooking,High School,Western,Spanish,Novice,Voice,Sedentary,Environmentalism,Divorced,High income,Healthy,Part-time,Analytical
+Role355,66,female,Retired,Introverted,Direct,Cooking,Bachelor,Eastern,French,Intermediate,Video,Sedentary,Environmentalism,In a relationship,Middle income,Healthy,Full-time,Analytical
+Role356,52,genderqueer,Engineer,Innovative,Direct,Video Games,Bachelor,African,Mandarin,Intermediate,Video,Sedentary,Islam,Widowed,High income,Health-conscious,Part-time,Practical
+Role357,39,nondisclosed,Scientist,Extroverted,Empathetic,Traveling,High School,Eastern,English,Novice,Voice,Active,Christianity,Widowed,High income,Healthy,Sporadic,Practical
+Role358,56,female,Retired,Extroverted,Direct,Reading,Bachelor,Eastern,English,Novice,Video,Sedentary,Atheism,In a relationship,High income,Health-conscious,Sporadic,Creative
+Role359,29,genderqueer,Scientist,Traditional,Empathetic,Sports,Bachelor,Western,French,Expert,Voice,Sedentary,Christianity,Married,Middle income,Healthy,Sporadic,Analytical
+Role360,29,female,Doctor,Traditional,Humorous,Sports,High School,African,French,Intermediate,Text,Sedentary,Environmentalism,Single,Low income,Average health,Part-time,Practical
+Role361,47,male,Artist,Traditional,Informal,Reading,Bachelor,Western,English,Expert,Text,Sedentary,Islam,Divorced,High income,Healthy,Sporadic,Collaborative
+Role362,53,male,Scientist,Traditional,Humorous,Cooking,Graduate Degree,Middle Eastern,Mandarin,Expert,Voice,Sedentary,Christianity,Widowed,High income,Average health,Sporadic,Practical
+Role363,40,female,Retired,Introverted,Humorous,Painting,Bachelor,African,English,Novice,Text,Sedentary,Islam,Divorced,Low income,Health-conscious,Part-time,Collaborative
+Role364,80,male,Doctor,Traditional,Humorous,Cooking,Graduate Degree,Western,French,Expert,Text,Sedentary,Atheism,Married,High income,Health-conscious,Sporadic,Practical
+Role365,62,male,Doctor,Traditional,Direct,Sports,Graduate Degree,Middle Eastern,Mandarin,Intermediate,Voice,Active,Islam,Single,Low income,Average health,Sporadic,Practical
+Role366,40,female,Teacher,Introverted,Humorous,Video Games,Graduate Degree,Eastern,Spanish,Novice,Mixed,Sedentary,Humanism,Divorced,Middle income,Average health,Part-time,Creative
+Role367,24,genderqueer,Teacher,Traditional,Direct,Video Games,Bachelor,African,French,Intermediate,Text,Sedentary,Atheism,Single,Low income,Average health,Sporadic,Collaborative
+Role368,77,male,Artist,Traditional,Humorous,Traveling,Bachelor,African,French,Expert,Text,Active,Christianity,Single,Middle income,Average health,Part-time,Creative
+Role369,40,nondisclosed,Student,Traditional,Mixed,Reading,Bachelor,African,Spanish,Expert,Mixed,Sedentary,Islam,Single,Low income,Health-conscious,Part-time,Practical
+Role370,62,female,Doctor,Traditional,Humorous,Traveling,Bachelor,Eastern,Mandarin,Intermediate,Text,Active,Christianity,Widowed,High income,Health-conscious,Full-time,Analytical
+Role371,35,nondisclosed,Student,Extroverted,Empathetic,Reading,Graduate Degree,African,Mandarin,Novice,Mixed,Sedentary,Humanism,Married,Middle income,Healthy,Part-time,Creative
+Role372,33,male,Retired,Innovative,Direct,Video Games,Graduate Degree,African,Spanish,Intermediate,Mixed,Sedentary,Atheism,Married,High income,Health-conscious,Full-time,Creative
+Role373,51,female,Student,Introverted,Direct,Traveling,High School,Western,English,Novice,Mixed,Sedentary,Atheism,Divorced,High income,Health-conscious,Full-time,Creative
+Role374,34,genderqueer,Doctor,Extroverted,Formal,Cooking,Graduate Degree,Middle Eastern,French,Novice,Voice,Sedentary,Christianity,Single,Low income,Healthy,Part-time,Collaborative
+Role375,48,male,Teacher,Extroverted,Humorous,Sports,Bachelor,Western,Spanish,Intermediate,Text,Active,Christianity,In a relationship,Middle income,Healthy,Full-time,Practical
+Role376,69,nondisclosed,Student,Introverted,Direct,Traveling,Graduate Degree,Eastern,English,Novice,Text,Sedentary,Environmentalism,Widowed,Low income,Healthy,Sporadic,Collaborative
+Role377,30,genderqueer,Student,Traditional,Humorous,Sports,Graduate Degree,Western,English,Novice,Voice,Sedentary,Environmentalism,Divorced,Middle income,Average health,Part-time,Collaborative
+Role378,24,genderqueer,Doctor,Extroverted,Informal,Sports,Graduate Degree,Western,English,Expert,Voice,Sedentary,Atheism,Married,Middle income,Average health,Full-time,Practical
+Role379,23,nondisclosed,Student,Introverted,Humorous,Painting,High School,Western,French,Intermediate,Mixed,Sedentary,Atheism,Divorced,Middle income,Healthy,Sporadic,Creative
+Role380,35,genderqueer,Retired,Introverted,Formal,Traveling,Bachelor,African,English,Intermediate,Voice,Sedentary,Atheism,In a relationship,Middle income,Health-conscious,Sporadic,Collaborative
+Role381,27,nondisclosed,Student,Innovative,Mixed,Cooking,Graduate Degree,Middle Eastern,English,Expert,Video,Sedentary,Environmentalism,In a relationship,Middle income,Average health,Sporadic,Creative
+Role382,21,female,Teacher,Introverted,Direct,Painting,High School,African,English,Intermediate,Video,Active,Environmentalism,Divorced,Low income,Health-conscious,Sporadic,Collaborative
+Role383,77,female,Retired,Traditional,Direct,Cooking,Graduate Degree,African,English,Novice,Voice,Sedentary,Humanism,In a relationship,Low income,Average health,Full-time,Collaborative
+Role384,47,female,Doctor,Innovative,Formal,Sports,High School,Middle Eastern,Mandarin,Expert,Video,Active,Humanism,Married,High income,Average health,Full-time,Analytical
+Role385,52,female,Artist,Traditional,Formal,Reading,Bachelor,African,French,Novice,Voice,Active,Atheism,Widowed,High income,Average health,Part-time,Creative
+Role386,74,genderqueer,Artist,Innovative,Direct,Reading,Graduate Degree,Eastern,Spanish,Novice,Video,Active,Humanism,Divorced,Low income,Average health,Sporadic,Practical
+Role387,37,nondisclosed,Doctor,Traditional,Direct,Cooking,High School,Eastern,English,Novice,Voice,Sedentary,Islam,Married,Middle income,Health-conscious,Part-time,Creative
+Role388,80,nondisclosed,Teacher,Traditional,Empathetic,Sports,High School,Middle Eastern,Mandarin,Intermediate,Voice,Sedentary,Islam,Widowed,Middle income,Health-conscious,Part-time,Practical
+Role389,47,male,Teacher,Traditional,Direct,Cooking,Graduate Degree,Western,Spanish,Expert,Text,Sedentary,Humanism,Married,Middle income,Average health,Part-time,Collaborative
+Role390,32,female,Engineer,Traditional,Direct,Video Games,Graduate Degree,Western,Spanish,Novice,Text,Sedentary,Islam,Single,High income,Healthy,Full-time,Creative
+Role391,64,genderqueer,Teacher,Introverted,Mixed,Cooking,Bachelor,Western,Mandarin,Expert,Mixed,Active,Environmentalism,Single,High income,Average health,Sporadic,Practical
+Role392,46,nondisclosed,Scientist,Extroverted,Formal,Traveling,Graduate Degree,Middle Eastern,English,Expert,Voice,Sedentary,Islam,In a relationship,Middle income,Healthy,Sporadic,Analytical
+Role393,70,female,Teacher,Traditional,Direct,Sports,Bachelor,Western,English,Novice,Video,Sedentary,Christianity,Married,High income,Average health,Sporadic,Practical
+Role394,35,genderqueer,Engineer,Innovative,Humorous,Reading,High School,Middle Eastern,Mandarin,Expert,Video,Active,Christianity,Widowed,Low income,Healthy,Full-time,Analytical
+Role395,69,genderqueer,Retired,Innovative,Humorous,Painting,Bachelor,African,Mandarin,Expert,Video,Active,Islam,Single,Low income,Health-conscious,Part-time,Collaborative
+Role396,43,male,Teacher,Extroverted,Mixed,Reading,High School,African,French,Intermediate,Voice,Sedentary,Christianity,Single,Middle income,Average health,Sporadic,Practical
+Role397,43,female,Teacher,Innovative,Informal,Traveling,Graduate Degree,Western,English,Intermediate,Mixed,Sedentary,Humanism,Widowed,Middle income,Average health,Sporadic,Creative
+Role398,41,nondisclosed,Teacher,Traditional,Formal,Reading,Graduate Degree,Eastern,Mandarin,Novice,Video,Active,Environmentalism,Divorced,High income,Health-conscious,Part-time,Creative
+Role399,45,male,Doctor,Introverted,Informal,Sports,Bachelor,Middle Eastern,French,Expert,Voice,Active,Christianity,Widowed,High income,Healthy,Full-time,Creative
+Role400,22,genderqueer,Student,Innovative,Formal,Cooking,Graduate Degree,Eastern,Spanish,Novice,Text,Sedentary,Islam,Married,High income,Health-conscious,Part-time,Practical
+Role401,48,genderqueer,Teacher,Innovative,Direct,Painting,Bachelor,Middle Eastern,Mandarin,Expert,Video,Active,Christianity,Single,Low income,Healthy,Part-time,Collaborative
+Role402,36,female,Engineer,Innovative,Direct,Cooking,Graduate Degree,Middle Eastern,Spanish,Novice,Mixed,Active,Humanism,Married,High income,Health-conscious,Sporadic,Analytical
+Role403,61,nondisclosed,Artist,Traditional,Humorous,Traveling,High School,Western,Spanish,Novice,Voice,Sedentary,Atheism,Married,High income,Average health,Part-time,Practical
+Role404,57,male,Artist,Introverted,Formal,Sports,Graduate Degree,African,French,Intermediate,Text,Sedentary,Environmentalism,Single,High income,Health-conscious,Part-time,Practical
+Role405,31,female,Student,Introverted,Empathetic,Cooking,Bachelor,Middle Eastern,English,Expert,Video,Sedentary,Christianity,Single,Middle income,Average health,Part-time,Practical
+Role406,60,genderqueer,Artist,Extroverted,Direct,Video Games,High School,Middle Eastern,Mandarin,Novice,Video,Sedentary,Humanism,Divorced,Middle income,Average health,Part-time,Creative
+Role407,19,genderqueer,Student,Traditional,Humorous,Sports,Graduate Degree,Eastern,French,Intermediate,Video,Active,Christianity,Married,High income,Average health,Sporadic,Collaborative
+Role408,71,nondisclosed,Engineer,Traditional,Humorous,Traveling,Bachelor,Middle Eastern,French,Intermediate,Video,Sedentary,Environmentalism,Widowed,Middle income,Average health,Full-time,Collaborative
+Role409,53,female,Doctor,Extroverted,Mixed,Reading,Bachelor,Middle Eastern,Mandarin,Novice,Video,Sedentary,Environmentalism,Widowed,Middle income,Health-conscious,Part-time,Analytical
+Role410,43,nondisclosed,Artist,Introverted,Empathetic,Traveling,Bachelor,Middle Eastern,French,Novice,Video,Sedentary,Atheism,Single,Middle income,Health-conscious,Sporadic,Collaborative
+Role411,48,female,Student,Introverted,Mixed,Traveling,High School,Eastern,English,Novice,Mixed,Active,Humanism,Married,Middle income,Average health,Part-time,Analytical
+Role412,49,nondisclosed,Teacher,Extroverted,Direct,Traveling,High School,Middle Eastern,Spanish,Expert,Voice,Sedentary,Christianity,Divorced,High income,Healthy,Full-time,Practical
+Role413,20,genderqueer,Doctor,Traditional,Mixed,Reading,High School,Western,Mandarin,Novice,Mixed,Sedentary,Humanism,Married,Middle income,Average health,Part-time,Practical
+Role414,59,nondisclosed,Engineer,Innovative,Empathetic,Sports,High School,Middle Eastern,Spanish,Intermediate,Video,Sedentary,Atheism,Widowed,Low income,Healthy,Full-time,Creative
+Role415,33,genderqueer,Artist,Introverted,Mixed,Cooking,Graduate Degree,Western,Spanish,Novice,Mixed,Sedentary,Islam,Divorced,Middle income,Average health,Part-time,Collaborative
+Role416,67,genderqueer,Retired,Introverted,Informal,Video Games,Graduate Degree,Eastern,French,Intermediate,Text,Active,Atheism,Single,Low income,Average health,Part-time,Practical
+Role417,70,genderqueer,Scientist,Traditional,Direct,Reading,Bachelor,Eastern,French,Novice,Mixed,Active,Humanism,Divorced,Middle income,Health-conscious,Part-time,Creative
+Role418,23,nondisclosed,Artist,Innovative,Formal,Painting,High School,Middle Eastern,French,Novice,Voice,Sedentary,Environmentalism,Single,High income,Healthy,Part-time,Creative
+Role419,31,genderqueer,Retired,Innovative,Humorous,Cooking,High School,Middle Eastern,English,Novice,Video,Active,Environmentalism,Married,Middle income,Average health,Full-time,Analytical
+Role420,49,male,Student,Innovative,Mixed,Sports,Graduate Degree,African,Mandarin,Intermediate,Mixed,Sedentary,Humanism,Widowed,Low income,Healthy,Full-time,Analytical
+Role421,72,female,Doctor,Extroverted,Empathetic,Video Games,Bachelor,Western,French,Novice,Voice,Sedentary,Christianity,In a relationship,Low income,Health-conscious,Part-time,Creative
+Role422,61,female,Artist,Traditional,Humorous,Video Games,Bachelor,Middle Eastern,Spanish,Novice,Text,Active,Humanism,Single,Low income,Health-conscious,Part-time,Practical
+Role423,67,male,Artist,Traditional,Mixed,Reading,Bachelor,Western,Spanish,Novice,Text,Active,Christianity,Single,Middle income,Healthy,Part-time,Collaborative
+Role424,58,female,Teacher,Traditional,Formal,Painting,High School,African,English,Expert,Video,Sedentary,Humanism,Widowed,High income,Average health,Part-time,Analytical
+Role425,52,male,Scientist,Introverted,Informal,Reading,High School,Middle Eastern,Spanish,Expert,Text,Sedentary,Christianity,In a relationship,High income,Average health,Part-time,Analytical
+Role426,30,nondisclosed,Artist,Traditional,Informal,Sports,Bachelor,Eastern,English,Intermediate,Voice,Sedentary,Atheism,Married,High income,Health-conscious,Part-time,Practical
+Role427,67,male,Teacher,Traditional,Formal,Reading,Graduate Degree,Middle Eastern,Spanish,Novice,Mixed,Active,Christianity,In a relationship,High income,Average health,Part-time,Practical
+Role428,18,nondisclosed,Retired,Extroverted,Mixed,Reading,Bachelor,Western,French,Intermediate,Mixed,Sedentary,Atheism,In a relationship,Low income,Average health,Full-time,Practical
+Role429,45,female,Doctor,Innovative,Formal,Sports,Graduate Degree,African,Spanish,Intermediate,Mixed,Sedentary,Humanism,Divorced,High income,Healthy,Full-time,Collaborative
+Role430,60,male,Doctor,Traditional,Empathetic,Painting,Graduate Degree,African,Mandarin,Expert,Text,Active,Environmentalism,Single,Middle income,Average health,Part-time,Practical
+Role431,21,male,Doctor,Innovative,Direct,Reading,Graduate Degree,Middle Eastern,Mandarin,Intermediate,Video,Active,Humanism,Divorced,Low income,Healthy,Full-time,Creative
+Role432,80,genderqueer,Student,Traditional,Humorous,Traveling,Bachelor,Middle Eastern,Mandarin,Expert,Video,Active,Environmentalism,Divorced,High income,Average health,Part-time,Analytical
+Role433,77,nondisclosed,Engineer,Introverted,Humorous,Video Games,Bachelor,African,Spanish,Expert,Voice,Sedentary,Humanism,In a relationship,High income,Average health,Part-time,Collaborative
+Role434,65,male,Doctor,Traditional,Mixed,Painting,High School,African,English,Intermediate,Mixed,Sedentary,Islam,Single,Middle income,Average health,Sporadic,Analytical
+Role435,77,nondisclosed,Retired,Extroverted,Humorous,Painting,High School,Eastern,English,Novice,Voice,Sedentary,Atheism,Widowed,High income,Healthy,Part-time,Analytical
+Role436,72,female,Doctor,Introverted,Informal,Cooking,High School,Eastern,Spanish,Intermediate,Mixed,Active,Islam,Married,Middle income,Healthy,Part-time,Creative
+Role437,58,female,Student,Introverted,Empathetic,Painting,Bachelor,African,Spanish,Intermediate,Video,Active,Humanism,Divorced,Low income,Healthy,Sporadic,Creative
+Role438,75,nondisclosed,Student,Traditional,Formal,Video Games,Bachelor,Western,Mandarin,Intermediate,Mixed,Active,Environmentalism,Divorced,High income,Average health,Part-time,Analytical
+Role439,71,male,Artist,Extroverted,Humorous,Reading,Graduate Degree,African,French,Intermediate,Voice,Active,Atheism,In a relationship,High income,Average health,Part-time,Practical
+Role440,34,male,Engineer,Innovative,Humorous,Reading,High School,African,Spanish,Intermediate,Text,Active,Atheism,In a relationship,Low income,Health-conscious,Sporadic,Collaborative
+Role441,55,female,Engineer,Traditional,Humorous,Video Games,Graduate Degree,African,Spanish,Expert,Voice,Active,Islam,Widowed,High income,Average health,Part-time,Creative
+Role442,63,genderqueer,Student,Extroverted,Empathetic,Traveling,High School,Western,Spanish,Expert,Voice,Active,Atheism,Single,Middle income,Health-conscious,Full-time,Collaborative
+Role443,41,male,Student,Introverted,Humorous,Reading,Graduate Degree,Middle Eastern,French,Expert,Text,Sedentary,Humanism,Widowed,Middle income,Healthy,Full-time,Practical
+Role444,18,female,Teacher,Extroverted,Empathetic,Sports,Bachelor,Eastern,Mandarin,Intermediate,Text,Active,Islam,In a relationship,High income,Healthy,Part-time,Practical
+Role445,30,male,Doctor,Innovative,Empathetic,Cooking,High School,African,English,Expert,Voice,Active,Humanism,Divorced,Low income,Healthy,Sporadic,Creative
+Role446,51,genderqueer,Teacher,Innovative,Humorous,Sports,Graduate Degree,Western,French,Intermediate,Voice,Sedentary,Humanism,Divorced,Low income,Healthy,Full-time,Analytical
+Role447,47,female,Student,Introverted,Mixed,Cooking,High School,Middle Eastern,Spanish,Novice,Video,Active,Christianity,Married,Middle income,Average health,Full-time,Creative
+Role448,70,female,Artist,Introverted,Formal,Video Games,High School,Eastern,French,Expert,Voice,Active,Environmentalism,Single,High income,Healthy,Part-time,Analytical
+Role449,40,genderqueer,Teacher,Traditional,Informal,Traveling,Bachelor,Eastern,Mandarin,Intermediate,Mixed,Active,Environmentalism,Single,Low income,Average health,Part-time,Creative
+Role450,61,nondisclosed,Scientist,Traditional,Humorous,Traveling,Bachelor,Middle Eastern,Spanish,Intermediate,Voice,Sedentary,Atheism,Single,High income,Health-conscious,Sporadic,Collaborative
+Role451,73,female,Scientist,Traditional,Empathetic,Traveling,Bachelor,Eastern,English,Novice,Voice,Sedentary,Humanism,Single,High income,Health-conscious,Sporadic,Creative
+Role452,43,nondisclosed,Artist,Innovative,Informal,Sports,Graduate Degree,Western,Mandarin,Expert,Text,Sedentary,Environmentalism,Single,Middle income,Average health,Part-time,Practical
+Role453,32,genderqueer,Artist,Extroverted,Mixed,Sports,Bachelor,Western,French,Novice,Mixed,Sedentary,Atheism,In a relationship,High income,Average health,Full-time,Creative
+Role454,27,nondisclosed,Scientist,Extroverted,Empathetic,Sports,High School,African,Mandarin,Expert,Video,Active,Christianity,In a relationship,Low income,Healthy,Full-time,Practical
+Role455,43,female,Engineer,Traditional,Direct,Painting,High School,Eastern,English,Intermediate,Video,Active,Christianity,Widowed,Middle income,Health-conscious,Sporadic,Analytical
+Role456,31,genderqueer,Engineer,Introverted,Formal,Video Games,High School,Eastern,Spanish,Novice,Text,Sedentary,Environmentalism,Married,Low income,Average health,Full-time,Collaborative
+Role457,61,nondisclosed,Artist,Extroverted,Informal,Sports,Graduate Degree,Middle Eastern,English,Novice,Video,Sedentary,Humanism,Single,Middle income,Average health,Part-time,Practical
+Role458,24,genderqueer,Artist,Extroverted,Informal,Traveling,Bachelor,Middle Eastern,Mandarin,Intermediate,Text,Active,Atheism,In a relationship,Low income,Average health,Full-time,Collaborative
+Role459,20,female,Doctor,Introverted,Mixed,Cooking,High School,Eastern,French,Intermediate,Mixed,Sedentary,Atheism,Widowed,Middle income,Health-conscious,Sporadic,Practical
+Role460,53,male,Engineer,Traditional,Direct,Reading,High School,Western,French,Expert,Text,Sedentary,Atheism,Divorced,Low income,Health-conscious,Part-time,Analytical
+Role461,46,female,Scientist,Traditional,Formal,Sports,Bachelor,Eastern,Mandarin,Expert,Text,Active,Humanism,In a relationship,Low income,Healthy,Sporadic,Creative
+Role462,54,genderqueer,Doctor,Innovative,Mixed,Cooking,High School,African,Spanish,Expert,Voice,Sedentary,Humanism,Widowed,High income,Healthy,Sporadic,Practical
+Role463,33,female,Teacher,Introverted,Informal,Traveling,Graduate Degree,Eastern,Mandarin,Novice,Mixed,Sedentary,Humanism,Single,High income,Average health,Full-time,Analytical
+Role464,76,male,Retired,Extroverted,Mixed,Painting,High School,Eastern,French,Intermediate,Voice,Sedentary,Atheism,Single,High income,Average health,Part-time,Analytical
+Role465,53,male,Artist,Innovative,Informal,Traveling,High School,Western,English,Novice,Video,Sedentary,Environmentalism,In a relationship,Middle income,Health-conscious,Full-time,Collaborative
+Role466,67,female,Artist,Introverted,Empathetic,Traveling,Bachelor,Western,Spanish,Intermediate,Text,Sedentary,Environmentalism,Married,High income,Health-conscious,Sporadic,Analytical
+Role467,21,female,Teacher,Extroverted,Direct,Video Games,Bachelor,Western,Mandarin,Intermediate,Text,Active,Environmentalism,Divorced,High income,Healthy,Full-time,Practical
+Role468,48,male,Doctor,Traditional,Mixed,Sports,High School,Western,English,Intermediate,Voice,Sedentary,Christianity,Widowed,Low income,Health-conscious,Part-time,Creative
+Role469,23,genderqueer,Teacher,Traditional,Mixed,Traveling,Bachelor,Eastern,English,Novice,Video,Sedentary,Christianity,In a relationship,Low income,Health-conscious,Part-time,Creative
+Role470,64,genderqueer,Engineer,Introverted,Mixed,Cooking,Bachelor,Western,French,Intermediate,Text,Active,Humanism,In a relationship,Middle income,Health-conscious,Full-time,Creative
+Role471,74,genderqueer,Artist,Innovative,Direct,Video Games,Bachelor,African,Spanish,Expert,Video,Sedentary,Environmentalism,Widowed,Low income,Average health,Part-time,Collaborative
+Role472,52,male,Student,Innovative,Humorous,Painting,Graduate Degree,Eastern,English,Expert,Voice,Sedentary,Christianity,Widowed,High income,Healthy,Sporadic,Collaborative
+Role473,50,female,Doctor,Extroverted,Direct,Painting,Graduate Degree,Western,Spanish,Intermediate,Voice,Active,Islam,Divorced,Low income,Average health,Part-time,Creative
+Role474,36,genderqueer,Doctor,Traditional,Humorous,Traveling,Graduate Degree,Western,English,Expert,Text,Active,Environmentalism,Divorced,Low income,Healthy,Sporadic,Practical
+Role475,52,nondisclosed,Doctor,Introverted,Informal,Painting,Bachelor,African,Mandarin,Expert,Voice,Sedentary,Humanism,Divorced,Middle income,Average health,Full-time,Creative
+Role476,22,male,Teacher,Extroverted,Humorous,Traveling,Graduate Degree,Eastern,English,Novice,Voice,Sedentary,Christianity,Divorced,High income,Average health,Part-time,Analytical
+Role477,25,male,Teacher,Innovative,Informal,Painting,Graduate Degree,Western,English,Expert,Mixed,Sedentary,Atheism,In a relationship,Middle income,Average health,Sporadic,Collaborative
+Role478,18,nondisclosed,Teacher,Innovative,Mixed,Video Games,Graduate Degree,Middle Eastern,French,Intermediate,Text,Active,Humanism,Married,Middle income,Healthy,Full-time,Practical
+Role479,74,genderqueer,Student,Introverted,Mixed,Sports,High School,African,Spanish,Intermediate,Mixed,Active,Humanism,Widowed,High income,Healthy,Part-time,Analytical
+Role480,60,female,Doctor,Extroverted,Direct,Sports,High School,African,English,Novice,Mixed,Active,Islam,In a relationship,High income,Healthy,Sporadic,Analytical
+Role481,58,female,Teacher,Innovative,Empathetic,Sports,Graduate Degree,Middle Eastern,French,Novice,Text,Active,Atheism,Married,High income,Healthy,Full-time,Collaborative
+Role482,64,male,Scientist,Extroverted,Formal,Painting,High School,Eastern,English,Expert,Video,Active,Humanism,Married,High income,Health-conscious,Part-time,Creative
+Role483,64,nondisclosed,Engineer,Introverted,Informal,Painting,Graduate Degree,Western,Spanish,Intermediate,Mixed,Sedentary,Humanism,Widowed,High income,Health-conscious,Sporadic,Analytical
+Role484,67,genderqueer,Engineer,Innovative,Empathetic,Sports,Bachelor,African,French,Expert,Video,Sedentary,Humanism,Single,High income,Average health,Full-time,Collaborative
+Role485,71,nondisclosed,Retired,Innovative,Humorous,Traveling,Graduate Degree,Eastern,Mandarin,Novice,Video,Active,Christianity,Single,High income,Healthy,Full-time,Collaborative
+Role486,58,nondisclosed,Student,Traditional,Humorous,Reading,High School,Eastern,Spanish,Expert,Video,Sedentary,Atheism,Divorced,Low income,Health-conscious,Full-time,Creative
+Role487,21,female,Artist,Innovative,Informal,Reading,High School,Eastern,French,Novice,Mixed,Sedentary,Environmentalism,Divorced,Middle income,Health-conscious,Part-time,Creative
+Role488,26,genderqueer,Artist,Traditional,Empathetic,Video Games,Graduate Degree,Eastern,French,Intermediate,Voice,Sedentary,Christianity,Single,Low income,Health-conscious,Sporadic,Analytical
+Role489,26,female,Artist,Introverted,Formal,Cooking,Bachelor,African,Mandarin,Intermediate,Voice,Active,Atheism,Married,High income,Health-conscious,Full-time,Collaborative
+Role490,55,male,Retired,Innovative,Mixed,Video Games,High School,African,English,Novice,Video,Sedentary,Christianity,Married,Low income,Healthy,Sporadic,Collaborative
+Role491,66,female,Scientist,Introverted,Direct,Video Games,High School,Eastern,French,Intermediate,Video,Sedentary,Christianity,Widowed,Middle income,Health-conscious,Part-time,Practical
+Role492,52,genderqueer,Doctor,Extroverted,Mixed,Sports,Bachelor,Western,Spanish,Intermediate,Video,Active,Environmentalism,Widowed,High income,Average health,Part-time,Collaborative
+Role493,51,nondisclosed,Artist,Innovative,Humorous,Sports,Bachelor,Western,Mandarin,Novice,Video,Active,Atheism,In a relationship,Low income,Health-conscious,Sporadic,Collaborative
+Role494,80,nondisclosed,Scientist,Traditional,Humorous,Sports,Bachelor,Western,Mandarin,Expert,Voice,Sedentary,Islam,Divorced,Middle income,Average health,Full-time,Practical
+Role495,74,male,Scientist,Extroverted,Mixed,Reading,Graduate Degree,Western,French,Novice,Video,Sedentary,Environmentalism,In a relationship,Low income,Healthy,Full-time,Practical
+Role496,66,female,Engineer,Traditional,Informal,Sports,Graduate Degree,African,Spanish,Intermediate,Text,Sedentary,Christianity,Widowed,Middle income,Healthy,Sporadic,Practical
+Role497,43,female,Engineer,Introverted,Humorous,Traveling,Graduate Degree,Middle Eastern,French,Novice,Video,Active,Christianity,Married,Low income,Health-conscious,Full-time,Creative
+Role498,72,male,Engineer,Innovative,Mixed,Painting,Bachelor,Eastern,French,Novice,Mixed,Active,Environmentalism,Divorced,Low income,Health-conscious,Full-time,Creative
+Role499,29,genderqueer,Student,Traditional,Informal,Video Games,High School,Middle Eastern,English,Intermediate,Voice,Sedentary,Humanism,Married,Low income,Health-conscious,Full-time,Creative
+Role500,67,female,Artist,Traditional,Formal,Video Games,Bachelor,African,Mandarin,Expert,Voice,Active,Christianity,Married,Low income,Health-conscious,Full-time,Collaborative
+Role501,64,female,Retired,Extroverted,Direct,Video Games,Bachelor,Eastern,English,Expert,Voice,Sedentary,Christianity,Widowed,Middle income,Average health,Full-time,Creative
+Role502,60,male,Retired,Extroverted,Formal,Painting,Graduate Degree,Eastern,French,Novice,Text,Sedentary,Islam,Married,Low income,Health-conscious,Sporadic,Analytical
+Role503,28,nondisclosed,Doctor,Extroverted,Direct,Video Games,Bachelor,Western,English,Expert,Mixed,Active,Humanism,Married,Low income,Health-conscious,Sporadic,Collaborative
+Role504,19,nondisclosed,Doctor,Introverted,Formal,Painting,Bachelor,Middle Eastern,English,Novice,Text,Sedentary,Environmentalism,In a relationship,Low income,Average health,Full-time,Collaborative
+Role505,31,female,Retired,Extroverted,Empathetic,Reading,Bachelor,African,Spanish,Expert,Mixed,Sedentary,Islam,Single,Middle income,Health-conscious,Sporadic,Creative
+Role506,79,female,Engineer,Introverted,Humorous,Video Games,High School,Eastern,French,Intermediate,Mixed,Active,Christianity,Married,Middle income,Healthy,Full-time,Collaborative
+Role507,25,nondisclosed,Engineer,Introverted,Informal,Traveling,High School,African,Spanish,Expert,Video,Active,Atheism,Married,Middle income,Healthy,Full-time,Creative
+Role508,51,male,Retired,Extroverted,Empathetic,Video Games,Graduate Degree,African,Spanish,Expert,Voice,Sedentary,Islam,Divorced,Middle income,Healthy,Sporadic,Collaborative
+Role509,79,female,Doctor,Extroverted,Direct,Painting,High School,African,French,Intermediate,Voice,Sedentary,Humanism,Single,High income,Healthy,Sporadic,Practical
+Role510,53,nondisclosed,Teacher,Extroverted,Humorous,Painting,Bachelor,Eastern,Spanish,Expert,Voice,Active,Humanism,Widowed,Low income,Health-conscious,Full-time,Practical
+Role511,41,female,Scientist,Introverted,Mixed,Painting,Graduate Degree,Middle Eastern,French,Intermediate,Text,Active,Humanism,In a relationship,High income,Health-conscious,Part-time,Creative
+Role512,35,nondisclosed,Artist,Innovative,Humorous,Reading,Graduate Degree,Middle Eastern,Mandarin,Intermediate,Voice,Sedentary,Environmentalism,Widowed,Low income,Healthy,Part-time,Collaborative
+Role513,62,male,Engineer,Innovative,Empathetic,Traveling,Graduate Degree,Eastern,English,Expert,Video,Active,Atheism,Single,Low income,Health-conscious,Part-time,Practical
+Role514,75,genderqueer,Teacher,Innovative,Informal,Traveling,Graduate Degree,Middle Eastern,English,Intermediate,Video,Sedentary,Humanism,Married,High income,Healthy,Part-time,Collaborative
+Role515,24,nondisclosed,Doctor,Introverted,Informal,Cooking,Graduate Degree,Eastern,English,Novice,Mixed,Active,Environmentalism,In a relationship,Middle income,Health-conscious,Full-time,Collaborative
+Role516,76,nondisclosed,Scientist,Introverted,Humorous,Traveling,Graduate Degree,African,French,Intermediate,Text,Sedentary,Atheism,In a relationship,Middle income,Health-conscious,Part-time,Collaborative
+Role517,76,female,Scientist,Introverted,Mixed,Painting,Bachelor,Western,English,Novice,Text,Active,Christianity,Divorced,High income,Average health,Sporadic,Collaborative
+Role518,43,male,Teacher,Innovative,Informal,Reading,High School,African,English,Intermediate,Mixed,Active,Atheism,In a relationship,Low income,Health-conscious,Sporadic,Collaborative
+Role519,35,male,Artist,Innovative,Formal,Painting,Bachelor,African,French,Expert,Voice,Active,Christianity,In a relationship,Low income,Average health,Full-time,Analytical
+Role520,29,male,Student,Extroverted,Direct,Traveling,Bachelor,Middle Eastern,French,Expert,Text,Sedentary,Atheism,Divorced,Low income,Health-conscious,Sporadic,Creative
+Role521,70,nondisclosed,Student,Extroverted,Direct,Cooking,Graduate Degree,Eastern,Spanish,Intermediate,Video,Sedentary,Christianity,Widowed,Low income,Health-conscious,Full-time,Creative
+Role522,74,male,Student,Innovative,Informal,Reading,Graduate Degree,African,Mandarin,Novice,Voice,Sedentary,Humanism,Married,Middle income,Healthy,Part-time,Collaborative
+Role523,18,genderqueer,Teacher,Introverted,Direct,Cooking,High School,Middle Eastern,Mandarin,Intermediate,Text,Sedentary,Atheism,Married,High income,Health-conscious,Full-time,Collaborative
+Role524,46,female,Teacher,Extroverted,Informal,Painting,Bachelor,Western,French,Intermediate,Mixed,Active,Islam,Widowed,High income,Healthy,Part-time,Analytical
+Role525,64,nondisclosed,Scientist,Extroverted,Empathetic,Painting,Graduate Degree,Western,French,Intermediate,Voice,Sedentary,Christianity,Married,High income,Healthy,Full-time,Collaborative
+Role526,24,genderqueer,Artist,Introverted,Mixed,Video Games,Graduate Degree,Middle Eastern,English,Intermediate,Video,Active,Atheism,Widowed,Low income,Healthy,Sporadic,Creative
+Role527,61,nondisclosed,Doctor,Innovative,Empathetic,Reading,High School,Eastern,Spanish,Intermediate,Video,Active,Islam,Widowed,High income,Average health,Part-time,Practical
+Role528,42,female,Teacher,Traditional,Humorous,Cooking,Graduate Degree,Eastern,Mandarin,Intermediate,Video,Sedentary,Islam,Widowed,Middle income,Healthy,Full-time,Analytical
+Role529,67,genderqueer,Artist,Innovative,Direct,Reading,High School,Western,Spanish,Intermediate,Voice,Active,Environmentalism,Married,Middle income,Healthy,Part-time,Practical
+Role530,21,female,Teacher,Introverted,Humorous,Painting,Graduate Degree,Middle Eastern,Mandarin,Expert,Voice,Active,Humanism,Married,Low income,Health-conscious,Full-time,Collaborative
+Role531,71,male,Retired,Extroverted,Mixed,Cooking,Bachelor,Western,French,Intermediate,Voice,Active,Humanism,Married,Middle income,Healthy,Full-time,Creative
+Role532,23,genderqueer,Student,Innovative,Mixed,Cooking,Graduate Degree,Middle Eastern,English,Intermediate,Voice,Active,Christianity,Single,High income,Health-conscious,Sporadic,Collaborative
+Role533,78,female,Scientist,Extroverted,Formal,Traveling,Graduate Degree,Eastern,Spanish,Novice,Video,Active,Environmentalism,Widowed,Low income,Healthy,Full-time,Creative
+Role534,34,nondisclosed,Artist,Traditional,Formal,Sports,Graduate Degree,Western,Spanish,Intermediate,Voice,Sedentary,Christianity,In a relationship,High income,Healthy,Part-time,Practical
+Role535,56,nondisclosed,Doctor,Innovative,Humorous,Video Games,Graduate Degree,Eastern,English,Novice,Text,Sedentary,Environmentalism,In a relationship,Low income,Average health,Full-time,Analytical
+Role536,68,female,Artist,Extroverted,Mixed,Cooking,Bachelor,Western,Mandarin,Intermediate,Mixed,Active,Humanism,Single,Middle income,Average health,Part-time,Creative
+Role537,34,male,Artist,Extroverted,Empathetic,Reading,Graduate Degree,Western,English,Novice,Mixed,Sedentary,Christianity,Divorced,Middle income,Health-conscious,Part-time,Analytical
+Role538,41,female,Scientist,Traditional,Formal,Traveling,Graduate Degree,Middle Eastern,English,Novice,Text,Sedentary,Humanism,Divorced,High income,Healthy,Full-time,Practical
+Role539,76,male,Student,Extroverted,Mixed,Sports,Graduate Degree,Middle Eastern,Spanish,Intermediate,Video,Sedentary,Islam,Married,Low income,Healthy,Part-time,Creative
+Role540,68,male,Artist,Extroverted,Empathetic,Traveling,Bachelor,Western,Mandarin,Expert,Voice,Sedentary,Christianity,Single,Low income,Healthy,Full-time,Creative
+Role541,41,female,Scientist,Innovative,Informal,Cooking,High School,African,Mandarin,Intermediate,Mixed,Sedentary,Atheism,Single,Middle income,Healthy,Part-time,Creative
+Role542,72,female,Teacher,Introverted,Mixed,Cooking,High School,Western,Spanish,Intermediate,Text,Active,Christianity,Divorced,High income,Healthy,Sporadic,Analytical
+Role543,41,male,Engineer,Introverted,Informal,Painting,Bachelor,Eastern,English,Novice,Video,Active,Islam,In a relationship,High income,Healthy,Part-time,Analytical
+Role544,33,genderqueer,Artist,Traditional,Mixed,Video Games,Graduate Degree,African,Mandarin,Intermediate,Mixed,Active,Humanism,Divorced,Middle income,Average health,Part-time,Collaborative
+Role545,29,female,Scientist,Innovative,Formal,Video Games,Graduate Degree,African,French,Novice,Text,Sedentary,Atheism,Married,High income,Healthy,Part-time,Practical
+Role546,72,female,Retired,Introverted,Direct,Sports,Bachelor,Middle Eastern,Spanish,Intermediate,Text,Sedentary,Islam,Single,Middle income,Average health,Part-time,Analytical
+Role547,76,male,Doctor,Extroverted,Formal,Video Games,High School,Middle Eastern,Spanish,Novice,Text,Active,Atheism,Divorced,Middle income,Average health,Sporadic,Analytical
+Role548,24,genderqueer,Artist,Extroverted,Informal,Sports,Bachelor,Middle Eastern,Spanish,Expert,Mixed,Sedentary,Environmentalism,Divorced,Low income,Average health,Full-time,Creative
+Role549,20,nondisclosed,Teacher,Extroverted,Direct,Sports,High School,Eastern,Spanish,Expert,Voice,Active,Christianity,Single,Middle income,Average health,Sporadic,Creative
+Role550,59,nondisclosed,Artist,Introverted,Informal,Painting,High School,Middle Eastern,Mandarin,Novice,Text,Sedentary,Humanism,Widowed,Middle income,Health-conscious,Sporadic,Collaborative
+Role551,47,nondisclosed,Retired,Extroverted,Mixed,Traveling,High School,Eastern,English,Novice,Text,Sedentary,Environmentalism,Single,Middle income,Average health,Part-time,Practical
+Role552,21,genderqueer,Retired,Innovative,Mixed,Painting,Graduate Degree,Middle Eastern,Mandarin,Intermediate,Text,Sedentary,Islam,Single,High income,Health-conscious,Sporadic,Creative
+Role553,78,genderqueer,Doctor,Innovative,Formal,Reading,Graduate Degree,Middle Eastern,Spanish,Expert,Mixed,Sedentary,Islam,Single,High income,Health-conscious,Part-time,Collaborative
+Role554,20,genderqueer,Student,Innovative,Direct,Reading,Bachelor,African,Spanish,Novice,Video,Active,Atheism,In a relationship,Middle income,Health-conscious,Sporadic,Creative
+Role555,44,female,Artist,Extroverted,Informal,Cooking,Bachelor,Eastern,Spanish,Expert,Text,Sedentary,Islam,Married,High income,Health-conscious,Sporadic,Creative
+Role556,52,female,Student,Extroverted,Formal,Traveling,High School,African,English,Novice,Mixed,Sedentary,Environmentalism,Widowed,Middle income,Average health,Sporadic,Creative
+Role557,58,genderqueer,Teacher,Traditional,Mixed,Reading,Bachelor,Eastern,French,Novice,Video,Sedentary,Humanism,In a relationship,Middle income,Healthy,Sporadic,Collaborative
+Role558,40,nondisclosed,Retired,Traditional,Mixed,Traveling,Bachelor,Eastern,Mandarin,Expert,Text,Active,Christianity,Single,High income,Average health,Full-time,Collaborative
+Role559,25,male,Retired,Introverted,Mixed,Reading,Graduate Degree,Middle Eastern,Mandarin,Novice,Text,Sedentary,Christianity,Married,Middle income,Health-conscious,Part-time,Creative
+Role560,25,male,Teacher,Traditional,Mixed,Traveling,High School,African,English,Expert,Video,Active,Humanism,Married,Low income,Healthy,Part-time,Collaborative
+Role561,38,genderqueer,Engineer,Innovative,Mixed,Video Games,Bachelor,Eastern,English,Expert,Video,Sedentary,Islam,Single,High income,Healthy,Part-time,Collaborative
+Role562,50,female,Scientist,Introverted,Empathetic,Cooking,High School,Western,English,Expert,Mixed,Sedentary,Christianity,Divorced,Low income,Health-conscious,Part-time,Collaborative
+Role563,62,genderqueer,Artist,Introverted,Formal,Sports,Bachelor,Western,French,Novice,Text,Active,Atheism,In a relationship,Low income,Average health,Full-time,Collaborative
+Role564,73,genderqueer,Engineer,Extroverted,Informal,Sports,Graduate Degree,African,Spanish,Intermediate,Video,Active,Atheism,In a relationship,High income,Health-conscious,Part-time,Collaborative
+Role565,43,male,Artist,Innovative,Formal,Video Games,Graduate Degree,Eastern,Mandarin,Expert,Video,Active,Christianity,Widowed,Middle income,Health-conscious,Sporadic,Collaborative
+Role566,44,genderqueer,Doctor,Extroverted,Direct,Sports,Graduate Degree,Middle Eastern,French,Expert,Mixed,Sedentary,Islam,Widowed,High income,Average health,Part-time,Analytical
+Role567,57,genderqueer,Doctor,Traditional,Informal,Reading,Graduate Degree,Middle Eastern,French,Intermediate,Video,Sedentary,Environmentalism,Married,High income,Average health,Sporadic,Analytical
+Role568,22,nondisclosed,Engineer,Extroverted,Direct,Reading,Graduate Degree,Eastern,English,Novice,Mixed,Sedentary,Environmentalism,Married,Middle income,Health-conscious,Part-time,Practical
+Role569,33,male,Doctor,Innovative,Humorous,Painting,Bachelor,Western,Spanish,Intermediate,Mixed,Active,Atheism,Single,Low income,Average health,Part-time,Collaborative
+Role570,74,genderqueer,Engineer,Traditional,Humorous,Painting,Bachelor,Western,English,Novice,Voice,Sedentary,Atheism,Single,Low income,Average health,Sporadic,Analytical
+Role571,34,female,Student,Extroverted,Mixed,Reading,Bachelor,Eastern,Mandarin,Novice,Mixed,Sedentary,Environmentalism,In a relationship,Middle income,Health-conscious,Part-time,Collaborative
+Role572,70,genderqueer,Student,Traditional,Informal,Sports,Graduate Degree,African,French,Intermediate,Voice,Sedentary,Humanism,Divorced,Middle income,Health-conscious,Part-time,Collaborative
+Role573,72,male,Engineer,Extroverted,Informal,Painting,Graduate Degree,Western,English,Intermediate,Video,Sedentary,Atheism,In a relationship,Low income,Health-conscious,Full-time,Collaborative
+Role574,37,male,Retired,Introverted,Formal,Cooking,High School,African,Mandarin,Novice,Text,Sedentary,Atheism,In a relationship,High income,Health-conscious,Full-time,Analytical
+Role575,76,male,Teacher,Traditional,Direct,Video Games,Graduate Degree,Western,English,Novice,Mixed,Sedentary,Environmentalism,Divorced,High income,Healthy,Part-time,Practical
+Role576,52,genderqueer,Doctor,Extroverted,Informal,Video Games,Bachelor,Middle Eastern,French,Expert,Video,Active,Atheism,In a relationship,Low income,Health-conscious,Sporadic,Practical
+Role577,63,nondisclosed,Retired,Introverted,Informal,Video Games,Bachelor,Middle Eastern,Spanish,Expert,Video,Active,Environmentalism,In a relationship,Middle income,Average health,Full-time,Collaborative
+Role578,21,female,Retired,Traditional,Formal,Sports,High School,Western,French,Expert,Mixed,Active,Atheism,Divorced,Middle income,Healthy,Sporadic,Collaborative
+Role579,51,nondisclosed,Doctor,Innovative,Empathetic,Traveling,Graduate Degree,African,Spanish,Novice,Text,Sedentary,Islam,Widowed,High income,Healthy,Full-time,Practical
+Role580,39,male,Scientist,Innovative,Empathetic,Reading,Graduate Degree,Middle Eastern,French,Expert,Voice,Sedentary,Environmentalism,Widowed,High income,Healthy,Full-time,Practical
+Role581,33,genderqueer,Scientist,Extroverted,Humorous,Reading,High School,African,Mandarin,Intermediate,Mixed,Sedentary,Islam,Divorced,Middle income,Health-conscious,Sporadic,Analytical
+Role582,51,female,Scientist,Introverted,Direct,Painting,Bachelor,Western,Spanish,Expert,Text,Sedentary,Islam,Single,High income,Average health,Part-time,Practical
+Role583,52,female,Retired,Extroverted,Humorous,Video Games,Graduate Degree,Middle Eastern,French,Expert,Voice,Sedentary,Environmentalism,Single,High income,Health-conscious,Full-time,Practical
+Role584,52,male,Doctor,Innovative,Humorous,Painting,High School,Western,Spanish,Novice,Text,Active,Islam,Married,Low income,Health-conscious,Part-time,Creative
+Role585,45,male,Retired,Innovative,Mixed,Painting,Bachelor,Middle Eastern,Spanish,Intermediate,Text,Sedentary,Islam,Widowed,Low income,Healthy,Full-time,Practical
+Role586,32,male,Engineer,Traditional,Mixed,Video Games,Graduate Degree,Western,Mandarin,Novice,Mixed,Sedentary,Environmentalism,Divorced,High income,Average health,Full-time,Collaborative
+Role587,19,male,Artist,Innovative,Empathetic,Cooking,High School,African,Mandarin,Expert,Text,Sedentary,Humanism,Married,Low income,Health-conscious,Part-time,Analytical
+Role588,31,female,Artist,Traditional,Empathetic,Painting,High School,Middle Eastern,Mandarin,Expert,Voice,Active,Christianity,Married,Middle income,Healthy,Full-time,Creative
+Role589,58,male,Doctor,Extroverted,Direct,Traveling,Graduate Degree,Eastern,English,Expert,Video,Active,Environmentalism,Married,High income,Healthy,Sporadic,Practical
+Role590,75,female,Doctor,Introverted,Formal,Traveling,Graduate Degree,Middle Eastern,Mandarin,Intermediate,Mixed,Active,Islam,Widowed,Low income,Healthy,Full-time,Analytical
+Role591,54,male,Doctor,Traditional,Empathetic,Traveling,High School,African,English,Novice,Voice,Sedentary,Environmentalism,Single,Low income,Healthy,Full-time,Collaborative
+Role592,78,nondisclosed,Doctor,Introverted,Direct,Cooking,Graduate Degree,Western,Mandarin,Expert,Text,Active,Christianity,Divorced,High income,Healthy,Part-time,Practical
+Role593,30,genderqueer,Teacher,Introverted,Informal,Reading,Bachelor,Eastern,French,Expert,Mixed,Sedentary,Environmentalism,Married,Middle income,Health-conscious,Full-time,Analytical
+Role594,74,male,Teacher,Introverted,Empathetic,Painting,Graduate Degree,Middle Eastern,Spanish,Expert,Mixed,Active,Islam,Single,Middle income,Healthy,Part-time,Collaborative
+Role595,74,female,Engineer,Innovative,Humorous,Traveling,High School,Western,French,Novice,Text,Sedentary,Islam,Married,High income,Average health,Sporadic,Creative
+Role596,55,genderqueer,Scientist,Introverted,Direct,Painting,High School,Western,French,Expert,Voice,Active,Environmentalism,In a relationship,High income,Health-conscious,Full-time,Creative
+Role597,75,genderqueer,Teacher,Introverted,Informal,Traveling,High School,Middle Eastern,Mandarin,Novice,Video,Active,Atheism,In a relationship,Low income,Healthy,Sporadic,Creative
+Role598,69,genderqueer,Engineer,Introverted,Empathetic,Reading,Bachelor,Western,French,Expert,Mixed,Active,Atheism,In a relationship,Low income,Health-conscious,Full-time,Creative
+Role599,40,male,Student,Innovative,Empathetic,Traveling,High School,Eastern,Mandarin,Intermediate,Video,Sedentary,Atheism,In a relationship,Middle income,Health-conscious,Full-time,Analytical
+Role600,69,nondisclosed,Student,Introverted,Empathetic,Painting,High School,Western,Mandarin,Expert,Mixed,Active,Christianity,Single,Middle income,Healthy,Part-time,Collaborative
+Role601,49,female,Scientist,Introverted,Empathetic,Reading,Bachelor,Western,French,Intermediate,Text,Sedentary,Humanism,Married,Low income,Healthy,Sporadic,Creative
+Role602,41,genderqueer,Teacher,Introverted,Humorous,Cooking,Graduate Degree,Eastern,Mandarin,Intermediate,Mixed,Active,Humanism,Divorced,Middle income,Healthy,Sporadic,Analytical
+Role603,48,nondisclosed,Teacher,Extroverted,Humorous,Video Games,Bachelor,Western,French,Intermediate,Text,Active,Humanism,Widowed,Middle income,Health-conscious,Sporadic,Analytical
+Role604,69,genderqueer,Engineer,Traditional,Empathetic,Sports,Bachelor,Middle Eastern,Mandarin,Expert,Video,Sedentary,Atheism,Single,Middle income,Health-conscious,Part-time,Creative
+Role605,20,male,Doctor,Innovative,Humorous,Cooking,Bachelor,Eastern,Mandarin,Novice,Mixed,Sedentary,Atheism,Divorced,Low income,Healthy,Part-time,Collaborative
+Role606,28,genderqueer,Doctor,Innovative,Informal,Cooking,High School,Middle Eastern,French,Novice,Mixed,Sedentary,Christianity,Widowed,Middle income,Health-conscious,Sporadic,Creative
+Role607,68,female,Artist,Introverted,Empathetic,Traveling,High School,Eastern,Mandarin,Novice,Text,Sedentary,Atheism,In a relationship,Middle income,Average health,Sporadic,Practical
+Role608,63,nondisclosed,Teacher,Extroverted,Humorous,Painting,Bachelor,African,Mandarin,Novice,Mixed,Active,Islam,Single,High income,Health-conscious,Sporadic,Creative
+Role609,21,male,Doctor,Traditional,Direct,Reading,High School,Western,French,Intermediate,Mixed,Active,Islam,In a relationship,Middle income,Average health,Part-time,Collaborative
+Role610,55,nondisclosed,Teacher,Innovative,Formal,Video Games,High School,Middle Eastern,Spanish,Intermediate,Text,Active,Atheism,In a relationship,Middle income,Average health,Full-time,Practical
+Role611,27,female,Engineer,Introverted,Formal,Cooking,Bachelor,African,French,Intermediate,Voice,Active,Christianity,Married,High income,Average health,Sporadic,Analytical
+Role612,46,female,Engineer,Introverted,Direct,Sports,Graduate Degree,African,Spanish,Novice,Mixed,Sedentary,Islam,Single,High income,Health-conscious,Sporadic,Collaborative
+Role613,45,male,Doctor,Innovative,Empathetic,Video Games,High School,Eastern,French,Intermediate,Mixed,Sedentary,Islam,Single,Middle income,Average health,Part-time,Creative
+Role614,61,male,Teacher,Extroverted,Direct,Painting,Graduate Degree,African,French,Expert,Text,Sedentary,Islam,Divorced,Low income,Average health,Sporadic,Practical
+Role615,63,genderqueer,Teacher,Innovative,Direct,Reading,Graduate Degree,Middle Eastern,Spanish,Expert,Text,Active,Christianity,Married,High income,Health-conscious,Part-time,Analytical
+Role616,53,genderqueer,Student,Extroverted,Informal,Sports,Bachelor,Middle Eastern,French,Novice,Video,Active,Environmentalism,Widowed,Middle income,Healthy,Part-time,Creative
+Role617,50,male,Student,Traditional,Informal,Cooking,High School,Middle Eastern,French,Intermediate,Text,Active,Islam,Single,High income,Health-conscious,Part-time,Collaborative
+Role618,74,male,Student,Innovative,Empathetic,Traveling,Bachelor,Western,Spanish,Intermediate,Voice,Sedentary,Environmentalism,Single,High income,Average health,Part-time,Practical
+Role619,49,genderqueer,Engineer,Innovative,Direct,Reading,Bachelor,African,Spanish,Intermediate,Video,Sedentary,Atheism,Single,High income,Average health,Full-time,Collaborative
+Role620,69,male,Teacher,Innovative,Humorous,Traveling,High School,Eastern,French,Novice,Video,Sedentary,Atheism,In a relationship,High income,Healthy,Full-time,Practical
+Role621,71,female,Artist,Introverted,Direct,Reading,High School,African,Mandarin,Novice,Mixed,Sedentary,Environmentalism,Widowed,High income,Average health,Sporadic,Analytical
+Role622,62,male,Engineer,Traditional,Formal,Reading,Bachelor,Western,English,Intermediate,Voice,Sedentary,Islam,Married,Low income,Health-conscious,Full-time,Analytical
+Role623,39,female,Retired,Introverted,Mixed,Reading,Graduate Degree,Middle Eastern,English,Intermediate,Mixed,Active,Atheism,Divorced,Middle income,Healthy,Full-time,Collaborative
+Role624,73,female,Doctor,Traditional,Humorous,Reading,Graduate Degree,Eastern,Spanish,Intermediate,Voice,Active,Humanism,Widowed,Middle income,Healthy,Part-time,Analytical
+Role625,41,nondisclosed,Artist,Traditional,Formal,Sports,High School,Eastern,Spanish,Intermediate,Voice,Sedentary,Atheism,Single,Middle income,Healthy,Full-time,Practical
+Role626,35,male,Retired,Introverted,Informal,Cooking,Graduate Degree,Western,Mandarin,Expert,Mixed,Sedentary,Atheism,Divorced,High income,Average health,Part-time,Analytical
+Role627,38,nondisclosed,Artist,Extroverted,Mixed,Video Games,High School,Middle Eastern,English,Novice,Video,Sedentary,Humanism,In a relationship,Middle income,Healthy,Sporadic,Practical
+Role628,57,nondisclosed,Retired,Traditional,Formal,Cooking,Graduate Degree,Middle Eastern,Mandarin,Expert,Voice,Active,Environmentalism,Married,Middle income,Average health,Sporadic,Analytical
+Role629,69,male,Student,Extroverted,Direct,Painting,Bachelor,African,Mandarin,Intermediate,Video,Sedentary,Islam,Single,Low income,Average health,Full-time,Practical
+Role630,71,genderqueer,Student,Extroverted,Mixed,Cooking,Bachelor,Eastern,Mandarin,Intermediate,Voice,Sedentary,Christianity,In a relationship,Middle income,Healthy,Sporadic,Collaborative
+Role631,24,genderqueer,Artist,Introverted,Mixed,Cooking,High School,Western,Spanish,Intermediate,Text,Sedentary,Christianity,Married,Middle income,Average health,Full-time,Creative
+Role632,26,female,Teacher,Traditional,Direct,Cooking,Bachelor,Eastern,Spanish,Intermediate,Mixed,Active,Atheism,In a relationship,High income,Healthy,Part-time,Practical
+Role633,18,female,Doctor,Extroverted,Formal,Painting,Bachelor,Western,French,Novice,Mixed,Sedentary,Atheism,In a relationship,Middle income,Health-conscious,Sporadic,Collaborative
+Role634,56,nondisclosed,Scientist,Innovative,Empathetic,Cooking,High School,Middle Eastern,French,Intermediate,Text,Sedentary,Atheism,In a relationship,High income,Healthy,Part-time,Collaborative
+Role635,64,male,Artist,Innovative,Humorous,Traveling,Bachelor,African,Spanish,Expert,Voice,Sedentary,Atheism,In a relationship,Low income,Healthy,Part-time,Creative
+Role636,22,male,Engineer,Traditional,Empathetic,Video Games,Bachelor,Western,Mandarin,Expert,Video,Sedentary,Environmentalism,Single,High income,Average health,Sporadic,Practical
+Role637,36,genderqueer,Teacher,Introverted,Formal,Reading,High School,Western,English,Expert,Mixed,Active,Environmentalism,Widowed,High income,Average health,Part-time,Practical
+Role638,18,female,Scientist,Extroverted,Informal,Traveling,High School,African,French,Novice,Text,Active,Atheism,Divorced,Low income,Average health,Sporadic,Analytical
+Role639,45,female,Teacher,Introverted,Empathetic,Painting,Bachelor,Eastern,Spanish,Novice,Mixed,Active,Christianity,Widowed,Low income,Health-conscious,Full-time,Practical
+Role640,76,nondisclosed,Scientist,Traditional,Humorous,Video Games,Graduate Degree,Middle Eastern,Mandarin,Expert,Text,Sedentary,Atheism,Widowed,High income,Health-conscious,Part-time,Collaborative
+Role641,41,nondisclosed,Retired,Extroverted,Humorous,Sports,Bachelor,Middle Eastern,French,Intermediate,Text,Sedentary,Islam,Single,High income,Healthy,Part-time,Analytical
+Role642,21,nondisclosed,Scientist,Introverted,Humorous,Sports,Bachelor,Western,Mandarin,Intermediate,Mixed,Active,Atheism,Single,High income,Health-conscious,Sporadic,Analytical
+Role643,31,female,Scientist,Traditional,Informal,Reading,Graduate Degree,African,Mandarin,Intermediate,Mixed,Active,Environmentalism,In a relationship,Middle income,Health-conscious,Full-time,Creative
+Role644,53,nondisclosed,Retired,Traditional,Formal,Traveling,Graduate Degree,Western,French,Expert,Mixed,Sedentary,Atheism,Single,Low income,Average health,Full-time,Collaborative
+Role645,52,male,Artist,Innovative,Mixed,Sports,Bachelor,Eastern,Mandarin,Intermediate,Text,Sedentary,Islam,Divorced,Middle income,Health-conscious,Full-time,Practical
+Role646,25,nondisclosed,Scientist,Traditional,Formal,Painting,Graduate Degree,Middle Eastern,English,Intermediate,Text,Active,Atheism,Widowed,Middle income,Healthy,Sporadic,Creative
+Role647,67,genderqueer,Doctor,Innovative,Humorous,Painting,High School,Western,Spanish,Novice,Mixed,Sedentary,Christianity,Married,Low income,Healthy,Part-time,Creative
+Role648,56,genderqueer,Artist,Extroverted,Humorous,Cooking,Bachelor,African,Spanish,Novice,Text,Sedentary,Humanism,Single,Low income,Healthy,Sporadic,Analytical
+Role649,74,female,Retired,Traditional,Formal,Cooking,Bachelor,Middle Eastern,French,Intermediate,Mixed,Active,Humanism,Divorced,High income,Health-conscious,Part-time,Collaborative
+Role650,66,female,Retired,Introverted,Empathetic,Video Games,High School,Middle Eastern,French,Expert,Video,Sedentary,Atheism,Married,High income,Healthy,Full-time,Analytical
+Role651,65,nondisclosed,Student,Extroverted,Formal,Video Games,Bachelor,African,Spanish,Novice,Mixed,Sedentary,Humanism,Divorced,High income,Average health,Full-time,Practical
+Role652,56,genderqueer,Scientist,Innovative,Formal,Reading,Bachelor,Middle Eastern,Spanish,Intermediate,Text,Active,Atheism,In a relationship,High income,Healthy,Full-time,Practical
+Role653,31,male,Teacher,Introverted,Direct,Reading,High School,Middle Eastern,Spanish,Intermediate,Mixed,Active,Humanism,Single,High income,Healthy,Part-time,Practical
+Role654,48,nondisclosed,Doctor,Extroverted,Humorous,Reading,Bachelor,African,Mandarin,Expert,Video,Sedentary,Environmentalism,Divorced,Middle income,Healthy,Sporadic,Creative
+Role655,19,female,Doctor,Innovative,Empathetic,Cooking,Bachelor,African,English,Novice,Voice,Sedentary,Atheism,Divorced,Middle income,Average health,Sporadic,Creative
+Role656,79,male,Scientist,Innovative,Empathetic,Cooking,Bachelor,Middle Eastern,French,Novice,Video,Sedentary,Environmentalism,Divorced,Middle income,Average health,Full-time,Analytical
+Role657,75,male,Doctor,Extroverted,Formal,Cooking,Bachelor,Middle Eastern,French,Intermediate,Text,Active,Environmentalism,Divorced,Low income,Average health,Part-time,Collaborative
+Role658,31,nondisclosed,Artist,Introverted,Formal,Cooking,Bachelor,African,English,Novice,Video,Active,Atheism,Widowed,Low income,Average health,Full-time,Practical
+Role659,34,female,Artist,Extroverted,Mixed,Cooking,Bachelor,Eastern,Spanish,Novice,Mixed,Active,Humanism,Married,Middle income,Healthy,Full-time,Analytical
+Role660,64,nondisclosed,Engineer,Innovative,Humorous,Reading,High School,Western,English,Expert,Video,Active,Atheism,Widowed,Middle income,Healthy,Full-time,Creative
+Role661,50,genderqueer,Scientist,Extroverted,Humorous,Video Games,Bachelor,Eastern,Spanish,Expert,Text,Active,Atheism,Divorced,Middle income,Average health,Part-time,Collaborative
+Role662,53,male,Teacher,Traditional,Informal,Painting,Graduate Degree,African,Mandarin,Expert,Voice,Active,Islam,In a relationship,Middle income,Health-conscious,Full-time,Creative
+Role663,31,nondisclosed,Doctor,Extroverted,Humorous,Traveling,High School,Eastern,Mandarin,Expert,Text,Sedentary,Atheism,In a relationship,Low income,Healthy,Full-time,Collaborative
+Role664,75,female,Doctor,Traditional,Empathetic,Traveling,Graduate Degree,Western,English,Expert,Voice,Active,Atheism,Widowed,High income,Average health,Sporadic,Practical
+Role665,35,genderqueer,Doctor,Introverted,Informal,Video Games,Graduate Degree,Middle Eastern,Mandarin,Expert,Voice,Active,Christianity,Divorced,Low income,Health-conscious,Full-time,Collaborative
+Role666,64,male,Artist,Innovative,Humorous,Video Games,High School,Western,English,Novice,Video,Sedentary,Environmentalism,Widowed,High income,Healthy,Part-time,Collaborative
+Role667,21,male,Engineer,Traditional,Empathetic,Sports,Graduate Degree,African,English,Expert,Voice,Sedentary,Atheism,Single,High income,Health-conscious,Part-time,Creative
+Role668,24,female,Retired,Innovative,Empathetic,Video Games,High School,Western,English,Intermediate,Voice,Sedentary,Christianity,Divorced,Middle income,Healthy,Full-time,Analytical
+Role669,31,genderqueer,Scientist,Extroverted,Formal,Reading,Bachelor,Eastern,French,Expert,Mixed,Sedentary,Christianity,Married,High income,Health-conscious,Sporadic,Practical
+Role670,80,male,Artist,Extroverted,Informal,Cooking,Graduate Degree,African,Spanish,Novice,Voice,Sedentary,Christianity,Single,Low income,Average health,Sporadic,Collaborative
+Role671,58,genderqueer,Artist,Traditional,Empathetic,Traveling,Graduate Degree,Eastern,Spanish,Novice,Mixed,Sedentary,Humanism,Divorced,Low income,Health-conscious,Sporadic,Practical
+Role672,42,female,Scientist,Traditional,Informal,Sports,Bachelor,Western,English,Novice,Text,Sedentary,Islam,Divorced,Middle income,Health-conscious,Part-time,Collaborative
+Role673,59,genderqueer,Engineer,Introverted,Direct,Traveling,Bachelor,Western,Mandarin,Novice,Voice,Active,Christianity,Divorced,High income,Health-conscious,Part-time,Practical
+Role674,64,nondisclosed,Scientist,Traditional,Formal,Sports,High School,Eastern,Mandarin,Intermediate,Mixed,Sedentary,Atheism,In a relationship,Middle income,Health-conscious,Part-time,Collaborative
+Role675,59,female,Scientist,Traditional,Informal,Painting,Graduate Degree,Middle Eastern,Spanish,Intermediate,Video,Active,Christianity,Widowed,Middle income,Health-conscious,Full-time,Creative
+Role676,58,female,Engineer,Extroverted,Formal,Reading,Graduate Degree,Western,French,Expert,Text,Sedentary,Islam,Single,Middle income,Healthy,Part-time,Practical
+Role677,67,male,Engineer,Extroverted,Direct,Sports,High School,African,Spanish,Intermediate,Text,Sedentary,Atheism,In a relationship,Middle income,Healthy,Full-time,Creative
+Role678,77,nondisclosed,Retired,Extroverted,Direct,Painting,Graduate Degree,Western,Mandarin,Expert,Video,Sedentary,Humanism,Married,High income,Health-conscious,Sporadic,Collaborative
+Role679,43,female,Teacher,Introverted,Formal,Painting,Bachelor,Middle Eastern,French,Novice,Voice,Active,Islam,Divorced,Low income,Average health,Sporadic,Collaborative
+Role680,23,genderqueer,Student,Introverted,Formal,Sports,High School,Eastern,French,Novice,Voice,Sedentary,Atheism,Divorced,Low income,Healthy,Part-time,Creative
+Role681,65,genderqueer,Engineer,Innovative,Direct,Traveling,Bachelor,Eastern,French,Expert,Video,Sedentary,Christianity,Divorced,High income,Health-conscious,Full-time,Creative
+Role682,48,female,Engineer,Extroverted,Empathetic,Cooking,High School,Eastern,English,Intermediate,Text,Active,Atheism,Single,Low income,Health-conscious,Part-time,Analytical
+Role683,49,nondisclosed,Artist,Traditional,Empathetic,Reading,Graduate Degree,Middle Eastern,French,Intermediate,Voice,Active,Environmentalism,Single,Middle income,Healthy,Full-time,Practical
+Role684,38,nondisclosed,Engineer,Innovative,Informal,Traveling,Graduate Degree,Western,Mandarin,Expert,Voice,Active,Environmentalism,Widowed,Low income,Average health,Full-time,Creative
+Role685,39,genderqueer,Artist,Introverted,Informal,Sports,Graduate Degree,Western,Mandarin,Novice,Mixed,Active,Environmentalism,Single,Low income,Health-conscious,Sporadic,Collaborative
+Role686,31,female,Retired,Extroverted,Informal,Sports,Graduate Degree,Western,Mandarin,Intermediate,Text,Sedentary,Environmentalism,In a relationship,Middle income,Average health,Full-time,Practical
+Role687,35,nondisclosed,Retired,Innovative,Empathetic,Traveling,High School,Middle Eastern,French,Intermediate,Voice,Sedentary,Islam,Divorced,Low income,Average health,Sporadic,Practical
+Role688,68,female,Engineer,Traditional,Empathetic,Video Games,Graduate Degree,African,French,Novice,Text,Active,Environmentalism,Divorced,Middle income,Healthy,Sporadic,Creative
+Role689,63,female,Student,Innovative,Humorous,Reading,Graduate Degree,Eastern,Spanish,Novice,Mixed,Sedentary,Atheism,Single,Middle income,Average health,Sporadic,Creative
+Role690,30,female,Teacher,Introverted,Mixed,Video Games,Bachelor,Eastern,Mandarin,Expert,Video,Sedentary,Humanism,Married,Low income,Healthy,Full-time,Creative
+Role691,21,female,Teacher,Traditional,Humorous,Sports,Graduate Degree,African,Spanish,Expert,Mixed,Active,Islam,Widowed,High income,Average health,Sporadic,Creative
+Role692,35,male,Student,Extroverted,Informal,Reading,High School,Western,Spanish,Intermediate,Mixed,Active,Christianity,Single,High income,Average health,Full-time,Practical
+Role693,62,genderqueer,Teacher,Extroverted,Formal,Reading,High School,Eastern,Spanish,Expert,Mixed,Active,Atheism,In a relationship,Low income,Average health,Sporadic,Collaborative
+Role694,61,nondisclosed,Doctor,Traditional,Humorous,Sports,Graduate Degree,Middle Eastern,French,Expert,Text,Sedentary,Islam,Single,Low income,Health-conscious,Part-time,Collaborative
+Role695,78,female,Teacher,Innovative,Direct,Video Games,Graduate Degree,Western,Mandarin,Novice,Video,Sedentary,Christianity,Married,Low income,Average health,Sporadic,Creative
+Role696,49,nondisclosed,Engineer,Traditional,Formal,Sports,Bachelor,Middle Eastern,Spanish,Expert,Video,Active,Humanism,In a relationship,Middle income,Average health,Full-time,Creative
+Role697,70,nondisclosed,Retired,Extroverted,Mixed,Traveling,High School,Middle Eastern,Mandarin,Expert,Voice,Sedentary,Humanism,Single,Low income,Health-conscious,Part-time,Practical
+Role698,73,female,Retired,Innovative,Direct,Reading,Graduate Degree,Middle Eastern,Spanish,Expert,Voice,Sedentary,Islam,Single,High income,Healthy,Full-time,Creative
+Role699,35,genderqueer,Teacher,Introverted,Empathetic,Traveling,Graduate Degree,Middle Eastern,Spanish,Novice,Voice,Active,Christianity,Divorced,Low income,Average health,Sporadic,Practical
+Role700,27,genderqueer,Artist,Innovative,Direct,Reading,Graduate Degree,Middle Eastern,French,Intermediate,Video,Active,Christianity,Married,Middle income,Health-conscious,Part-time,Collaborative
+Role701,59,nondisclosed,Teacher,Innovative,Mixed,Video Games,Graduate Degree,African,English,Expert,Video,Active,Humanism,Widowed,Low income,Healthy,Part-time,Collaborative
+Role702,30,female,Doctor,Introverted,Formal,Traveling,High School,Western,Spanish,Expert,Mixed,Active,Humanism,In a relationship,Low income,Healthy,Part-time,Creative
+Role703,18,genderqueer,Artist,Extroverted,Formal,Sports,High School,Middle Eastern,French,Novice,Text,Sedentary,Atheism,Widowed,Low income,Average health,Sporadic,Analytical
+Role704,27,male,Student,Innovative,Informal,Sports,Graduate Degree,Western,French,Intermediate,Text,Active,Atheism,Divorced,High income,Healthy,Part-time,Creative
+Role705,26,male,Doctor,Innovative,Direct,Reading,High School,Eastern,French,Expert,Mixed,Sedentary,Christianity,Divorced,Middle income,Health-conscious,Sporadic,Collaborative
+Role706,22,female,Artist,Traditional,Formal,Reading,Graduate Degree,Western,French,Novice,Mixed,Active,Environmentalism,Single,Middle income,Healthy,Sporadic,Collaborative
+Role707,69,nondisclosed,Teacher,Traditional,Informal,Painting,Graduate Degree,African,Spanish,Expert,Video,Sedentary,Humanism,Single,Low income,Healthy,Sporadic,Practical
+Role708,71,male,Retired,Innovative,Informal,Sports,High School,Western,Spanish,Intermediate,Video,Active,Environmentalism,Single,High income,Health-conscious,Full-time,Creative
+Role709,45,male,Doctor,Introverted,Mixed,Video Games,Bachelor,Western,English,Novice,Text,Sedentary,Islam,Widowed,Middle income,Average health,Sporadic,Practical
+Role710,26,male,Scientist,Extroverted,Humorous,Traveling,High School,African,English,Novice,Video,Active,Christianity,Single,Middle income,Healthy,Full-time,Practical
+Role711,37,genderqueer,Retired,Innovative,Direct,Traveling,Bachelor,African,French,Intermediate,Video,Active,Christianity,Widowed,Middle income,Health-conscious,Full-time,Collaborative
+Role712,57,genderqueer,Scientist,Extroverted,Empathetic,Reading,Bachelor,Eastern,French,Expert,Video,Active,Environmentalism,Single,Low income,Healthy,Full-time,Analytical
+Role713,70,female,Engineer,Introverted,Mixed,Painting,Graduate Degree,Middle Eastern,French,Intermediate,Video,Active,Atheism,In a relationship,Middle income,Healthy,Sporadic,Analytical
+Role714,21,male,Teacher,Extroverted,Humorous,Traveling,High School,Middle Eastern,English,Expert,Voice,Sedentary,Humanism,Divorced,High income,Average health,Sporadic,Practical
+Role715,43,male,Engineer,Introverted,Informal,Sports,Bachelor,Western,French,Intermediate,Video,Sedentary,Humanism,In a relationship,Low income,Average health,Part-time,Analytical
+Role716,46,male,Doctor,Introverted,Empathetic,Reading,Graduate Degree,Western,Spanish,Expert,Voice,Sedentary,Islam,Single,Low income,Healthy,Full-time,Practical
+Role717,38,female,Scientist,Introverted,Mixed,Painting,High School,Western,Spanish,Novice,Voice,Active,Christianity,Married,Middle income,Health-conscious,Full-time,Analytical
+Role718,22,male,Scientist,Innovative,Direct,Traveling,Bachelor,Middle Eastern,French,Novice,Mixed,Sedentary,Islam,Widowed,High income,Health-conscious,Part-time,Practical
+Role719,43,female,Student,Extroverted,Mixed,Traveling,Bachelor,Eastern,English,Intermediate,Video,Sedentary,Christianity,Divorced,High income,Health-conscious,Sporadic,Collaborative
+Role720,35,nondisclosed,Student,Extroverted,Empathetic,Video Games,Graduate Degree,Middle Eastern,Mandarin,Novice,Mixed,Sedentary,Humanism,Widowed,Low income,Health-conscious,Sporadic,Creative
+Role721,35,male,Student,Innovative,Formal,Sports,Graduate Degree,Middle Eastern,Spanish,Expert,Video,Sedentary,Environmentalism,In a relationship,High income,Healthy,Full-time,Creative
+Role722,66,nondisclosed,Student,Introverted,Humorous,Sports,High School,African,Mandarin,Intermediate,Video,Sedentary,Islam,Widowed,Middle income,Healthy,Part-time,Practical
+Role723,62,female,Artist,Extroverted,Direct,Cooking,Bachelor,Western,Spanish,Novice,Video,Sedentary,Environmentalism,Married,Low income,Healthy,Sporadic,Practical
+Role724,34,female,Teacher,Extroverted,Humorous,Sports,Bachelor,Western,Spanish,Expert,Mixed,Active,Christianity,Single,Middle income,Healthy,Full-time,Creative
+Role725,48,male,Teacher,Innovative,Informal,Painting,High School,African,Spanish,Expert,Mixed,Active,Christianity,In a relationship,Middle income,Health-conscious,Part-time,Collaborative
+Role726,57,female,Doctor,Innovative,Empathetic,Video Games,Bachelor,Eastern,French,Intermediate,Video,Sedentary,Christianity,Widowed,Low income,Health-conscious,Part-time,Collaborative
+Role727,44,genderqueer,Student,Traditional,Mixed,Painting,Bachelor,Western,English,Novice,Mixed,Active,Christianity,Married,Low income,Healthy,Full-time,Collaborative
+Role728,79,genderqueer,Engineer,Introverted,Formal,Cooking,High School,Eastern,English,Expert,Voice,Sedentary,Atheism,Widowed,High income,Average health,Sporadic,Analytical
+Role729,45,nondisclosed,Artist,Introverted,Formal,Painting,Bachelor,Eastern,English,Novice,Voice,Sedentary,Atheism,Widowed,Low income,Average health,Part-time,Creative
+Role730,22,nondisclosed,Teacher,Extroverted,Formal,Painting,Graduate Degree,African,French,Novice,Mixed,Sedentary,Christianity,Married,Middle income,Healthy,Full-time,Collaborative
+Role731,58,genderqueer,Teacher,Extroverted,Direct,Reading,Graduate Degree,Eastern,English,Intermediate,Video,Sedentary,Atheism,Single,High income,Healthy,Sporadic,Collaborative
+Role732,58,genderqueer,Teacher,Traditional,Informal,Video Games,Graduate Degree,Middle Eastern,Spanish,Novice,Voice,Sedentary,Humanism,Divorced,High income,Average health,Full-time,Practical
+Role733,38,female,Artist,Introverted,Humorous,Reading,High School,Western,English,Expert,Voice,Sedentary,Christianity,Single,High income,Healthy,Full-time,Analytical
+Role734,44,female,Student,Introverted,Empathetic,Sports,Bachelor,Eastern,French,Expert,Voice,Active,Environmentalism,In a relationship,Low income,Health-conscious,Full-time,Analytical
+Role735,52,male,Scientist,Traditional,Mixed,Painting,High School,Western,French,Novice,Mixed,Sedentary,Christianity,Divorced,Low income,Healthy,Sporadic,Creative
+Role736,40,female,Doctor,Traditional,Humorous,Painting,Graduate Degree,Eastern,Spanish,Expert,Text,Active,Environmentalism,Single,Middle income,Average health,Sporadic,Collaborative
+Role737,74,nondisclosed,Engineer,Innovative,Mixed,Cooking,High School,Western,English,Intermediate,Video,Active,Environmentalism,Single,High income,Health-conscious,Sporadic,Analytical
+Role738,20,nondisclosed,Retired,Innovative,Formal,Reading,Graduate Degree,African,Mandarin,Novice,Text,Sedentary,Atheism,Single,Middle income,Average health,Part-time,Collaborative
+Role739,31,female,Doctor,Introverted,Direct,Traveling,Graduate Degree,Middle Eastern,English,Novice,Video,Sedentary,Atheism,Single,High income,Average health,Full-time,Creative
+Role740,65,nondisclosed,Teacher,Extroverted,Empathetic,Traveling,Bachelor,Middle Eastern,Spanish,Novice,Mixed,Sedentary,Environmentalism,In a relationship,Low income,Healthy,Part-time,Practical
+Role741,46,nondisclosed,Student,Traditional,Empathetic,Video Games,Bachelor,African,Mandarin,Novice,Text,Active,Environmentalism,Single,High income,Health-conscious,Part-time,Analytical
+Role742,61,male,Student,Innovative,Direct,Sports,Graduate Degree,Middle Eastern,English,Intermediate,Text,Active,Christianity,Single,Middle income,Average health,Sporadic,Practical
+Role743,35,female,Artist,Introverted,Empathetic,Painting,Bachelor,Western,Mandarin,Novice,Text,Sedentary,Atheism,Divorced,Low income,Average health,Part-time,Practical
+Role744,69,genderqueer,Doctor,Traditional,Mixed,Reading,Graduate Degree,Eastern,Mandarin,Novice,Voice,Active,Environmentalism,Married,High income,Health-conscious,Sporadic,Collaborative
+Role745,47,male,Scientist,Introverted,Informal,Sports,Graduate Degree,Western,Spanish,Novice,Text,Active,Atheism,Single,Low income,Average health,Part-time,Creative
+Role746,43,genderqueer,Engineer,Traditional,Empathetic,Painting,Graduate Degree,Middle Eastern,Mandarin,Novice,Video,Sedentary,Atheism,Married,Low income,Health-conscious,Full-time,Collaborative
+Role747,37,genderqueer,Teacher,Extroverted,Direct,Painting,High School,Western,English,Novice,Text,Sedentary,Islam,Single,Middle income,Healthy,Part-time,Analytical
+Role748,55,nondisclosed,Teacher,Innovative,Mixed,Sports,Bachelor,African,English,Expert,Video,Sedentary,Islam,In a relationship,High income,Health-conscious,Sporadic,Creative
+Role749,40,genderqueer,Retired,Traditional,Empathetic,Sports,Graduate Degree,African,Mandarin,Novice,Text,Sedentary,Atheism,Divorced,Low income,Health-conscious,Sporadic,Collaborative
+Role750,75,genderqueer,Scientist,Extroverted,Mixed,Traveling,High School,Western,Spanish,Novice,Mixed,Sedentary,Islam,Divorced,High income,Health-conscious,Part-time,Practical
+Role751,27,male,Retired,Innovative,Mixed,Video Games,High School,Eastern,Mandarin,Expert,Text,Active,Humanism,Married,Middle income,Healthy,Full-time,Creative
+Role752,43,nondisclosed,Teacher,Extroverted,Humorous,Cooking,Graduate Degree,Western,Spanish,Expert,Text,Sedentary,Atheism,Married,Low income,Average health,Sporadic,Creative
+Role753,51,genderqueer,Retired,Introverted,Direct,Sports,High School,Western,Mandarin,Intermediate,Text,Active,Environmentalism,Married,High income,Healthy,Full-time,Analytical
+Role754,36,nondisclosed,Retired,Innovative,Mixed,Painting,Bachelor,Middle Eastern,Spanish,Expert,Text,Active,Environmentalism,Divorced,Low income,Average health,Part-time,Practical
+Role755,78,nondisclosed,Artist,Traditional,Formal,Painting,Graduate Degree,African,Mandarin,Novice,Voice,Active,Islam,Single,Low income,Average health,Part-time,Collaborative
+Role756,49,genderqueer,Engineer,Introverted,Mixed,Video Games,Graduate Degree,African,English,Novice,Video,Sedentary,Islam,Divorced,Low income,Healthy,Full-time,Practical
+Role757,46,nondisclosed,Scientist,Introverted,Informal,Traveling,High School,Eastern,Mandarin,Expert,Voice,Active,Atheism,In a relationship,Middle income,Health-conscious,Full-time,Collaborative
+Role758,44,male,Scientist,Innovative,Empathetic,Video Games,High School,African,Mandarin,Intermediate,Mixed,Sedentary,Humanism,In a relationship,Low income,Healthy,Full-time,Practical
+Role759,30,nondisclosed,Scientist,Traditional,Formal,Cooking,Bachelor,Eastern,French,Expert,Voice,Active,Islam,In a relationship,High income,Healthy,Part-time,Creative
+Role760,27,male,Retired,Extroverted,Formal,Traveling,Graduate Degree,Eastern,English,Expert,Video,Active,Atheism,Married,High income,Health-conscious,Full-time,Creative
+Role761,58,female,Student,Introverted,Humorous,Video Games,Graduate Degree,Western,French,Intermediate,Text,Active,Christianity,Widowed,Middle income,Average health,Sporadic,Practical
+Role762,27,nondisclosed,Doctor,Traditional,Empathetic,Reading,High School,Middle Eastern,English,Novice,Mixed,Sedentary,Humanism,Widowed,High income,Health-conscious,Part-time,Analytical
+Role763,43,genderqueer,Artist,Innovative,Formal,Painting,Graduate Degree,African,Spanish,Expert,Text,Active,Christianity,Widowed,Low income,Health-conscious,Sporadic,Creative
+Role764,31,nondisclosed,Engineer,Traditional,Direct,Painting,Bachelor,Western,French,Novice,Video,Sedentary,Islam,Married,High income,Health-conscious,Full-time,Creative
+Role765,21,female,Doctor,Introverted,Empathetic,Video Games,Graduate Degree,Western,Mandarin,Intermediate,Text,Active,Humanism,Divorced,Middle income,Healthy,Part-time,Creative
+Role766,35,genderqueer,Teacher,Innovative,Direct,Sports,High School,Middle Eastern,English,Intermediate,Voice,Sedentary,Atheism,Married,Low income,Average health,Sporadic,Creative
+Role767,62,male,Artist,Introverted,Informal,Video Games,Bachelor,Middle Eastern,Spanish,Expert,Mixed,Active,Islam,In a relationship,High income,Healthy,Full-time,Analytical
+Role768,57,genderqueer,Scientist,Innovative,Formal,Traveling,Bachelor,Western,French,Intermediate,Voice,Sedentary,Atheism,Widowed,Middle income,Health-conscious,Full-time,Creative
+Role769,64,female,Artist,Innovative,Direct,Traveling,Bachelor,Middle Eastern,Mandarin,Expert,Mixed,Active,Islam,Widowed,High income,Healthy,Part-time,Collaborative
+Role770,70,female,Engineer,Innovative,Direct,Reading,Graduate Degree,Western,English,Intermediate,Voice,Active,Environmentalism,In a relationship,Low income,Healthy,Sporadic,Creative
+Role771,34,nondisclosed,Doctor,Innovative,Empathetic,Painting,Bachelor,Western,Mandarin,Novice,Text,Active,Humanism,Married,Middle income,Healthy,Sporadic,Collaborative
+Role772,65,female,Scientist,Extroverted,Empathetic,Traveling,High School,Middle Eastern,Mandarin,Novice,Text,Active,Atheism,In a relationship,Low income,Healthy,Full-time,Practical
+Role773,30,genderqueer,Artist,Innovative,Humorous,Video Games,High School,Western,Mandarin,Expert,Mixed,Sedentary,Humanism,Married,Low income,Average health,Sporadic,Collaborative
+Role774,35,female,Teacher,Extroverted,Formal,Traveling,High School,Middle Eastern,English,Expert,Video,Active,Christianity,Single,Middle income,Healthy,Full-time,Practical
+Role775,30,nondisclosed,Engineer,Traditional,Empathetic,Video Games,Bachelor,African,English,Expert,Mixed,Sedentary,Environmentalism,Divorced,Low income,Healthy,Part-time,Creative
+Role776,37,genderqueer,Retired,Innovative,Informal,Video Games,Bachelor,Western,Mandarin,Novice,Text,Sedentary,Environmentalism,Divorced,Middle income,Health-conscious,Sporadic,Creative
+Role777,65,genderqueer,Retired,Innovative,Informal,Cooking,Graduate Degree,Western,Spanish,Intermediate,Voice,Sedentary,Christianity,Married,High income,Average health,Full-time,Analytical
+Role778,61,male,Artist,Introverted,Humorous,Cooking,Bachelor,Eastern,Mandarin,Novice,Mixed,Active,Humanism,Widowed,Low income,Health-conscious,Full-time,Creative
+Role779,52,female,Engineer,Extroverted,Humorous,Reading,Graduate Degree,Western,Mandarin,Expert,Text,Sedentary,Atheism,Widowed,Middle income,Health-conscious,Sporadic,Practical
+Role780,79,nondisclosed,Student,Innovative,Informal,Video Games,Graduate Degree,African,Mandarin,Intermediate,Voice,Sedentary,Christianity,Single,Middle income,Health-conscious,Part-time,Creative
+Role781,47,nondisclosed,Doctor,Introverted,Direct,Cooking,High School,Western,Mandarin,Novice,Voice,Sedentary,Environmentalism,Widowed,High income,Average health,Sporadic,Creative
+Role782,36,female,Retired,Extroverted,Humorous,Reading,High School,Middle Eastern,Spanish,Expert,Voice,Active,Christianity,Single,High income,Healthy,Sporadic,Practical
+Role783,18,nondisclosed,Engineer,Traditional,Direct,Painting,High School,Western,English,Novice,Text,Active,Atheism,In a relationship,Middle income,Average health,Part-time,Creative
+Role784,48,nondisclosed,Student,Traditional,Mixed,Video Games,Graduate Degree,Middle Eastern,English,Expert,Mixed,Sedentary,Humanism,Single,Low income,Health-conscious,Full-time,Collaborative
+Role785,79,nondisclosed,Engineer,Extroverted,Direct,Traveling,High School,Western,French,Expert,Voice,Sedentary,Atheism,In a relationship,High income,Average health,Full-time,Collaborative
+Role786,26,nondisclosed,Doctor,Extroverted,Direct,Sports,Graduate Degree,Western,Mandarin,Expert,Voice,Active,Atheism,In a relationship,High income,Average health,Sporadic,Collaborative
+Role787,48,female,Engineer,Extroverted,Formal,Traveling,High School,Eastern,English,Novice,Voice,Active,Humanism,Divorced,Low income,Health-conscious,Sporadic,Practical
+Role788,43,genderqueer,Artist,Introverted,Direct,Sports,Graduate Degree,Middle Eastern,Spanish,Expert,Video,Active,Environmentalism,Divorced,Middle income,Healthy,Full-time,Analytical
+Role789,21,nondisclosed,Teacher,Extroverted,Formal,Video Games,High School,Eastern,French,Expert,Video,Active,Humanism,In a relationship,High income,Average health,Sporadic,Practical
+Role790,30,male,Doctor,Traditional,Mixed,Painting,Bachelor,Eastern,French,Novice,Mixed,Active,Atheism,Divorced,Middle income,Health-conscious,Full-time,Practical
+Role791,55,female,Scientist,Introverted,Formal,Reading,Bachelor,Eastern,English,Novice,Mixed,Active,Humanism,In a relationship,High income,Average health,Sporadic,Creative
+Role792,51,male,Doctor,Innovative,Empathetic,Cooking,Graduate Degree,Western,Mandarin,Intermediate,Voice,Active,Atheism,Divorced,High income,Health-conscious,Sporadic,Analytical
+Role793,26,genderqueer,Artist,Introverted,Humorous,Painting,High School,Eastern,Spanish,Novice,Video,Active,Atheism,Divorced,High income,Health-conscious,Sporadic,Collaborative
+Role794,36,genderqueer,Engineer,Traditional,Formal,Painting,High School,African,French,Intermediate,Mixed,Sedentary,Islam,Divorced,Low income,Health-conscious,Sporadic,Practical
+Role795,77,male,Teacher,Introverted,Direct,Painting,High School,Western,English,Expert,Video,Active,Christianity,Married,Middle income,Average health,Part-time,Practical
+Role796,25,nondisclosed,Retired,Innovative,Mixed,Video Games,Bachelor,Western,Spanish,Novice,Text,Sedentary,Islam,Widowed,Low income,Health-conscious,Part-time,Practical
+Role797,36,male,Artist,Traditional,Empathetic,Sports,Graduate Degree,Western,English,Intermediate,Video,Sedentary,Environmentalism,Single,Middle income,Health-conscious,Full-time,Analytical
+Role798,26,nondisclosed,Teacher,Traditional,Formal,Video Games,Bachelor,Middle Eastern,Spanish,Novice,Voice,Active,Atheism,Divorced,High income,Healthy,Full-time,Analytical
+Role799,44,female,Teacher,Traditional,Direct,Sports,Graduate Degree,Western,Spanish,Intermediate,Mixed,Sedentary,Islam,In a relationship,Low income,Healthy,Full-time,Practical
+Role800,72,genderqueer,Doctor,Extroverted,Formal,Painting,Bachelor,African,French,Novice,Mixed,Active,Humanism,Widowed,High income,Average health,Full-time,Analytical
+Role801,33,nondisclosed,Retired,Introverted,Informal,Painting,High School,Middle Eastern,English,Intermediate,Text,Active,Islam,Widowed,Low income,Healthy,Full-time,Analytical
+Role802,72,female,Scientist,Innovative,Informal,Traveling,High School,African,English,Intermediate,Text,Active,Atheism,Single,Middle income,Health-conscious,Full-time,Creative
+Role803,74,male,Doctor,Innovative,Empathetic,Traveling,Graduate Degree,Western,Spanish,Intermediate,Text,Active,Humanism,Married,High income,Average health,Part-time,Creative
+Role804,29,nondisclosed,Teacher,Innovative,Informal,Video Games,Bachelor,Eastern,Spanish,Expert,Video,Active,Atheism,In a relationship,Low income,Average health,Sporadic,Collaborative
+Role805,35,nondisclosed,Teacher,Traditional,Informal,Traveling,Graduate Degree,Middle Eastern,English,Expert,Text,Sedentary,Humanism,Married,Middle income,Healthy,Full-time,Analytical
+Role806,72,nondisclosed,Doctor,Innovative,Formal,Reading,Bachelor,Middle Eastern,Mandarin,Intermediate,Mixed,Sedentary,Islam,Single,Low income,Healthy,Sporadic,Practical
+Role807,39,genderqueer,Student,Extroverted,Mixed,Sports,Bachelor,African,English,Expert,Mixed,Sedentary,Christianity,Divorced,Low income,Health-conscious,Part-time,Creative
+Role808,22,nondisclosed,Engineer,Innovative,Empathetic,Traveling,Bachelor,Middle Eastern,French,Novice,Mixed,Active,Environmentalism,In a relationship,Low income,Health-conscious,Sporadic,Collaborative
+Role809,74,male,Retired,Extroverted,Formal,Reading,High School,Eastern,Spanish,Intermediate,Video,Sedentary,Environmentalism,Single,Low income,Health-conscious,Full-time,Analytical
+Role810,59,male,Teacher,Traditional,Empathetic,Sports,Graduate Degree,African,Spanish,Expert,Voice,Sedentary,Atheism,Single,Middle income,Average health,Part-time,Practical
+Role811,68,genderqueer,Engineer,Traditional,Mixed,Painting,Graduate Degree,Middle Eastern,Spanish,Novice,Video,Active,Humanism,Married,High income,Healthy,Part-time,Collaborative
+Role812,58,female,Scientist,Extroverted,Empathetic,Reading,Bachelor,African,French,Intermediate,Video,Sedentary,Atheism,Widowed,High income,Average health,Full-time,Analytical
+Role813,31,genderqueer,Teacher,Innovative,Empathetic,Reading,Graduate Degree,Western,Spanish,Intermediate,Text,Active,Islam,Divorced,Low income,Average health,Part-time,Practical
+Role814,70,genderqueer,Retired,Traditional,Empathetic,Video Games,Graduate Degree,Middle Eastern,Spanish,Novice,Video,Active,Environmentalism,Divorced,Low income,Health-conscious,Full-time,Practical
+Role815,44,nondisclosed,Retired,Traditional,Informal,Sports,Bachelor,Middle Eastern,Mandarin,Novice,Mixed,Active,Christianity,In a relationship,Middle income,Average health,Part-time,Practical
+Role816,67,genderqueer,Artist,Innovative,Informal,Reading,Bachelor,African,French,Expert,Video,Sedentary,Christianity,Divorced,Low income,Health-conscious,Sporadic,Collaborative
+Role817,22,genderqueer,Engineer,Introverted,Formal,Cooking,Graduate Degree,Middle Eastern,French,Expert,Video,Active,Christianity,Divorced,Low income,Healthy,Full-time,Creative
+Role818,54,female,Retired,Innovative,Direct,Painting,High School,Eastern,Spanish,Expert,Text,Sedentary,Atheism,Widowed,High income,Health-conscious,Sporadic,Analytical
+Role819,33,male,Student,Introverted,Informal,Sports,High School,Western,French,Intermediate,Video,Active,Islam,Divorced,Middle income,Average health,Part-time,Analytical
+Role820,23,nondisclosed,Artist,Extroverted,Empathetic,Cooking,Graduate Degree,Middle Eastern,French,Expert,Video,Active,Christianity,Single,High income,Health-conscious,Full-time,Creative
+Role821,72,genderqueer,Doctor,Innovative,Mixed,Video Games,Bachelor,Eastern,Spanish,Novice,Text,Active,Christianity,Widowed,Middle income,Health-conscious,Full-time,Creative
+Role822,31,genderqueer,Teacher,Introverted,Mixed,Sports,Graduate Degree,Western,English,Novice,Voice,Sedentary,Environmentalism,Single,Middle income,Healthy,Part-time,Collaborative
+Role823,67,genderqueer,Teacher,Traditional,Direct,Cooking,High School,Eastern,Spanish,Expert,Voice,Active,Christianity,Divorced,High income,Healthy,Full-time,Practical
+Role824,66,female,Student,Traditional,Informal,Cooking,Bachelor,Eastern,French,Expert,Voice,Sedentary,Humanism,Widowed,Low income,Average health,Part-time,Creative
+Role825,36,genderqueer,Engineer,Innovative,Humorous,Reading,High School,Western,English,Intermediate,Text,Sedentary,Humanism,Married,Low income,Health-conscious,Sporadic,Practical
+Role826,78,nondisclosed,Teacher,Innovative,Direct,Video Games,Bachelor,Eastern,Spanish,Intermediate,Voice,Sedentary,Islam,Single,Low income,Average health,Full-time,Collaborative
+Role827,40,male,Teacher,Traditional,Humorous,Sports,High School,Middle Eastern,Mandarin,Intermediate,Video,Sedentary,Atheism,Divorced,Middle income,Average health,Part-time,Analytical
+Role828,61,male,Scientist,Introverted,Informal,Video Games,Bachelor,African,French,Expert,Text,Sedentary,Humanism,Widowed,Middle income,Healthy,Part-time,Creative
+Role829,60,male,Artist,Introverted,Humorous,Traveling,High School,African,Mandarin,Expert,Voice,Active,Environmentalism,Divorced,High income,Average health,Part-time,Practical
+Role830,20,male,Student,Extroverted,Humorous,Traveling,High School,Middle Eastern,Spanish,Expert,Video,Active,Islam,Widowed,High income,Health-conscious,Full-time,Practical
+Role831,79,male,Student,Extroverted,Informal,Traveling,High School,Eastern,French,Intermediate,Video,Active,Atheism,Married,High income,Healthy,Sporadic,Practical
+Role832,27,male,Student,Traditional,Empathetic,Reading,High School,African,Mandarin,Expert,Video,Active,Christianity,Divorced,Middle income,Healthy,Part-time,Analytical
+Role833,35,genderqueer,Engineer,Extroverted,Mixed,Painting,High School,Middle Eastern,English,Expert,Mixed,Active,Islam,Married,High income,Healthy,Sporadic,Collaborative
+Role834,70,male,Scientist,Innovative,Mixed,Painting,High School,Western,English,Expert,Video,Active,Environmentalism,Single,High income,Healthy,Part-time,Practical
+Role835,23,nondisclosed,Teacher,Introverted,Direct,Painting,High School,Western,English,Novice,Mixed,Active,Islam,Married,Low income,Average health,Full-time,Analytical
+Role836,63,male,Engineer,Extroverted,Informal,Reading,Graduate Degree,African,English,Expert,Mixed,Active,Christianity,In a relationship,High income,Average health,Part-time,Collaborative
+Role837,55,male,Scientist,Introverted,Direct,Sports,Bachelor,African,English,Intermediate,Text,Active,Atheism,Single,High income,Health-conscious,Part-time,Collaborative
+Role838,35,female,Teacher,Introverted,Empathetic,Cooking,Bachelor,African,French,Novice,Text,Active,Atheism,In a relationship,Low income,Healthy,Sporadic,Practical
+Role839,58,nondisclosed,Doctor,Traditional,Direct,Sports,High School,Eastern,English,Novice,Voice,Sedentary,Christianity,Widowed,Low income,Average health,Full-time,Creative
+Role840,43,genderqueer,Student,Introverted,Empathetic,Cooking,Bachelor,Western,French,Expert,Text,Active,Environmentalism,Married,Middle income,Healthy,Sporadic,Practical
+Role841,47,nondisclosed,Artist,Extroverted,Mixed,Reading,High School,Eastern,French,Expert,Mixed,Active,Atheism,In a relationship,Middle income,Health-conscious,Sporadic,Practical
+Role842,56,female,Retired,Extroverted,Informal,Painting,Graduate Degree,African,Spanish,Novice,Mixed,Sedentary,Christianity,In a relationship,Low income,Healthy,Part-time,Collaborative
+Role843,19,genderqueer,Scientist,Innovative,Informal,Painting,Graduate Degree,Western,Spanish,Intermediate,Video,Sedentary,Atheism,Divorced,Middle income,Average health,Sporadic,Collaborative
+Role844,18,female,Student,Introverted,Empathetic,Cooking,Graduate Degree,African,French,Expert,Mixed,Active,Islam,Married,Low income,Health-conscious,Full-time,Collaborative
+Role845,74,female,Retired,Extroverted,Direct,Traveling,Graduate Degree,Western,Mandarin,Intermediate,Mixed,Sedentary,Islam,Divorced,Middle income,Health-conscious,Part-time,Practical
+Role846,80,nondisclosed,Teacher,Innovative,Direct,Sports,Graduate Degree,Western,English,Expert,Text,Active,Atheism,Single,High income,Average health,Part-time,Analytical
+Role847,18,female,Retired,Introverted,Informal,Sports,Graduate Degree,Eastern,Mandarin,Intermediate,Video,Active,Christianity,In a relationship,Low income,Health-conscious,Full-time,Creative
+Role848,35,male,Engineer,Introverted,Mixed,Traveling,Bachelor,Western,English,Expert,Video,Sedentary,Atheism,Widowed,High income,Average health,Full-time,Creative
+Role849,28,nondisclosed,Scientist,Introverted,Formal,Video Games,High School,African,Mandarin,Expert,Voice,Sedentary,Islam,In a relationship,Middle income,Average health,Part-time,Analytical
+Role850,27,male,Engineer,Traditional,Direct,Video Games,High School,Middle Eastern,English,Novice,Text,Active,Atheism,Widowed,High income,Health-conscious,Part-time,Practical
+Role851,42,genderqueer,Teacher,Extroverted,Formal,Video Games,Graduate Degree,Middle Eastern,French,Novice,Video,Active,Humanism,Divorced,High income,Healthy,Sporadic,Analytical
+Role852,38,female,Doctor,Introverted,Informal,Painting,Graduate Degree,Eastern,Spanish,Expert,Mixed,Sedentary,Humanism,Single,Low income,Healthy,Sporadic,Creative
+Role853,78,male,Teacher,Innovative,Formal,Traveling,High School,Eastern,Spanish,Expert,Mixed,Active,Atheism,Married,High income,Average health,Full-time,Creative
+Role854,73,nondisclosed,Doctor,Traditional,Empathetic,Sports,Bachelor,Western,English,Novice,Mixed,Sedentary,Christianity,In a relationship,Middle income,Healthy,Full-time,Collaborative
+Role855,19,female,Artist,Traditional,Empathetic,Sports,Graduate Degree,African,French,Novice,Video,Sedentary,Environmentalism,Divorced,Middle income,Healthy,Sporadic,Collaborative
+Role856,51,genderqueer,Artist,Introverted,Informal,Traveling,High School,Middle Eastern,Mandarin,Intermediate,Video,Sedentary,Humanism,Divorced,High income,Health-conscious,Full-time,Collaborative
+Role857,40,male,Student,Introverted,Mixed,Sports,Graduate Degree,Eastern,Spanish,Expert,Video,Active,Environmentalism,Divorced,Low income,Health-conscious,Sporadic,Creative
+Role858,23,female,Engineer,Introverted,Direct,Cooking,Bachelor,Western,Spanish,Intermediate,Voice,Sedentary,Christianity,Married,Low income,Average health,Sporadic,Analytical
+Role859,58,nondisclosed,Engineer,Extroverted,Empathetic,Cooking,High School,Eastern,French,Novice,Mixed,Sedentary,Humanism,In a relationship,High income,Average health,Part-time,Practical
+Role860,31,genderqueer,Engineer,Traditional,Empathetic,Reading,High School,Western,French,Intermediate,Voice,Active,Environmentalism,Divorced,Middle income,Health-conscious,Sporadic,Creative
+Role861,55,male,Doctor,Introverted,Empathetic,Painting,Bachelor,Eastern,English,Expert,Mixed,Sedentary,Islam,Divorced,High income,Health-conscious,Full-time,Collaborative
+Role862,23,nondisclosed,Student,Introverted,Mixed,Video Games,Bachelor,African,French,Expert,Voice,Sedentary,Islam,Divorced,High income,Healthy,Part-time,Creative
+Role863,78,nondisclosed,Doctor,Extroverted,Humorous,Traveling,Bachelor,African,English,Intermediate,Text,Sedentary,Humanism,Divorced,Middle income,Healthy,Sporadic,Analytical
+Role864,18,nondisclosed,Artist,Traditional,Direct,Painting,Graduate Degree,Middle Eastern,Spanish,Expert,Voice,Sedentary,Atheism,Widowed,Low income,Healthy,Full-time,Creative
+Role865,22,female,Scientist,Traditional,Informal,Painting,Bachelor,Western,English,Intermediate,Video,Active,Humanism,Widowed,Middle income,Average health,Full-time,Creative
+Role866,80,nondisclosed,Teacher,Extroverted,Direct,Reading,High School,Eastern,French,Novice,Voice,Active,Humanism,Single,Low income,Average health,Part-time,Collaborative
+Role867,70,genderqueer,Artist,Extroverted,Humorous,Painting,High School,African,English,Novice,Video,Sedentary,Environmentalism,Widowed,High income,Healthy,Full-time,Analytical
+Role868,38,female,Scientist,Innovative,Empathetic,Cooking,Bachelor,Middle Eastern,French,Expert,Mixed,Sedentary,Islam,In a relationship,Middle income,Healthy,Part-time,Collaborative
+Role869,70,female,Artist,Traditional,Informal,Traveling,Graduate Degree,Eastern,English,Expert,Video,Active,Christianity,Single,High income,Health-conscious,Full-time,Collaborative
+Role870,28,genderqueer,Scientist,Introverted,Formal,Reading,High School,African,French,Novice,Video,Sedentary,Islam,Single,Middle income,Average health,Sporadic,Practical
+Role871,62,male,Teacher,Innovative,Mixed,Traveling,Bachelor,Eastern,French,Novice,Video,Sedentary,Christianity,Divorced,High income,Healthy,Full-time,Analytical
+Role872,56,nondisclosed,Scientist,Introverted,Humorous,Video Games,Bachelor,Eastern,French,Intermediate,Voice,Active,Environmentalism,In a relationship,High income,Average health,Part-time,Analytical
+Role873,61,nondisclosed,Scientist,Traditional,Direct,Sports,Graduate Degree,Middle Eastern,French,Expert,Voice,Sedentary,Environmentalism,In a relationship,Low income,Healthy,Full-time,Creative
+Role874,70,male,Student,Extroverted,Mixed,Video Games,Graduate Degree,Western,English,Novice,Text,Active,Christianity,Single,Middle income,Health-conscious,Full-time,Creative
+Role875,67,female,Doctor,Introverted,Formal,Video Games,High School,Eastern,French,Novice,Mixed,Active,Environmentalism,Divorced,Middle income,Health-conscious,Part-time,Collaborative
+Role876,40,nondisclosed,Retired,Introverted,Formal,Reading,Graduate Degree,Middle Eastern,Spanish,Intermediate,Video,Sedentary,Environmentalism,Widowed,Middle income,Healthy,Sporadic,Analytical
+Role877,29,male,Doctor,Extroverted,Mixed,Painting,High School,African,Mandarin,Intermediate,Voice,Active,Islam,Single,Low income,Health-conscious,Full-time,Collaborative
+Role878,50,genderqueer,Doctor,Extroverted,Mixed,Reading,Graduate Degree,Middle Eastern,Mandarin,Novice,Voice,Sedentary,Atheism,Single,High income,Healthy,Sporadic,Collaborative
+Role879,37,female,Retired,Innovative,Humorous,Sports,High School,Eastern,French,Novice,Text,Active,Christianity,Divorced,High income,Healthy,Sporadic,Creative
+Role880,52,male,Retired,Extroverted,Humorous,Video Games,Graduate Degree,African,French,Intermediate,Video,Sedentary,Islam,In a relationship,Low income,Average health,Full-time,Collaborative
+Role881,38,male,Doctor,Innovative,Direct,Video Games,Graduate Degree,Middle Eastern,Mandarin,Novice,Video,Active,Humanism,Widowed,Middle income,Average health,Full-time,Creative
+Role882,55,male,Artist,Traditional,Humorous,Traveling,Bachelor,Eastern,Spanish,Expert,Text,Sedentary,Humanism,Single,Middle income,Health-conscious,Part-time,Practical
+Role883,24,female,Engineer,Extroverted,Empathetic,Cooking,Bachelor,Eastern,English,Novice,Text,Sedentary,Christianity,In a relationship,High income,Average health,Part-time,Collaborative
+Role884,24,nondisclosed,Engineer,Extroverted,Direct,Reading,Graduate Degree,Eastern,French,Expert,Mixed,Active,Islam,Divorced,High income,Healthy,Part-time,Collaborative
+Role885,35,genderqueer,Teacher,Innovative,Formal,Sports,High School,Western,Mandarin,Novice,Text,Active,Environmentalism,Widowed,Low income,Health-conscious,Part-time,Analytical
+Role886,60,female,Scientist,Traditional,Direct,Painting,Graduate Degree,Middle Eastern,English,Intermediate,Video,Active,Christianity,Widowed,High income,Average health,Sporadic,Creative
+Role887,80,nondisclosed,Retired,Traditional,Humorous,Sports,Bachelor,Middle Eastern,English,Expert,Text,Sedentary,Islam,Widowed,Middle income,Health-conscious,Part-time,Analytical
+Role888,22,female,Scientist,Traditional,Empathetic,Traveling,Bachelor,Eastern,English,Novice,Voice,Active,Humanism,Divorced,High income,Healthy,Full-time,Creative
+Role889,75,nondisclosed,Teacher,Traditional,Informal,Traveling,Graduate Degree,Middle Eastern,English,Intermediate,Mixed,Active,Humanism,Divorced,High income,Healthy,Full-time,Analytical
+Role890,47,female,Doctor,Traditional,Informal,Painting,Graduate Degree,Western,Spanish,Novice,Video,Active,Atheism,Divorced,Middle income,Health-conscious,Full-time,Analytical
+Role891,38,nondisclosed,Artist,Introverted,Direct,Sports,Bachelor,Eastern,French,Expert,Mixed,Sedentary,Atheism,Divorced,Middle income,Health-conscious,Full-time,Collaborative
+Role892,21,male,Engineer,Extroverted,Mixed,Painting,Graduate Degree,Middle Eastern,French,Novice,Video,Sedentary,Humanism,Widowed,High income,Average health,Sporadic,Collaborative
+Role893,68,male,Engineer,Innovative,Mixed,Sports,High School,African,Spanish,Expert,Video,Active,Atheism,In a relationship,Middle income,Average health,Sporadic,Creative
+Role894,19,genderqueer,Student,Innovative,Mixed,Reading,Graduate Degree,Middle Eastern,Mandarin,Expert,Video,Sedentary,Christianity,Married,Low income,Health-conscious,Full-time,Practical
+Role895,38,nondisclosed,Artist,Traditional,Informal,Cooking,High School,Western,Spanish,Novice,Video,Active,Islam,Widowed,Middle income,Health-conscious,Part-time,Creative
+Role896,45,nondisclosed,Artist,Innovative,Formal,Reading,Bachelor,Middle Eastern,Mandarin,Intermediate,Video,Sedentary,Atheism,Divorced,Middle income,Health-conscious,Full-time,Collaborative
+Role897,56,female,Retired,Introverted,Direct,Sports,Graduate Degree,Eastern,Mandarin,Novice,Voice,Active,Islam,In a relationship,Middle income,Average health,Full-time,Analytical
+Role898,27,male,Retired,Extroverted,Mixed,Painting,Graduate Degree,African,English,Novice,Mixed,Active,Christianity,In a relationship,High income,Health-conscious,Full-time,Creative
+Role899,62,nondisclosed,Doctor,Introverted,Direct,Traveling,High School,Western,Mandarin,Expert,Video,Sedentary,Islam,Widowed,Middle income,Average health,Part-time,Creative
+Role900,37,nondisclosed,Retired,Extroverted,Direct,Painting,Bachelor,Middle Eastern,English,Expert,Video,Active,Environmentalism,Single,High income,Average health,Sporadic,Creative
+Role901,61,genderqueer,Engineer,Extroverted,Direct,Video Games,Graduate Degree,Eastern,French,Intermediate,Voice,Active,Christianity,Married,High income,Average health,Part-time,Practical
+Role902,34,female,Engineer,Traditional,Informal,Video Games,Bachelor,Western,English,Intermediate,Video,Sedentary,Humanism,Married,High income,Health-conscious,Full-time,Creative
+Role903,34,nondisclosed,Artist,Innovative,Empathetic,Sports,Graduate Degree,Middle Eastern,Mandarin,Novice,Video,Sedentary,Humanism,In a relationship,Middle income,Healthy,Full-time,Creative
+Role904,44,nondisclosed,Doctor,Traditional,Informal,Painting,Graduate Degree,Middle Eastern,Mandarin,Expert,Voice,Sedentary,Humanism,In a relationship,High income,Health-conscious,Full-time,Collaborative
+Role905,44,male,Student,Innovative,Empathetic,Reading,High School,Eastern,English,Intermediate,Text,Active,Islam,Married,Low income,Average health,Part-time,Practical
+Role906,54,male,Retired,Introverted,Formal,Sports,High School,African,English,Expert,Text,Active,Humanism,Divorced,Low income,Health-conscious,Sporadic,Practical
+Role907,78,genderqueer,Student,Traditional,Informal,Painting,Bachelor,Western,French,Expert,Text,Sedentary,Christianity,Single,Middle income,Health-conscious,Full-time,Collaborative
+Role908,21,genderqueer,Teacher,Extroverted,Empathetic,Video Games,Bachelor,African,English,Novice,Video,Sedentary,Islam,Single,Low income,Healthy,Sporadic,Analytical
+Role909,20,genderqueer,Student,Traditional,Mixed,Video Games,Bachelor,Middle Eastern,Spanish,Expert,Voice,Sedentary,Christianity,In a relationship,Low income,Average health,Sporadic,Creative
+Role910,44,male,Engineer,Extroverted,Empathetic,Painting,High School,Western,English,Intermediate,Video,Active,Islam,Divorced,High income,Healthy,Sporadic,Analytical
+Role911,26,female,Teacher,Innovative,Humorous,Video Games,Bachelor,Eastern,French,Novice,Voice,Sedentary,Christianity,Single,Low income,Healthy,Full-time,Collaborative
+Role912,73,female,Retired,Traditional,Direct,Reading,Bachelor,Middle Eastern,French,Novice,Voice,Active,Humanism,Divorced,Middle income,Healthy,Part-time,Collaborative
+Role913,56,genderqueer,Teacher,Extroverted,Mixed,Video Games,High School,Middle Eastern,Mandarin,Intermediate,Video,Sedentary,Christianity,In a relationship,Low income,Healthy,Full-time,Collaborative
+Role914,18,nondisclosed,Student,Innovative,Informal,Painting,Bachelor,Middle Eastern,Spanish,Intermediate,Voice,Sedentary,Environmentalism,In a relationship,Middle income,Average health,Sporadic,Analytical
+Role915,66,nondisclosed,Engineer,Extroverted,Mixed,Sports,Bachelor,Middle Eastern,Spanish,Novice,Mixed,Sedentary,Atheism,Single,Middle income,Health-conscious,Part-time,Analytical
+Role916,80,nondisclosed,Engineer,Innovative,Direct,Sports,Graduate Degree,Eastern,English,Intermediate,Video,Active,Atheism,In a relationship,High income,Healthy,Full-time,Practical
+Role917,37,female,Retired,Innovative,Informal,Traveling,Graduate Degree,African,French,Expert,Video,Active,Christianity,Single,Low income,Average health,Part-time,Analytical
+Role918,73,nondisclosed,Teacher,Innovative,Empathetic,Traveling,Bachelor,Middle Eastern,English,Novice,Voice,Active,Humanism,Single,Low income,Healthy,Sporadic,Creative
+Role919,79,female,Teacher,Traditional,Formal,Painting,Graduate Degree,Western,Mandarin,Expert,Mixed,Sedentary,Humanism,Widowed,Middle income,Healthy,Part-time,Analytical
+Role920,64,genderqueer,Doctor,Extroverted,Empathetic,Traveling,Bachelor,African,Spanish,Intermediate,Voice,Active,Atheism,Divorced,High income,Health-conscious,Part-time,Collaborative
+Role921,64,nondisclosed,Engineer,Introverted,Empathetic,Sports,Graduate Degree,Western,Spanish,Expert,Voice,Active,Islam,Widowed,Middle income,Healthy,Part-time,Creative
+Role922,70,genderqueer,Teacher,Traditional,Humorous,Sports,High School,Eastern,Spanish,Novice,Mixed,Active,Islam,Married,Low income,Healthy,Sporadic,Creative
+Role923,66,genderqueer,Engineer,Innovative,Humorous,Sports,Bachelor,Middle Eastern,Mandarin,Novice,Voice,Sedentary,Atheism,Divorced,Low income,Average health,Sporadic,Practical
+Role924,21,genderqueer,Student,Extroverted,Direct,Reading,Graduate Degree,African,French,Expert,Video,Sedentary,Humanism,Single,Middle income,Healthy,Part-time,Practical
+Role925,39,genderqueer,Engineer,Extroverted,Mixed,Traveling,Bachelor,African,French,Novice,Mixed,Sedentary,Christianity,Widowed,High income,Healthy,Part-time,Creative
+Role926,79,genderqueer,Teacher,Innovative,Mixed,Traveling,Graduate Degree,African,Mandarin,Intermediate,Mixed,Active,Islam,In a relationship,Middle income,Average health,Part-time,Collaborative
+Role927,58,nondisclosed,Doctor,Traditional,Direct,Sports,High School,Middle Eastern,English,Intermediate,Mixed,Active,Christianity,Widowed,Middle income,Average health,Sporadic,Practical
+Role928,78,male,Doctor,Innovative,Mixed,Cooking,Graduate Degree,Western,French,Intermediate,Text,Sedentary,Christianity,Divorced,Middle income,Healthy,Full-time,Collaborative
+Role929,59,genderqueer,Student,Innovative,Informal,Cooking,High School,Middle Eastern,French,Expert,Video,Sedentary,Atheism,In a relationship,Low income,Healthy,Full-time,Collaborative
+Role930,53,female,Scientist,Innovative,Mixed,Sports,High School,Western,French,Novice,Video,Active,Atheism,Single,Low income,Average health,Part-time,Practical
+Role931,35,male,Student,Extroverted,Empathetic,Video Games,Bachelor,Western,Spanish,Novice,Text,Active,Humanism,Widowed,High income,Average health,Part-time,Collaborative
+Role932,35,genderqueer,Scientist,Innovative,Empathetic,Video Games,High School,African,French,Novice,Voice,Active,Islam,Single,High income,Average health,Sporadic,Creative
+Role933,65,male,Student,Introverted,Mixed,Painting,Bachelor,Eastern,English,Intermediate,Text,Active,Environmentalism,Widowed,Middle income,Average health,Full-time,Creative
+Role934,59,female,Scientist,Innovative,Empathetic,Painting,High School,Eastern,French,Expert,Text,Active,Environmentalism,Single,High income,Healthy,Full-time,Collaborative
+Role935,34,genderqueer,Engineer,Introverted,Direct,Painting,High School,Eastern,French,Intermediate,Voice,Active,Humanism,In a relationship,Middle income,Healthy,Full-time,Analytical
+Role936,23,genderqueer,Student,Extroverted,Informal,Video Games,Bachelor,Middle Eastern,Mandarin,Expert,Voice,Active,Atheism,Married,High income,Healthy,Full-time,Collaborative
+Role937,45,female,Engineer,Extroverted,Direct,Cooking,Graduate Degree,African,English,Expert,Voice,Sedentary,Environmentalism,Married,Middle income,Average health,Part-time,Collaborative
+Role938,47,female,Teacher,Introverted,Mixed,Video Games,Bachelor,African,English,Novice,Video,Active,Environmentalism,Divorced,High income,Average health,Part-time,Creative
+Role939,56,female,Engineer,Extroverted,Humorous,Cooking,Graduate Degree,Middle Eastern,French,Novice,Voice,Active,Islam,Divorced,Low income,Health-conscious,Part-time,Analytical
+Role940,56,female,Artist,Traditional,Mixed,Traveling,Bachelor,Western,Spanish,Intermediate,Text,Sedentary,Environmentalism,Single,High income,Healthy,Part-time,Creative
+Role941,29,male,Doctor,Traditional,Formal,Reading,Bachelor,African,Spanish,Novice,Mixed,Sedentary,Christianity,Widowed,Middle income,Healthy,Full-time,Creative
+Role942,67,nondisclosed,Engineer,Traditional,Direct,Painting,Graduate Degree,Middle Eastern,French,Intermediate,Mixed,Active,Humanism,In a relationship,High income,Health-conscious,Sporadic,Collaborative
+Role943,53,male,Doctor,Introverted,Direct,Painting,Bachelor,African,Spanish,Novice,Voice,Sedentary,Islam,Widowed,Low income,Healthy,Part-time,Collaborative
+Role944,24,male,Retired,Traditional,Formal,Cooking,Graduate Degree,African,Mandarin,Novice,Voice,Active,Humanism,Single,High income,Healthy,Full-time,Creative
+Role945,62,genderqueer,Teacher,Introverted,Humorous,Reading,High School,Western,Mandarin,Expert,Mixed,Active,Humanism,Divorced,High income,Average health,Sporadic,Practical
+Role946,75,female,Scientist,Innovative,Mixed,Reading,High School,Middle Eastern,Spanish,Expert,Mixed,Active,Christianity,Widowed,Middle income,Average health,Part-time,Analytical
+Role947,40,female,Doctor,Traditional,Humorous,Reading,Bachelor,Western,English,Intermediate,Text,Active,Environmentalism,Divorced,Middle income,Healthy,Full-time,Collaborative
+Role948,35,genderqueer,Retired,Introverted,Humorous,Painting,Graduate Degree,African,Mandarin,Intermediate,Voice,Active,Atheism,Married,High income,Healthy,Sporadic,Practical
+Role949,49,male,Teacher,Traditional,Direct,Cooking,Bachelor,African,Spanish,Novice,Mixed,Sedentary,Atheism,Divorced,Middle income,Health-conscious,Sporadic,Practical
+Role950,33,genderqueer,Scientist,Traditional,Formal,Cooking,High School,Middle Eastern,Mandarin,Intermediate,Video,Sedentary,Islam,Married,Middle income,Healthy,Full-time,Practical
+Role951,20,male,Scientist,Traditional,Formal,Reading,High School,Western,English,Novice,Text,Active,Environmentalism,Widowed,Middle income,Health-conscious,Part-time,Creative
+Role952,64,male,Scientist,Traditional,Mixed,Traveling,Bachelor,Middle Eastern,English,Novice,Mixed,Active,Islam,Divorced,Low income,Health-conscious,Sporadic,Collaborative
+Role953,33,nondisclosed,Doctor,Extroverted,Informal,Painting,High School,Western,Spanish,Intermediate,Video,Active,Humanism,In a relationship,Low income,Health-conscious,Sporadic,Collaborative
+Role954,52,nondisclosed,Retired,Extroverted,Mixed,Video Games,High School,Middle Eastern,French,Expert,Text,Sedentary,Islam,In a relationship,Low income,Health-conscious,Part-time,Creative
+Role955,29,female,Engineer,Extroverted,Mixed,Cooking,Graduate Degree,African,Mandarin,Intermediate,Mixed,Sedentary,Environmentalism,Divorced,Low income,Health-conscious,Sporadic,Collaborative
+Role956,66,male,Teacher,Introverted,Formal,Cooking,High School,Western,Spanish,Expert,Text,Sedentary,Islam,Married,Middle income,Health-conscious,Part-time,Collaborative
+Role957,18,genderqueer,Engineer,Traditional,Empathetic,Traveling,Bachelor,African,Spanish,Intermediate,Mixed,Active,Islam,Widowed,Low income,Healthy,Full-time,Practical
+Role958,75,nondisclosed,Student,Traditional,Informal,Traveling,Graduate Degree,Western,English,Novice,Voice,Active,Environmentalism,In a relationship,High income,Health-conscious,Sporadic,Creative
+Role959,53,female,Scientist,Innovative,Direct,Painting,Graduate Degree,Eastern,English,Novice,Text,Sedentary,Environmentalism,Married,Middle income,Average health,Full-time,Collaborative
+Role960,59,female,Retired,Extroverted,Direct,Sports,Graduate Degree,Middle Eastern,French,Expert,Mixed,Active,Islam,Single,Middle income,Average health,Part-time,Creative
+Role961,58,female,Artist,Innovative,Direct,Painting,High School,Middle Eastern,French,Novice,Voice,Active,Atheism,Divorced,Low income,Average health,Full-time,Creative
+Role962,73,nondisclosed,Artist,Introverted,Informal,Reading,Bachelor,Eastern,Mandarin,Expert,Mixed,Sedentary,Atheism,Married,High income,Average health,Part-time,Practical
+Role963,58,nondisclosed,Retired,Introverted,Direct,Video Games,High School,Eastern,Mandarin,Novice,Video,Sedentary,Islam,Single,Low income,Average health,Full-time,Analytical
+Role964,52,female,Scientist,Extroverted,Humorous,Painting,Graduate Degree,Western,French,Intermediate,Text,Active,Humanism,Divorced,High income,Healthy,Full-time,Creative
+Role965,48,male,Scientist,Innovative,Mixed,Painting,High School,Eastern,French,Intermediate,Mixed,Active,Environmentalism,Married,Low income,Health-conscious,Sporadic,Practical
+Role966,53,female,Student,Traditional,Direct,Cooking,Bachelor,Eastern,English,Intermediate,Text,Sedentary,Atheism,Single,Low income,Average health,Sporadic,Analytical
+Role967,55,male,Teacher,Extroverted,Empathetic,Traveling,Bachelor,African,Mandarin,Intermediate,Video,Sedentary,Islam,Divorced,High income,Average health,Full-time,Creative
+Role968,40,genderqueer,Retired,Introverted,Informal,Reading,Bachelor,Middle Eastern,Mandarin,Novice,Voice,Active,Humanism,In a relationship,Middle income,Healthy,Part-time,Practical
+Role969,29,male,Retired,Traditional,Empathetic,Reading,Bachelor,Eastern,Spanish,Novice,Mixed,Sedentary,Islam,In a relationship,High income,Healthy,Full-time,Practical
+Role970,34,nondisclosed,Artist,Traditional,Mixed,Painting,Bachelor,Western,Mandarin,Intermediate,Mixed,Active,Christianity,In a relationship,High income,Healthy,Full-time,Analytical
+Role971,76,female,Artist,Extroverted,Empathetic,Traveling,Graduate Degree,Western,English,Intermediate,Mixed,Active,Islam,Widowed,High income,Healthy,Part-time,Practical
+Role972,67,male,Artist,Extroverted,Informal,Sports,Graduate Degree,Eastern,Spanish,Novice,Video,Sedentary,Humanism,In a relationship,Middle income,Healthy,Part-time,Collaborative
+Role973,29,male,Student,Extroverted,Empathetic,Video Games,High School,Western,Mandarin,Novice,Mixed,Active,Islam,Divorced,Middle income,Healthy,Sporadic,Practical
+Role974,26,genderqueer,Doctor,Innovative,Empathetic,Traveling,Bachelor,Eastern,French,Expert,Mixed,Active,Atheism,Married,Low income,Health-conscious,Full-time,Collaborative
+Role975,35,female,Retired,Extroverted,Informal,Painting,Bachelor,Middle Eastern,English,Novice,Video,Sedentary,Environmentalism,Single,High income,Healthy,Sporadic,Practical
+Role976,55,genderqueer,Engineer,Innovative,Informal,Cooking,High School,Western,English,Expert,Voice,Active,Humanism,Married,Middle income,Health-conscious,Sporadic,Creative
+Role977,59,genderqueer,Student,Introverted,Direct,Video Games,High School,Eastern,English,Expert,Text,Active,Islam,Single,High income,Health-conscious,Full-time,Creative
+Role978,73,genderqueer,Student,Extroverted,Humorous,Reading,High School,Western,English,Expert,Mixed,Active,Islam,Widowed,Middle income,Health-conscious,Sporadic,Practical
+Role979,20,genderqueer,Artist,Innovative,Mixed,Painting,Graduate Degree,Middle Eastern,Spanish,Intermediate,Voice,Active,Christianity,Widowed,Low income,Healthy,Part-time,Analytical
+Role980,68,nondisclosed,Student,Traditional,Direct,Traveling,Bachelor,Middle Eastern,English,Intermediate,Text,Sedentary,Islam,Single,High income,Healthy,Part-time,Practical
+Role981,77,nondisclosed,Teacher,Introverted,Empathetic,Cooking,Bachelor,Western,English,Novice,Voice,Sedentary,Humanism,Widowed,High income,Health-conscious,Sporadic,Practical
+Role982,42,nondisclosed,Retired,Introverted,Empathetic,Sports,Bachelor,Middle Eastern,Spanish,Intermediate,Mixed,Active,Christianity,Widowed,Low income,Healthy,Sporadic,Collaborative
+Role983,49,male,Doctor,Traditional,Empathetic,Painting,Bachelor,African,Mandarin,Novice,Text,Active,Christianity,Divorced,High income,Average health,Full-time,Collaborative
+Role984,51,female,Student,Innovative,Humorous,Painting,Bachelor,African,French,Expert,Voice,Active,Christianity,Divorced,Low income,Healthy,Part-time,Creative
+Role985,44,female,Engineer,Traditional,Informal,Reading,Bachelor,Middle Eastern,Spanish,Intermediate,Text,Active,Environmentalism,Divorced,High income,Healthy,Full-time,Creative
+Role986,76,male,Retired,Traditional,Empathetic,Cooking,Bachelor,African,Spanish,Novice,Mixed,Sedentary,Christianity,Single,Middle income,Healthy,Sporadic,Practical
+Role987,74,female,Student,Extroverted,Informal,Traveling,Bachelor,Middle Eastern,Mandarin,Expert,Voice,Sedentary,Christianity,Divorced,Middle income,Average health,Full-time,Analytical
+Role988,65,genderqueer,Artist,Innovative,Formal,Sports,Bachelor,Eastern,French,Intermediate,Mixed,Sedentary,Christianity,Single,High income,Health-conscious,Sporadic,Creative
+Role989,29,genderqueer,Artist,Introverted,Direct,Painting,Bachelor,African,Spanish,Expert,Voice,Sedentary,Humanism,Married,High income,Health-conscious,Sporadic,Analytical
+Role990,69,male,Doctor,Extroverted,Informal,Video Games,Graduate Degree,Western,Mandarin,Novice,Text,Active,Islam,Divorced,High income,Average health,Full-time,Analytical
+Role991,37,male,Retired,Traditional,Informal,Cooking,Bachelor,African,Mandarin,Expert,Voice,Active,Environmentalism,Widowed,Middle income,Health-conscious,Part-time,Creative
+Role992,30,nondisclosed,Retired,Introverted,Humorous,Reading,Graduate Degree,Middle Eastern,Spanish,Expert,Text,Active,Environmentalism,Married,Low income,Average health,Full-time,Analytical
+Role993,23,genderqueer,Engineer,Introverted,Mixed,Reading,Bachelor,Middle Eastern,Spanish,Novice,Text,Active,Christianity,Married,Low income,Health-conscious,Full-time,Collaborative
+Role994,56,nondisclosed,Student,Introverted,Formal,Painting,Graduate Degree,Middle Eastern,Mandarin,Expert,Text,Active,Environmentalism,Divorced,Middle income,Health-conscious,Part-time,Analytical
+Role995,45,female,Teacher,Extroverted,Mixed,Traveling,Bachelor,Eastern,French,Novice,Mixed,Active,Islam,Single,Low income,Average health,Sporadic,Collaborative
+Role996,79,male,Doctor,Innovative,Formal,Sports,Graduate Degree,Western,Spanish,Expert,Mixed,Sedentary,Humanism,Single,High income,Healthy,Sporadic,Creative
+Role997,74,female,Scientist,Introverted,Informal,Cooking,Bachelor,Western,French,Expert,Video,Sedentary,Christianity,Divorced,High income,Average health,Part-time,Analytical
+Role998,78,female,Doctor,Innovative,Empathetic,Reading,Graduate Degree,Western,French,Novice,Video,Active,Environmentalism,In a relationship,Middle income,Healthy,Sporadic,Collaborative
+Role999,25,nondisclosed,Doctor,Traditional,Direct,Reading,Graduate Degree,Eastern,French,Expert,Video,Sedentary,Environmentalism,In a relationship,Middle income,Healthy,Sporadic,Practical
+Role1000,79,male,Retired,Extroverted,Mixed,Painting,Bachelor,Eastern,English,Expert,Voice,Active,Environmentalism,Single,Middle income,Healthy,Full-time,Creative
