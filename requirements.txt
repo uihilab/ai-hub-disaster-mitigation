@@ -1,0 +1,4 @@
+autogen
+PyMuPDF
+openai
+pandas
