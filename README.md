@@ -45,6 +45,11 @@ git clone https://github.com/uihilab/ai-hub-disaster-mitigation.git
 cd flood-mitigation-tool
 ```
 
+2. Install the required Python packages:
+```   
+pip install -r requirements.txt
+```
+
 
 
 
