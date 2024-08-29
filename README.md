@@ -41,7 +41,7 @@ The key objective is to optimize disaster mitigation strategies, ensuring maximu
 1. Clone this repository:
 
 ```
-git clone https://github.com/yourusername/flood-mitigation-tool.git
+git clone https://github.com/uihilab/ai-hub-disaster-mitigation.git
 cd flood-mitigation-tool
 ```
 
