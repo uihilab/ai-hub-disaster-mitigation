@@ -36,6 +36,16 @@ The key objective is to optimize disaster mitigation strategies, ensuring maximu
 - openai
 - pandas
 
+### Steps
+
+1. Clone this repository:
+
+`git clone https://github.com/yourusername/flood-mitigation-tool.git
+cd flood-mitigation-tool`
+
+
+
+
 
 
 
