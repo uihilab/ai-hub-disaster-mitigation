@@ -83,6 +83,11 @@ CSV File: Detailing the options chosen, budget spent, and remaining budget for e
    ![image](https://github.com/user-attachments/assets/061de146-fae4-40f1-9af8-0876c7f36a3c)
 - The charts illustrate how various features (e.g., Age, Occupation, Interests, etc.) influence the budget spent and the options chosen during the decision-making process.
 
+2. Histogram of Selected Single Options Chosen:
+   ![image](https://github.com/user-attachments/assets/34d377a0-9b94-4b70-bb25-6660b4d63edc)
+- This histogram shows the frequency of specific options selected during the flood mitigation planning, providing insights into the most commonly chosen strategies.
+
+
 # Technology Stack
 
 - autogen Library: Manages the interactions and coordination between AI agents, enabling complex simulations with customized roles and behaviors.
