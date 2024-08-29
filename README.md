@@ -40,8 +40,10 @@ The key objective is to optimize disaster mitigation strategies, ensuring maximu
 
 1. Clone this repository:
 
-`git clone https://github.com/yourusername/flood-mitigation-tool.git
-cd flood-mitigation-tool`
+```
+git clone https://github.com/yourusername/flood-mitigation-tool.git
+cd flood-mitigation-tool
+```
 
 
 
