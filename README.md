@@ -5,11 +5,11 @@ This repository contains a Python-based tool designed to facilitate decision-mak
 
 # Table of Contents
 
-Project Overview
-Features
-Installation
-Usage
-Code Structure
-Inputs and Outputs
+- Project Overview
+- Features
+- Installation
+- Usage
+- Code Structure
+- Inputs and Outputs
 
 
