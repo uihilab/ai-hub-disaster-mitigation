@@ -30,7 +30,7 @@ The key objective is to optimize disaster mitigation strategies, ensuring maximu
 ## Prerequisites
 - Python 3.x
 
-## Required Python Libraries:
+### Required Python Libraries:
 - autogen
 - fitz (PyMuPDF)
 - openai
