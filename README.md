@@ -60,7 +60,7 @@ pip install -r requirements.txt
 3. Ensure the paths to your PDF files and CSV file are correctly specified in the script. The script will extract text from the PDFs, simulate a decision-making process using the roles defined in the CSV, and save the results to a CSV file.
 4. Run the script:
 ```
-python flood_mitigation_tool.py
+python Disaster_mitigation.py
 ```
 5. The outputs will be saved as a CSV file containing the options chosen by each role.
 
