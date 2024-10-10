@@ -1,7 +1,7 @@
 # ai-hub-disaster-mitigation
 Decision-Making Process for Water Resources Planning and Hazard Mitigation Using AI-Driven Agents
 
-This repository contains a Python-based tool designed to facilitate decision-making for disaster mitigation and water resource management. The tool leverages AI-driven agents, using the autogen library and OpenAI's GPT models, to simulate discussions and optimize strategies for protecting water resources, habitats, and communities.
+This repository contains the implementation of the Multi-Hazard Tournament (MHT) framework using AI-driven tools for decision-making in water resource planning and hazard mitigation. The project integrates AutoGen and DarkIdol-Llama models to simulate interactions among community stakeholders based on various demographic factors.
 
 # Table of Contents
 
@@ -14,7 +14,8 @@ This repository contains a Python-based tool designed to facilitate decision-mak
 
 # Project Overview
 
-This project is built to assist stakeholders in making informed decisions about flood mitigation strategies. It utilizes a set of AI agents configured with specific roles and personality traits, using the autogen library to manage agent interactions and OpenAI's GPT models for generating responses.
+The project explores how individual factors such as age, occupation, and personal values can influence budget allocation and the selection of mitigation strategies. By leveraging AI agents that represent diverse community members, the framework promotes a collaborative and adaptive approach to resource management, enhancing both the technical and social dimensions of decision-making.
+
 
 The key objective is to optimize disaster mitigation strategies, ensuring maximum protection within a given budget while considering recreational enhancements for community benefit.
 
@@ -35,6 +36,8 @@ The key objective is to optimize disaster mitigation strategies, ensuring maximu
 - fitz (PyMuPDF)
 - openai
 - pandas
+- torch
+- llama-cpp
 
 ### Steps
 
