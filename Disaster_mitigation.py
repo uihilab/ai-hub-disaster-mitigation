@@ -9,15 +9,19 @@ use_docker = False
 
 llm_config = {
     "config_list": [
-        {
-            "model": "gpt-4o-mini",
-            "api_key": "YOUR_API_KEY_HERE",  # Replace with your actual API key
-        }
+        {"model": "gpt-4o-mini", "api_key": "-----------------"}  # Replace with your actual API key
     ],
-    "seed": 32
+    "seed": 32,
+    "temperature": 1,
+    "max_tokens": 2048,
+    "top_p": 1,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "response_format": {"type": "json_object"}
 }
 
-discussion_reminder = "Just give me the adaptation options chosen and strategies, budget used, and budget remaining as the columns in the response together in JSON format"
+discussion_reminder = ("Just give me the adaptation options chosen and strategies, "
+                       "budget used, and budget remaining as the columns in the response together")
 
 def extract_text_from_pdfs(pdf_paths):
     """Extract text from a list of PDF files."""
@@ -31,35 +35,9 @@ def extract_text_from_pdfs(pdf_paths):
         all_text += text
     return all_text
 
-# Paths to the PDFs
-pdf_paths = ['path/to/your/pdf1.pdf']  # Replace with your actual PDF paths
-reso_path = ['path/to/your/pdf2.pdf']  # Replace with your actual PDF paths
-
-rec_options = """
-[
-    {"Zone Name": "Shelter—Small", "Cost": "$25,000", "RecreationIndex": 1},
-    {"Zone Name": "Basketball—Small", "Cost": "$15,000", "RecreationIndex": 1},
-    {"Zone Name": "Football", "Cost": "$100,000", "RecreationIndex": 2},
-    {"Zone Name": "Open Area—Small", "Cost": "$7,500", "RecreationIndex": 2},
-    {"Zone Name": "Shelter—Medium", "Cost": "$45,000", "RecreationIndex": 2},
-    {"Zone Name": "Soccer—Small", "Cost": "$40,000", "RecreationIndex": 2},
-    {"Zone Name": "Volleyball—Small", "Cost": "$50,000", "RecreationIndex": 2},
-    {"Zone Name": "Exercise Area—Small", "Cost": "$20,000", "RecreationIndex": 3},
-    {"Zone Name": "Picnic Area", "Cost": "$4,000", "RecreationIndex": 3},
-    {"Zone Name": "Playground—Large", "Cost": "$500,000", "RecreationIndex": 3},
-    {"Zone Name": "Shelter—Large", "Cost": "$100,000", "RecreationIndex": 3},
-    {"Zone Name": "Soccer—Large", "Cost": "$115,000", "RecreationIndex": 3},
-    {"Zone Name": "Track", "Cost": "$400,000", "RecreationIndex": 3},
-    {"Zone Name": "Trail—Small", "Cost": "$10,000", "RecreationIndex": 3},
-    {"Zone Name": "Amphitheater", "Cost": "$50,000", "RecreationIndex": 4},
-    {"Zone Name": "Open Area—Large", "Cost": "$90,000", "RecreationIndex": 4},
-    {"Zone Name": "Playground—Small", "Cost": "$100,000", "RecreationIndex": 4},
-    {"Zone Name": "Soccer—Medium", "Cost": "$75,000", "RecreationIndex": 4},
-    {"Zone Name": "Softball/Baseball—Small", "Cost": "$200,000", "RecreationIndex": 4},
-    {"Zone Name": "Trail—Medium", "Cost": "$30,000", "RecreationIndex": 4},
-    {"Zone Name": "Trail—Large", "Cost": "$150,000", "RecreationIndex": 5}
-]
-"""
+# Define the paths to the PDFs
+pdf_paths = ['path_to_pdf_1.pdf']  # Replace with your actual PDF path
+reso_path = ['path_to_resource_pdf.pdf']  # Replace with your actual PDF path
 
 # Extract text from PDFs
 pdf_text = extract_text_from_pdfs(pdf_paths)
@@ -69,48 +47,23 @@ reso_text = extract_text_from_pdfs(reso_path)
 initial_message = f"""
 **Topic of Discussion:** Decision-Making Process for Flood Mitigation
 
-**Objective:** Optimize mitigation strategies to protect water resources, habitats, and communities at Damage Center (DC - San Antonio 02). Use the budget to get maximum benefits and also try to save.
+Optimize mitigation strategies to protect water resources, habitats, and communities. 
+Prioritize achieving maximum benefits within the budget, while identifying opportunities 
+for cost savings where feasible.
 
 **Location and Issue:** Find it in the Resources
-
 **Total Budget:** $15,000,000
-
 **Remaining Budget:** To be calculated based on the discussion and decisions.
-
 **Adaptation Options Considered:** To be considered from the Resources.
-
 **Reference Material:** (just use this for reference)
 {pdf_text}
-
 **Resources:** (Take options from here)
 {reso_text}
-
-**Note:** {discussion_reminder} so the structure is:
-
-Adaptation options: (Just the options along with cost and justification)
-
-Budget Spent: (Give me the breakdown of calculation, calculate correctly do not give me wrong answers)
-
-Budget Remaining: (Give me the breakdown of calculation, calculate correctly do not give me wrong answers)
-
-Consider the options from this:
-
-{reso_text} 
-
-And also consider recreational add-ons from this:
-
-{rec_options}
+**Note:** {discussion_reminder}
 """
 
-# Define the user_proxy agent
-user_proxy = autogen.AssistantAgent(
-    name="user_proxy",
-    system_message="Represents the user in the conversation.",
-    llm_config=llm_config,
-)
-
-# Load roles from CSV file
-roles_df = pd.read_csv('path/to/your/roles.csv')  # Replace with your actual CSV path
+# Load roles from CSV
+roles_df = pd.read_csv('path_to_roles_csv.csv')  # Replace with your actual CSV path
 
 # Collect responses for each role
 responses = []
@@ -119,7 +72,6 @@ for index, row in roles_df.iterrows():
     role_name = row['Role']
     role_system_message = f"""
     You should behave taking the below traits:
-
     Age: {row['Age']}
     Gender: {row['Gender']}
     Occupation: {row['Occupation']}
@@ -139,7 +91,7 @@ for index, row in roles_df.iterrows():
     Time Availability: {row['Time Availability']}
     Problem-solving Approach: {row['Problem-solving Approach']}
     """
-    
+
     # Define the role agent
     role_agent = autogen.AssistantAgent(
         name=role_name,
@@ -148,15 +100,11 @@ for index, row in roles_df.iterrows():
     )
 
     # Initialize GroupChat for the role
-    groupchat = autogen.GroupChat(
-        agents=[user_proxy, role_agent],
-        messages=[],
-        max_round=2
-    )
+    groupchat = autogen.GroupChat(agents=[user_proxy, role_agent], messages=[], max_round=2)
 
     # Initialize GroupChatManager for the role
     manager = autogen.GroupChatManager(groupchat=groupchat, llm_config=llm_config)
-    
+
     # Initiate chat and run
     chat_result = user_proxy.initiate_chat(manager, message=initial_message)
     
@@ -174,6 +122,6 @@ for index, row in roles_df.iterrows():
 
 # Save responses to CSV
 options_df = pd.DataFrame(responses)
-options_df.to_csv('path/to/your/output.csv', index=False)  # Replace with your actual output path
+options_df.to_csv('output_responses.csv', index=False)
 
-print("Responses and options chosen have been saved to 'output.csv'")
+print("Responses and options chosen have been saved to 'output_responses.csv'")
