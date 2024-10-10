@@ -22,8 +22,7 @@ The key objective is to optimize disaster mitigation strategies, ensuring maximu
 # Features
 
 - PDF Text Extraction: Extracts and processes text from PDF documents to provide context for decision-making.
-- AI-Driven Agents: Simulates discussions using AI agents powered by OpenAI's GPT models, configured through the autogen library.
-- Budget Optimization: Calculates budget expenditure and remaining funds based on chosen strategies and adaptation options.
+- AI-Driven Agents: Simulates discussions using AI agents powered by OpenAI's GPT models, configured through the autogen library and Dark-Idol LLM.
 - Customizable Roles: Users can define roles with specific characteristics to simulate diverse perspectives.
 
 # Installation
