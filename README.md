@@ -99,7 +99,7 @@ CSV File: Detailing the options chosen, budget spent, and remaining budget for e
 
 
 
-#Acknowledgments
+# Acknowledgments
 
 - Thank you to all the contributors who have helped shape this project.
 - Special thanks to QuantFactory for providing access to the DarkIdol-Llama model.
