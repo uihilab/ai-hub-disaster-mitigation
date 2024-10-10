@@ -2,3 +2,5 @@ autogen
 PyMuPDF
 openai
 pandas
+llama_cpp
+torch
