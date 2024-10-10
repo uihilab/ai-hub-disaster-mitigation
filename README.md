@@ -58,17 +58,19 @@ pip install -r requirements.txt
 1. Prepare the necessary input files:
 - PDF Files: Relevant documents containing flood mitigation strategies.
 - CSV Files: Define the roles and their characteristics.
-2. Configure the script with your OpenAI API key and any other necessary configurations.
+2. Configure the script with your OpenAI API key and any other necessary configurations.(Ignore this step for Dark Idol simulation)
 3. Ensure the paths to your PDF files and CSV file are correctly specified in the script. The script will extract text from the PDFs, simulate a decision-making process using the roles defined in the CSV, and save the results to a CSV file.
 4. Run the script:
 ```
-python Disaster_mitigation.py
+python Disaster_mitigation(AutoGen).py    ## For AutoGen simulation
+python Disaster_mitigation(DarkIdol).py    ## For Dark-Idol simulation
+
 ```
 5. The outputs will be saved as a CSV file containing the options chosen by each role.
 
 # Code Structure
 
-- flood_mitigation_tool.py: Main script to run the decision-making process.
+- Disaster_mitigation(AutoGen).py and Disaster_mitigation(DarkIdol).py : Main script to run the decision-making process.
 - requirements.txt: List of required Python libraries.
 - README.md: Project documentation.
   
@@ -85,15 +87,23 @@ CSV File: Detailing the options chosen, budget spent, and remaining budget for e
    ![image](https://github.com/user-attachments/assets/061de146-fae4-40f1-9af8-0876c7f36a3c)
 - The charts illustrate how various features (e.g., Age, Occupation, Interests, etc.) influence the budget spent and the options chosen during the decision-making process.
 
-2. Histogram of Selected Single Options Chosen:
-   ![image](https://github.com/user-attachments/assets/34d377a0-9b94-4b70-bb25-6660b4d63edc)
-- This histogram shows the frequency of specific options selected during the flood mitigation planning, providing insights into the most commonly chosen strategies.
+2. Histogram of Selected Recreational Options Chosen:
+   ![image](https://github.com/user-attachments/assets/552c5a0e-eff6-4fa7-9a48-9fd6d296f581)
+
+- This histogram shows the frequency of Recreational Options Chosen in DarkIdol-Llama-3.1-8B model.
+
+   ![image](https://github.com/user-attachments/assets/3a8bf403-6c10-48a6-b3ca-6c8f91e81fdb)
 
 
-# Technology Stack
+- This histogram shows the frequency of Recreational Options Chosen in AutoGen model.
 
-- autogen Library: Manages the interactions and coordination between AI agents, enabling complex simulations with customized roles and behaviors.
-- OpenAI GPT Models: Power the AI agents, generating realistic and contextually appropriate responses during the decision-making process.
+
+
+#Acknowledgments
+
+- Thank you to all the contributors who have helped shape this project.
+- Special thanks to QuantFactory for providing access to the DarkIdol-Llama model.
+- Thanks to OpenAI for the GPT models
 
 
 
