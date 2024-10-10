@@ -1,4 +1,4 @@
-# ai-hub-disaster-mitigation
+# AI-Hub-disaster-mitigation
 Decision-Making Process for Water Resources Planning and Hazard Mitigation Using AI-Driven Agents
 
 This repository contains the implementation of the Multi-Hazard Tournament (MHT) framework using AI-driven tools for decision-making in water resource planning and hazard mitigation. The project integrates AutoGen and DarkIdol-Llama models to simulate interactions among community stakeholders based on various demographic factors.
