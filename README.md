@@ -11,6 +11,7 @@ This repository contains the implementation of the Multi-Hazard Tournament (MHT)
 - Usage
 - Code Structure
 - Inputs and Outputs
+- Acknowledgments
 
 # Project Overview
 
